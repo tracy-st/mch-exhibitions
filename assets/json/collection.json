@@ -1,0 +1,543 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:8000/collection.json",
+  "type": "Collection",
+  "label": {
+    "none": [
+      "My Collection"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/102/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/103/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/104/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/105/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/106/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/112/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/113/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/114/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/130/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/131/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/132/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/133/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/134/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/135/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/136/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/137/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/139/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/140/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/142/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/143/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/144/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/145/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/146/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/147/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/148/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/149/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/150/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/151/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/153/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/154/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/155/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/156/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/157/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/158/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/159/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/160/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/26/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/35/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/36/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/37/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/38/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/40/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/43/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/44/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/45/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/46/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/47/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/48/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/49/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/51/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/52/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/54/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/55/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/56/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/57/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/58/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/59/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/74/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/98/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dispersed Bhagavata Purana"
+        ]
+      }
+    }
+  ]
+}

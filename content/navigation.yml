@@ -1,5 +1,7 @@
 navigation:
+  - href: /exhibition
+    label: Exhibition
   - href: /search
-    label: Works
+    label: Objects
   - href: /about
     label: About

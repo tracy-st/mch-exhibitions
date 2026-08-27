@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:8000/collection.json",
+  "id": "https://tracy-st.github.io/mch-exhibitions/json/collection.json",
   "type": "Collection",
   "label": {
     "none": [

@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://artshumrc.github.io/mch-research/exhibitions/json/merged.json",
+  "id": "https://tracy-st.github.io/mch-exhibitions/json/merged.json",
   "type": "Manifest",
   "label": {
     "none": [

@@ -1,0 +1,5421 @@
+{
+"@context": "http://www.shared-canvas.org/ns/context.json",
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/collections/8/manifest.json",
+"@type": "sc:Manifest",
+"label": "Dispersed Bhagavata Purana",
+"sequences": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/collections/8/sequence.json",
+"@type": "sc:Sequence",
+"label": "",
+"canvases": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/110/canvas.json",
+"label": "Four Gods and the Earth Cow Pray for the Assistance of Vishnu",
+"@type": "sc:Canvas",
+"width": 700,
+"height": 415,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/108/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/a6833615763796c52320ce7f76d21bf7.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 700,
+"height": 415,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/a6833615763796c52320ce7f76d21bf7.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/110/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/110\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Four Gods and the Earth Cow Pray for the Assistance of Vishnu"
+},
+{
+"label": "Link",
+"value": "https://www.metmuseum.org/art/collection/search/662459?&exhibitionId=%7b02cef407-c9f9-4ddc-a43d-547eed945478%7d&oid=662459&pkgids=360&pg=1&rpp=4&pos=2&ft=*"
+},
+{
+"label": "Repository",
+"value": "The Metropolitan Museum of Art; Promised Gift of the Kronos Collections, 2015"
+},
+{
+"label": "Provenance",
+"value": "Doris Weiner, before 1981"
+},
+{
+"label": "Parent Work",
+"value": "\"Palam\" Bhagavata Purana"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.1 x 22.9 cm"
+},
+{
+"label": "Text",
+"value": "BP. X.1.?"
+},
+{
+"label": "Paratext",
+"value": "Inscribed on the front border in black ink in devanagari script, in lower left: “2 / Sa Mitharam”; also inscribed in yellow paint a number of inscriptions identifying some of the figures. Inscribed on the reverse in black ink written in devanagari script: fourteen lines of Sanskrit text (for an English translation, see Sanyal 1973, vol. 2, pp. 2–3)"
+},
+{
+"label": "Publications",
+"value": "Lerner, Martin. The Flame and the Lotus: Indian and Southeast Asian Art from the Kronos Collections. New York: The Metropolitan Museum of Art, 1984. no. cat. no. 56, pp. 142–45, ill., pp. 142–45, cat. no. 56."
+},
+{
+"label": "Exhibition History",
+"value": "The Metropolitan Museum of Art. \"Divine Pleasures: Painting from India's Rajput Courts - The Kronos Collection,\" June 13, 2016–September 11, 2016."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/110/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/50/canvas.json",
+"label": "Vasudeva and Devaki",
+"@type": "sc:Canvas",
+"width": 2500,
+"height": 1875,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/41/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/5900e276714448016f3713015ce2d485.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2500,
+"height": 1875,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/5900e276714448016f3713015ce2d485.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/50/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/50\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Vasudeva and Devaki"
+},
+{
+"label": "Link",
+"value": "http://collections.vam.ac.uk/item/O154607/vasudeva-and-devaki-painting-unknown/"
+},
+{
+"label": "Repository",
+"value": "Victoria and Albert Museum"
+},
+{
+"label": "Accession Number",
+"value": "IS.1-1977"
+},
+{
+"label": "Provenance",
+"value": "Given by John Bachofen von Echt."
+},
+{
+"label": "Medium",
+"value": "Painted in opaque watercolour on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.5 cm x 23.5 cm"
+},
+{
+"label": "Text",
+"value": "BP X.1.29-30\r\n\r\nतस्यां तु कर्हिचिच्छौरिर्वसुदेवः कृतोद्वहः ।\r\nदेवक्या सूर्यया सार्धं प्रयाणे रथमारुहत् ॥ २९॥\r\n\r\nउग्रसेनसुतः कंसः स्वसुः प्रियचिकीर्षया ।\r\nरश्मीन् हयानां जग्राह रौक्मै रथशतैर्वृतः ॥ ३०॥"
+},
+{
+"label": "Paratext",
+"value": "'Sa mitharam' \r\nInscribed on an area of red in the foreground, in Nagari"
+},
+{
+"label": "Publications",
+"value": "Welch, S.C. and Beach, M.C., 'Gods, Thrones and Peacocks', New York, 1965, cat.3a, 115 p., colour plate frontispiece\r\n\r\nArcher, W.G., 'Rajput Miniatures from the Collection of E. Binney 3rd', Portland, Oregon, 1968, Cat. 1a, b, c.\r\n\r\nKhandalawala, K.J., and Chandra, M., 'New Documents of Indian Painting', Bombay, 1969, figs.199,200.\r\n\r\nKrishna, A. (ed.), 'Chhavi', Bharat Kala Bhavan, Banaras, 1971, col. plates.\r\n\r\nWelch, S.C., 'A Flower from Every Meadow', Asian House Society, New York, 1973, 26 p., cat. 6.\r\n\r\nSotheby's Catalogue, 10th December, 1974, lots 194, 195.\r\n\r\nKhandalawala, K., and Mittal, J., 'The Bhagavata Mss. from Palam and Isarda' in Lalit Kala, no. 16.\r\n\r\nLee, Sherman E., 'Rajput Painting', New York, 1961, cat. 3\r\n\r\nSkelton, Robert. 'The Indian Collections: 1798 to 1978' in The Burlington Magazine, vol. CXX, number 902, May 1978, pp. 297-304, Fig. 62 and p. 304.\r\n\r\nTopsfield, Andrew, An introduction to Indian Court Painting, H.M.S.O., London, 1984, 0112903835p. 11, cat. no. 4\r\n\r\nSwallow, D., Stronge, S., Crill, R., Koezuka, T., editor and translator, \"The Art of the Indian Courts. Miniature Painting and Decorative Arts\", Victoria & Albert Museum and NHK Kinki Media Plan, 1993.p. 92, cat. no. 78\r\n\r\nAyers, J. Oriental Art in the Victoria and Albert Museum, London 1983, ISBN 0-85667-120-7pp. 66-67\r\n\r\nIrwin, John; Indian Art: Victoria & Albert Museum departmental guide, H.M.S.O. ISBN 0 905209117, 1978Back cover"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/50/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/42/canvas.json",
+"label": "Nanda and Vasudeva",
+"@type": "sc:Canvas",
+"width": 4000,
+"height": 2888,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/26/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/573f6f5b8e03e26af1b00df4523dc491.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2000,
+"height": 1505,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/573f6f5b8e03e26af1b00df4523dc491.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/42/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/27/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/ac439f241e1860615a81b291183954ea.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 4000,
+"height": 2888,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/ac439f241e1860615a81b291183954ea.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/42/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/42\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Nanda and Vasudeva"
+},
+{
+"label": "Link",
+"value": "https://www.metmuseum.org/art/collection/search/37848"
+},
+{
+"label": "Repository",
+"value": "The Metropolitan Museum of Art"
+},
+{
+"label": "Accession Number",
+"value": "1982.209"
+},
+{
+"label": "Provenance",
+"value": "Hamsa Gallery , New York, until 1982, sold to MMA"
+},
+{
+"label": "Medium",
+"value": "Ink and opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "Sheet: 17.8 cm × 23.8 cm"
+},
+{
+"label": "Text",
+"value": "BP X.5.19 (second half) - 28\r\n\r\nनन्दः कंसस्य वार्षिक्यं करं दातुं कुरूद्वह ॥ १९॥\r\n\r\nवसुदेव उपश्रुत्य भ्रातरं नन्दमागतम् ।\r\nज्ञात्वा दत्तकरं राज्ञे ययौ तदवमोचनम् ॥ २०॥\r\n\r\nतं दृष्ट्वा सहसोत्थाय देहः प्राणमिवागतम् ।\r\nप्रीतः प्रियतमं दोर्भ्यां सस्वजे प्रेमविह्वलः ॥ २१॥\r\n\r\nपूजितः सुखमासीनः पृष्ट्वानामयमादृतः ।\r\nप्रसक्तधीः स्वात्मजयोरिदमाह विशाम्पते ॥ २२॥\r\n\r\nदिष्ट्या भ्रातः प्रवयस इदानीमप्रजस्य ते ।\r\nप्रजाशाया निवृत्तस्य प्रजा यत्समपद्यत ॥ २३॥\r\n\r\nदिष्ट्या संसारचक्रेऽस्मिन् वर्तमानः पुनर्भवः ।\r\nउपलब्धो भवानद्य दुर्लभं प्रियदर्शनम् ॥ २४॥\r\n\r\nनैकत्र प्रियसंवासः सुहृदां चित्रकर्मणाम् ।\r\nओघेन व्यूह्यमानानां प्लवानां स्रोतसो यथा ॥ २५॥\r\n\r\nकच्चित्पशव्यं निरुजं भूर्यम्बुतृणवीरुधम् ।\r\nबृहद्वनं तदधुना यत्रास्से त्वं सुहृद्वृतः ॥ २६॥\r\n\r\nभ्रातर्मम सुतः कच्चिन्मात्रा सह भवद्व्रजे ।\r\nतातं भवन्तं मन्वानो भवद्भ्यामुपलालितः ॥ २७॥\r\n\r\nपुंसस्त्रिवर्गो विहितः सुहृदो ह्यनुभावितः ।\r\nन तेषु क्लिश्यमानेषु त्रिवर्गोऽर्थाय कल्पते ॥ २८॥"
+},
+{
+"label": "Exhibition History",
+"value": "New York. The Metropolitan Museum of Art. \"Illustrations of the Bhagavata Purana,\" 1996.\r\n\r\nNew York. The Metropolitan Museum of Art. \"Indian Court Painting: 16th–19th Century,\" March 25, 1997–July 6, 1997.\r\n\r\nNew York. The Metropolitan Museum of Art. \"Indian Court Painting,\" 2000.\r\n\r\nNew York. The Metropolitan Museum of Art. \"Illustrated Manuscripts in India: Late 13th–early 17th Century,\" 2004."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/42/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/71/canvas.json",
+"label": "Nanda and Vasudeva (Verso)",
+"@type": "sc:Canvas",
+"width": 4000,
+"height": 2888,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/67/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/066cf5527486b0296e103c89a7ea8c9a.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 4000,
+"height": 2888,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/066cf5527486b0296e103c89a7ea8c9a.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/71/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/71\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Nanda and Vasudeva"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/71/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/111/canvas.json",
+"label": "Nanda touches Krishna’s head after slaying of Putana",
+"@type": "sc:Canvas",
+"width": 512,
+"height": 391,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/110/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/98fdc5e0c2130e6b23fbf22dba84ac1a.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 512,
+"height": 391,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/98fdc5e0c2130e6b23fbf22dba84ac1a.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/111/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/111\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Nanda touches Krishna’s head after slaying of Putana"
+},
+{
+"label": "Link",
+"value": "http://www.sammlungrietberg.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=66057&viewType=detailView"
+},
+{
+"label": "Repository",
+"value": "Museum Rietberg, Zurich"
+},
+{
+"label": "Accession Number",
+"value": "Inv.-Nr. RVI 907"
+},
+{
+"label": "Provenance",
+"value": "Gift from Fritz and Monica von Schulthess"
+},
+{
+"label": "Parent Work",
+"value": "\"Palam\" Bhagavata Purana"
+},
+{
+"label": "Medium",
+"value": "Pigment painting on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.7 x 23.8 cm"
+},
+{
+"label": "Text",
+"value": "[BP X.6.42-44]"
+},
+{
+"label": "Publications",
+"value": "Ehnbom, Daniel J. An Analysis and Reconstruction of the Dispersed Bhāgavata Purāna from the Caurapañcāśikā Group, 1984. Dissertation. (Ehnbom, 2011, p. 82)"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/111/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/72/canvas.json",
+"label": "Krishna Defeats Trinavarta, the Demon Whirlwind",
+"@type": "sc:Canvas",
+"width": 3000,
+"height": 2335,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/68/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/6cf7264bf0dd63b5ddb5a805ea16500e.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 3000,
+"height": 2335,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/6cf7264bf0dd63b5ddb5a805ea16500e.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/72/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/72\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna Defeats Trinavarta, the Demon Whirlwind"
+},
+{
+"label": "Link",
+"value": "https://asia.si.edu/object/F1987.4/"
+},
+{
+"label": "Repository",
+"value": "Freer Gallery of Art / National Museum of Asian Art, Smithsonian"
+},
+{
+"label": "Accession Number",
+"value": "F1987.4"
+},
+{
+"label": "Provenance",
+"value": "Provenance information is currently unavailable / Purchase — Charles Lang Freer Endowment"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor and ink on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "18.4 x 23.9 cm"
+},
+{
+"label": "Publications",
+"value": "John Seyller, in association with the Freer Gallery of Art. Workshop and Patron in Mughal India: The Freer Ramayana and Other Illustrated Manuscripts of 'Abd al-Rahim. Supplementum 42, Zurich and Washington. p. 18, fig. 1.\r\n\r\nMilo Cleveland Beach. The Imperial Image: Paintings for the Mughal Court. Exh. cat. Washington, 1981. pp. 46-49.\r\n\r\nMilo Cleveland Beach. The Imperial Image: Paintings for the Mughal Court., 2nd. Washington and Ahmedabad, India, 2012. cat. 4B, p. 49.\r\n\r\nJohn Seyller. The Adventures of Hamza: Painting and Storytelling in Mughal India. Washington. cat. 1, p. 55.\r\n\r\nB.N. Goswamy. The Spirit of Indian Painting: Close Encounters with 101 Great Works, 1100-1900. Gurgaon, Haryana, India. p. 144."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/72/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/129/canvas.json",
+"label": "A gopi complains to Yashoda of Krsna's pranks, especially the theft of curd",
+"@type": "sc:Canvas",
+"width": 1800,
+"height": 1248,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/136/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/2a3a04d6923fc7e8386507ee1c06aac4.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 1800,
+"height": 1248,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/2a3a04d6923fc7e8386507ee1c06aac4.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/129/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/129\">View page</a>"
+},
+{
+"label": "Title",
+"value": "A gopi complains to Yashoda of Krsna's pranks, especially the theft of curd"
+},
+{
+"label": "Artist",
+"value": "Attributed to Painter A"
+},
+{
+"label": "Repository",
+"value": "Bharat Kala Bhavan, Banaras"
+},
+{
+"label": "Accession Number",
+"value": "BKB 10663"
+},
+{
+"label": "Provenance",
+"value": "It was formerly in the Motichand Khajanchi collection, Bikaner, and is now in the Bharat Kala Bhavan, Banaras (BKB 10663)."
+},
+{
+"label": "Text",
+"value": "BP. X. 8. 30–1"
+},
+{
+"label": "Publications",
+"value": "Khandalavala (1960, p. 24, no. 12a, Fig. 20)\r\nBharat Kala Bhavan (1971, advertising pages)\r\nChandra (1976, Pl. 76)\r\nBanerjee (1978, Fig. 56).\r\nEhnbom, 2018, p. 110"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/129/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/130/canvas.json",
+"label": "Yashoda taking after the naughty Krishna with a stick; and Krishna Distributes Butter to the Monkeys ",
+"@type": "sc:Canvas",
+"width": 1200,
+"height": 908,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/137/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/3487be640ab5d63813381a083cb0f497.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1200,
+"height": 908,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/3487be640ab5d63813381a083cb0f497.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/130/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/138/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/607cda01b7fb743fccab5237a40812fb.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1200,
+"height": 800,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/607cda01b7fb743fccab5237a40812fb.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/130/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/130\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Yashoda taking after the naughty Krishna with a stick; and Krishna Distributes Butter to the Monkeys"
+},
+{
+"label": "Artist",
+"value": "Attributed to Painter A"
+},
+{
+"label": "Link",
+"value": "https://www.vmfa.museum/piction/6027262-8072470/"
+},
+{
+"label": "Repository",
+"value": "Virginia Museum of Fine Arts"
+},
+{
+"label": "Accession Number",
+"value": "64.36.1"
+},
+{
+"label": "Date",
+"value": "1520-30"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Size (H x W cm)",
+"value": "Sheet: 17.94 × 24.13 cm"
+},
+{
+"label": "Text",
+"value": "BP X. 9. 8-9"
+},
+{
+"label": "Publications",
+"value": "Dye, Joseph M. The Arts of India: Virginia Museum of Fine Arts. London: Philipp Wilson, 2001. (cat. no. 69-a, pp. 202-204, 488)"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/130/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/131/canvas.json",
+"label": "Yashoda taking after the naughty Krishna with a stick; and Krishna Distributes Butter to the Monkeys (Text, Verso)",
+"@type": "sc:Canvas",
+"width": 1200,
+"height": 800,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/139/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/d4192549c99e492df80a356f5a4346a9.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1200,
+"height": 800,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/d4192549c99e492df80a356f5a4346a9.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/131/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/131\">View page</a>"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/131/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/26/canvas.json",
+"label": "Nanda and the Elders",
+"@type": "sc:Canvas",
+"width": 3400,
+"height": 2634,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/7/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/13a04cd179d1de78d0fca5afd86b9238.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 3400,
+"height": 2632,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/13a04cd179d1de78d0fca5afd86b9238.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/26/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/39/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/9785c0a21de2da71683c62e1c492c4c5.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 3400,
+"height": 2634,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/9785c0a21de2da71683c62e1c492c4c5.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/26/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/26\">View page</a>"
+},
+{
+"label": "Source",
+"value": "https://mappingcolor.omeka.fas.harvard.edu/items/show/26"
+},
+{
+"label": "Title",
+"value": "Nanda and the Elders"
+},
+{
+"label": "Link",
+"value": "http://clevelandmuseumofart.art/art/1960.53"
+},
+{
+"label": "Repository",
+"value": "The Cleveland Museum of Art"
+},
+{
+"label": "Accession Number",
+"value": "1960.53"
+},
+{
+"label": "Provenance",
+"value": "Mr. and Mrs. William H. Marlatt Fund"
+},
+{
+"label": "Size (H x W cm)",
+"value": "16.3 x 21.5 cm"
+},
+{
+"label": "Text",
+"value": "BP X.11.21-30\r\n\r\nश्रीशुक उवाच\r\nगोपवृद्धा महोत्पाताननुभूय बृहद्वने ।\r\nनन्दादयः समागम्य व्रजकार्यममन्त्रयन् ॥ २१॥\r\n\r\nतत्रोपनन्दनामाऽऽह गोपो ज्ञानवयोऽधिकः ।\r\nदेशकालार्थतत्त्वज्ञः प्रियकृद्रामकृष्णयोः ॥ २२॥\r\n\r\nउत्थातव्यमितोऽस्माभिर्गोकुलस्य हितैषिभिः ।\r\nआयान्त्यत्र महोत्पाता बालानां नाशहेतवः ॥ २३॥\r\n\r\nमुक्तः कथञ्चिद्राक्षस्या बालघ्न्या बालको ह्यसौ ।\r\nहरेरनुग्रहान्नूनमनश्चोपरि नापतत् ॥ २४॥\r\n\r\nचक्रवातेन नीतोऽयं दैत्येन विपदं वियत् ।\r\nशिलायां पतितस्तत्र परित्रातः सुरेश्वरैः ॥ २५॥\r\n\r\nयन्न म्रियेत द्रुमयोरन्तरं प्राप्य बालकः ।\r\nअसावन्यतमो वापि तदप्यच्युतरक्षणम् ॥ २६॥\r\n\r\nयावदौत्पातिकोऽरिष्टो व्रजं नाभिभवेदितः ।\r\nतावद्बालानुपादाय यास्यामोऽन्यत्र सानुगाः ॥ २७॥\r\n\r\nवनं वृन्दावनं नाम पशव्यं नवकाननम् ।\r\nगोपगोपीगवां सेव्यं पुण्याद्रितृणवीरुधम् ॥ २८॥\r\n\r\nतत्तत्राद्यैव यास्यामः शकटान् युङ्क्त मा चिरम् ।\r\nगोधनान्यग्रतो यान्तु भवतां यदि रोचते ॥ २९॥\r\n\r\nतच्छ्रुत्वैकधियो गोपाः साधु साध्विति वादिनः ।\r\nव्रजान् स्वान् स्वान् समायुज्य ययू रूढपरिच्छदाः ॥ ३०॥"
+},
+{
+"label": "Paratext",
+"value": "verso, upper right: \"Sa Mitharam, Hirabai\""
+},
+{
+"label": "Publications",
+"value": "Asia Society, Sherman E. Lee, and George Montgomery. Rajput Painting; with an introductory essay and catalogue notes. New York: Asia House, 1960. Reproduced p. 15; plate 3(a)\r\n\r\nThe Cleveland Museum of Art. Handbook of the Cleveland Museum of Art/1966. Cleveland, OH: The Cleveland Museum of Art, 1966. Reproduced: p. 236\r\n\r\nThe Cleveland Museum of Art. Handbook of the Cleveland Museum of Art/1969. Cleveland, OH: The Cleveland Museum of Art, 1969. Reproduced: p. 236 \r\n\r\nThe Cleveland Museum of Art. Handbook of the Cleveland Museum of Art/1978. Cleveland, OH: The Cleveland Museum of Art, 1978. Reproduced: p. 303"
+},
+{
+"label": "Exhibition History",
+"value": "\"Asia House, New York City, \"\"Rajput Painting,\"\" Dec. 3, 1960-Jan. 22, 1961.\r\n\r\nIndian Miniature Rotation (Gallery 115); February 4 - August 5, 2003.\r\n\r\nIndian Miniature Rotation (Gallery 115); February 20 - August 18, 2004.\r\n\r\nYear in Review - Nineteen Hundred Sixty. The Cleveland Museum of Art (organizer) (November 30, 1960-January 1, 1961).\""
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/26/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/132/canvas.json",
+"label": "Krishna swinging Vatasura, the Calf-Demon as Balarama and friends watch",
+"@type": "sc:Canvas",
+"width": 1778,
+"height": 1330,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/140/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/bee81f2c17fee7a9c4d3f63996a7ad2e.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 1778,
+"height": 1330,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/bee81f2c17fee7a9c4d3f63996a7ad2e.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/132/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/132\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna swinging Vatasura, the Calf-Demon as Balarama and friends watch"
+},
+{
+"label": "Artist",
+"value": "Attributed to Painter A"
+},
+{
+"label": "Link",
+"value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09319/lot.1110.html"
+},
+{
+"label": "Size (H x W cm)",
+"value": "image: 18 x 23.4 cm"
+},
+{
+"label": "Text",
+"value": "BP X. 11. (possible verse: 41-45)"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/132/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/57/canvas.json",
+"label": "Krishna Kills the Crane Demon",
+"@type": "sc:Canvas",
+"width": 2100,
+"height": 1563,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/53/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/f82d63bfc775b9541c1297881dc871c1.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2100,
+"height": 1563,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/f82d63bfc775b9541c1297881dc871c1.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/57/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/57\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna Kills the Crane Demon"
+},
+{
+"label": "Link",
+"value": "https://collections.lacma.org/node/237667"
+},
+{
+"label": "Repository",
+"value": "Los Angeles County Museum of Art"
+},
+{
+"label": "Accession Number",
+"value": "M.71.1.8"
+},
+{
+"label": "Provenance",
+"value": "From the Nasli and Alice Heeramaneck Collection, Museum Associates Purchase"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor and ink on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "Image: 17.78 x 24.13 cm\r\nSheet: 18.42 x 24.13 cm"
+},
+{
+"label": "Notes",
+"value": "BP X.11. (possible verse 51-54)"
+},
+{
+"label": "Publications",
+"value": "Rosenfield, John.  The Arts of India and Nepal: The Nasli and Alice Heeramaneck Collection.  Boston:  Museum of Fine Arts, Boston, 1966.\r\n\r\nPal, Pratapaditya. Indian Painting, vol.1. Los Angeles: Los Angeles County Museum of Art, 1993."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/57/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/133/canvas.json",
+"label": "Nanda and Yashoda Embrace Krishna while Balarama and others look on ",
+"@type": "sc:Canvas",
+"width": 1998,
+"height": 1342,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/141/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/514b365497a1d3c8ed50fdca8fb28ff2.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 1998,
+"height": 1342,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/514b365497a1d3c8ed50fdca8fb28ff2.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/133/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/133\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Nanda and Yashoda Embrace Krishna while Balarama and others look on"
+},
+{
+"label": "Artist",
+"value": "Attributed to Painter A"
+},
+{
+"label": "Link",
+"value": "https://www.sothebys.com/en/auctions/ecatalogue/lot.964.html/2019/indian-himalayan-southeast-asian-art-n10033"
+},
+{
+"label": "Size (H x W cm)",
+"value": "Folio: 17.9 by 23.5 cm."
+},
+{
+"label": "Publications",
+"value": "Pratapaditya Pal, Stephen Markel, Janice Leoshko, Pleasure Gardens of the Mind: Indian Paintings from the Jane Greenough Green Collection, Los Angeles, 1993, cat. 1B. pp. 22-23, illustrated."
+},
+{
+"label": "Exhibition History",
+"value": "Pleasure Gardens of the Mind: Indian Paintings from the Jane Greenough Green Collection, Los Angeles County Museum of Art, March 11-June 13, 1993."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/133/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/56/canvas.json",
+"label": "Krishna and Balarama Play with Gopas",
+"@type": "sc:Canvas",
+"width": 2100,
+"height": 1644,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/52/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/407658ccd0bd2854a87f31a377cd1301.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2100,
+"height": 1644,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/407658ccd0bd2854a87f31a377cd1301.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/56/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/56\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna and Balarama Play with Gopas"
+},
+{
+"label": "Link",
+"value": "https://collections.lacma.org/node/237668"
+},
+{
+"label": "Repository",
+"value": "Los Angeles County Museum of Art"
+},
+{
+"label": "Accession Number",
+"value": "M.71.1.9"
+},
+{
+"label": "Provenance",
+"value": "From the Nasli and Alice Heeramaneck Collection, Museum Associates Purchase"
+},
+{
+"label": "Parent Work",
+"value": "Dispersed Bhāgavata Purāṇa"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor and ink on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "Image: 17.78 x 24.13 cm \r\nSheet: 18.42 x 24.13 cm"
+},
+{
+"label": "Notes",
+"value": "BP X.12"
+},
+{
+"label": "Publications",
+"value": "Rosenfield, John.  The Arts of India and Nepal: The Nasli and Alice Heeramaneck Collection.  Boston:  Museum of Fine Arts, Boston, 1966.\r\n\r\nPal, Pratapaditya. Indian Painting, vol.1. Los Angeles: Los Angeles County Museum of Art, 1993."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/56/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/58/canvas.json",
+"label": "Brahma Salutes Krishna",
+"@type": "sc:Canvas",
+"width": 2100,
+"height": 1577,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/54/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/18756327b447f8afc478dfd92314baa0.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2100,
+"height": 1577,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/18756327b447f8afc478dfd92314baa0.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/58/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/58\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Brahma Salutes Krishna"
+},
+{
+"label": "Link",
+"value": "https://collections.lacma.org/node/172029"
+},
+{
+"label": "Repository",
+"value": "Los Angeles County Museum of Art"
+},
+{
+"label": "Accession Number",
+"value": "M.91.69"
+},
+{
+"label": "Provenance",
+"value": "Gift of Cynthia Hazen Polsky"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor and ink on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "Sheet: 18.42 x 24.13 cm\r\nImage: 17.78 x 24.13 cm"
+},
+{
+"label": "Publications",
+"value": "Pal, Pratapaditya. Indian Painting, vol.1. Los Angeles: Los Angeles County Museum of Art, 1993."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/58/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/103/canvas.json",
+"label": "Brahma Honors Lord Krishna for His Miraculous Deed",
+"@type": "sc:Canvas",
+"width": 1500,
+"height": 1135,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/100/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/5e6a12e848df7688f39d16f4169f20ef.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1500,
+"height": 1135,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/5e6a12e848df7688f39d16f4169f20ef.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/103/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/103\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Brahma Honors Lord Krishna for His Miraculous Deed"
+},
+{
+"label": "Link",
+"value": "https://www.philamuseum.org/collections/permanent/101280.html?mulR=841"
+},
+{
+"label": "Repository",
+"value": "Philadelphia Museum of Art"
+},
+{
+"label": "Accession Number",
+"value": "2004-149-6"
+},
+{
+"label": "Provenance",
+"value": "125th Anniversary Acquisition. Alvin O. Bellak Collection, 2004"
+},
+{
+"label": "Parent Work",
+"value": "\"Palam\" Bhagavata Purana"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor and ink on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "13.7 × 23.2 cm"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/103/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/106/canvas.json",
+"label": "Krishna and Balarama Taking the Cattle to Graze",
+"@type": "sc:Canvas",
+"width": 866,
+"height": 643,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/104/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/6b8259119fe8f02e536aace37e023a8d.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 866,
+"height": 643,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/6b8259119fe8f02e536aace37e023a8d.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/106/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/106\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna and Balarama Taking the Cattle to Graze"
+},
+{
+"label": "Link",
+"value": "https://www.ancient-origins.net/history-ancient-traditions/past-teaching-present-ancient-sanskrit-texts-discuss-importance-020527"
+},
+{
+"label": "Repository",
+"value": "Museum Rietberg, Zurich"
+},
+{
+"label": "Provenance",
+"value": "Collection of Terence McInerney, New York. Sold to Museum Rietberg, Zürich, Switzerland, 1988, accessioned by Museum Rietberg, Zürich, Switzerland, 1988."
+},
+{
+"label": "Parent Work",
+"value": "\"Palam\" Bhagavata Purana"
+},
+{
+"label": "Medium",
+"value": "Ink and opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "18 x 23.5 cm"
+},
+{
+"label": "Exhibition History",
+"value": "New York. The Metropolitan Museum of Art. \"Wonder of the Age: Master Painters of India, 1100–1900,\" September 26, 2011–January 8, 2012."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/106/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/46/canvas.json",
+"label": "Krishna and the Cowherds",
+"@type": "sc:Canvas",
+"width": 2416,
+"height": 2168,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/34/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/e8abe4429b4153e9c7d83e9b77f62456.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2400,
+"height": 2168,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/e8abe4429b4153e9c7d83e9b77f62456.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/46/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/35/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/6e32db5b662a833006750847e1d22838.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2416,
+"height": 1980,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/6e32db5b662a833006750847e1d22838.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/46/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/46\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna and the Cowherds"
+},
+{
+"label": "Link",
+"value": "https://www.metmuseum.org/art/collection/search/37847"
+},
+{
+"label": "Repository",
+"value": "The Metropolitan Museum of Art"
+},
+{
+"label": "Accession Number",
+"value": "1980.530.2"
+},
+{
+"label": "Provenance",
+"value": "Mr. and Mrs. Peter Findlay , New York (until 1980; donated to MMA)"
+},
+{
+"label": "Medium",
+"value": "Ink and opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "18.1 cm x 23.5 cm"
+},
+{
+"label": "Text",
+"value": "BP X.15.47-52 (end of adhyaya 15)\r\n\r\nएवं स भगवान् कृष्णो वृन्दावनचरः क्वचित् ।\r\nययौ राममृते राजन् कालिन्दीं सखिभिर्वृतः ॥ ४७॥\r\n\r\nअथ गावश्च गोपाश्च निदाघातपपीडिताः ।\r\nदुष्टं जलं पपुस्तस्यास्तृषार्ता विषदूषितम् ॥ ४८॥\r\n\r\nविषाम्भस्तदुपस्पृश्य दैवोपहतचेतसः ।\r\nनिपेतुर्व्यसवः सर्वे सलिलान्ते कुरूद्वह ॥ ४९॥\r\n\r\nवीक्ष्य तान् वै तथाभूतान् कृष्णो योगेश्वरेश्वरः ।\r\nईक्षयामृतवर्षिण्या स्वनाथान् समजीवयत् ॥ ५०॥\r\n\r\nते सम्प्रतीतस्मृतयः समुत्थाय जलान्तिकात् ।\r\nआसन् सुविस्मिताः सर्वे वीक्षमाणाः परस्परम् ॥ ५१॥\r\n\r\nअन्वमंसत तद्राजन् गोविन्दानुग्रहेक्षितम् ।\r\nपीत्वा विषं परेतस्य पुनरुत्थानमात्मनः ॥ ५२॥\r\n\r\nइति श्रीमद्भागवते महापुराणे पारमहंस्यां संहितायां \r\nदशमस्कन्धे पूर्वार्धे धेनुकवधो नाम पञ्चदशोऽध्यायः ॥ १५॥"
+},
+{
+"label": "Exhibition History",
+"value": "New York. The Metropolitan Museum of Art. \"Illustrations of the Bhagavata Purana,\" 1996.\r\n\r\nNew York. The Metropolitan Museum of Art. \"Krishna: Mythology and Worship,\" February 9, 2004–May 9, 2004."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/46/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/40/canvas.json",
+"label": "Krishna Subdues the Serpent King Kaliya",
+"@type": "sc:Canvas",
+"width": 1024,
+"height": 765,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/23/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/16a294a63b8e28600d2add41800a236c.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1024,
+"height": 765,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/16a294a63b8e28600d2add41800a236c.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/40/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/40\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna Subdues the Serpent King Kaliya"
+},
+{
+"label": "Link",
+"value": "https://hvrd.art/o/213690"
+},
+{
+"label": "Repository",
+"value": "Harvard Art Museums"
+},
+{
+"label": "Accession Number",
+"value": "1992.283"
+},
+{
+"label": "Provenance",
+"value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. and Mrs. J. Gordon Douglas III, Class of 1957"
+},
+{
+"label": "Parent Work",
+"value": "Dispersed Bhāgavata Purāṇa"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Style",
+"value": "Chaurapañchāśikā Group"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.5 cm x 23 cm"
+},
+{
+"label": "Exhibition History",
+"value": "From India's Hills and Plains: Rajput Painting from the Punjab and Rajasthan, 17th through 19th Centuries, Harvard University Art Museums, Cambridge, 09/04/1993 - 10/31/1993\r\n\r\nRe-View: Arts of India & the Islamic Lands, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/26/2008 - 06/01/2013"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/40/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/134/canvas.json",
+"label": "Krishna saves his herd and companions from the fire in Munjavana forest",
+"@type": "sc:Canvas",
+"width": 2002,
+"height": 1346,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/142/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/5b03f70618d86aa6d6ba7f0b6beba7ad.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 2002,
+"height": 1346,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/5b03f70618d86aa6d6ba7f0b6beba7ad.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/134/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/134\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna saves his herd and companions from the fire in Munjavana forest"
+},
+{
+"label": "Artist",
+"value": "Attributable to Painter B"
+},
+{
+"label": "Link",
+"value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09478/lot.777.html"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor heightened with gold on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "16.2 x 23.2 cm"
+},
+{
+"label": "Publications",
+"value": "Alice Heeramaneck, Masterpieces of Indian Painting, Verona, 1984 pl. 9, p. 33"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/134/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/35/canvas.json",
+"label": "Krishna Sporting with the Cowherds",
+"@type": "sc:Canvas",
+"width": 1024,
+"height": 777,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/16/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/3f9c0f320c5a0c6a2cd9e854a438ce3d.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1024,
+"height": 773,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/3f9c0f320c5a0c6a2cd9e854a438ce3d.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/35/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/17/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/98b5e2b83285118b4e9fd1b50452e3fc.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1024,
+"height": 777,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/98b5e2b83285118b4e9fd1b50452e3fc.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/35/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/35\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna Sporting with the Cowherds"
+},
+{
+"label": "Link",
+"value": "https://www.harvardartmuseums.org/collections/object/216429?q=1974.125"
+},
+{
+"label": "Repository",
+"value": "Harvard Art Museums"
+},
+{
+"label": "Accession Number",
+"value": "1974.125"
+},
+{
+"label": "Provenance",
+"value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. and Mrs. Peter Bienstock"
+},
+{
+"label": "Parent Work",
+"value": "Dispersed Bhāgavata Purāṇa"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Style",
+"value": "Chaurapañchāśikā Group"
+},
+{
+"label": "Medium",
+"value": "Ink and opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.9 cm x 23.8 cm"
+},
+{
+"label": "Text",
+"value": "BP X.18.10-14 (first half)"
+},
+{
+"label": "Exhibition History",
+"value": "The Arts of Krishna Bhakti, Fogg Art Museum, Cambridge, 03/09/1983 - 05/01/1983\r\n\r\nRe-View: Arts of India & the Islamic Lands, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/26/2008 - 06/01/2013\r\n\r\nRe-View: S231 (Islamic rotation: 1) Color in the Oasis, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 10/30/2008 - 03/29/2009"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/35/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/38/canvas.json",
+"label": "Krishna, Balarama and The Cowherds Play in the Forest",
+"@type": "sc:Canvas",
+"width": 1600,
+"height": 1214,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/21/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/9a27f91f7f3d75fdd4190db04e051795.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1600,
+"height": 1214,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/9a27f91f7f3d75fdd4190db04e051795.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/38/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/38\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna, Balarama and The Cowherds Play in the Forest"
+},
+{
+"label": "Link",
+"value": "https://www.cincinnatiartmuseum.org/art/explore-the-collection?id=20578384"
+},
+{
+"label": "Repository",
+"value": "Cincinnati Art Museum"
+},
+{
+"label": "Accession Number",
+"value": "2007.86"
+},
+{
+"label": "Provenance",
+"value": "Gift of Alice and Carl Bimel"
+},
+{
+"label": "Parent Work",
+"value": "Dispersed Bhāgavata Purāṇa"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Style",
+"value": "Chaurapañchāśikā Group"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "18.3 cm x 24.3 cm"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/38/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/112/canvas.json",
+"label": "Krishna Greets Balarama/The Search for the Jewel",
+"@type": "sc:Canvas",
+"width": 1024,
+"height": 771,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/111/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/21a8e547e521d437c7aeec88cef1d2c5.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1024,
+"height": 771,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/21a8e547e521d437c7aeec88cef1d2c5.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/112/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/112\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna Greets Balarama/The Search for the Jewel"
+},
+{
+"label": "Link",
+"value": "https://harvardartmuseums.org/collections/object/216021?position=15"
+},
+{
+"label": "Repository",
+"value": "Harvard Art Museums"
+},
+{
+"label": "Accession Number",
+"value": "1974.127"
+},
+{
+"label": "Provenance",
+"value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. and Mrs. Peter Bienstock"
+},
+{
+"label": "Medium",
+"value": "Ink and opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.3 x 23.6 cm"
+},
+{
+"label": "Text",
+"value": "BP X.18. 14 (second half) - 15 (first half)"
+},
+{
+"label": "Publications",
+"value": "Ehnbom, Daniel J. An Analysis and Reconstruction of the Dispersed Bhāgavata Purāna from the Caurapañcāśikā Group, 1984. Dissertation."
+},
+{
+"label": "Exhibition History",
+"value": "The Arts of Krishna Bhakti, Fogg Art Museum, Cambridge, 03/09/1983 - 05/01/1983\r\n\r\nRe-View: Arts of India & the Islamic Lands, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/26/2008 - 06/01/2013\r\n\r\nRe-View: S231 (Islamic rotation: 5) Heroic Gestes: Epic Tales from Firdawsi's Shahnama, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 06/18/2010 - 11/27/2010"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/112/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/59/canvas.json",
+"label": "Krishna and his companions roam in mountains and valleys",
+"@type": "sc:Canvas",
+"width": 2004,
+"height": 1514,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/55/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/51c8d01e24bd434cfeebac12ea38a463.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1600,
+"height": 1249,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/51c8d01e24bd434cfeebac12ea38a463.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/59/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/56/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/e4206a811f0349be15917f3f3b2e18e1.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 2004,
+"height": 1514,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/e4206a811f0349be15917f3f3b2e18e1.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/59/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/59\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna and his companions roam in mountains and valleys"
+},
+{
+"label": "Link",
+"value": "https://collections.mfa.org/objects/149669/page-from-a-bhagavata-purana-krishna-and-his-companions-roa?ctx=b05ff312-117f-4347-a32e-830bc43797fe&idx=4"
+},
+{
+"label": "Repository",
+"value": "Museum of Fine Arts, Boston"
+},
+{
+"label": "Accession Number",
+"value": "66.107"
+},
+{
+"label": "Provenance",
+"value": "By 1966, John Goelet, Amblainville (Oise) France; 1966, gift of John Goelet to the MFA. (Accession Date: February 2,1966)"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "18 x 23.2cm"
+},
+{
+"label": "Text",
+"value": "BP X.18.15 (second half) - 16\r\n\r\nकदाचित्स्पन्दोलिकया कर्हिचिन्नृपचेष्टया ॥ १५॥\r\n\r\nएवं तौ लोकसिद्धाभिः क्रीडाभिश्चेरतुर्वने ।\r\nनद्यद्रिद्रोणिकुञ्जेषु काननेषु सरःसु च ॥ १६॥"
+},
+{
+"label": "Paratext",
+"value": "Obverse, on upper left in Devanagari: \"Sa. Mitharama\""
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/59/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/135/canvas.json",
+"label": "The Slaying of Pralamba",
+"@type": "sc:Canvas",
+"width": 0,
+"height": 0,
+"images": [],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/135\">View page</a>"
+},
+{
+"label": "Title",
+"value": "The Slaying of Pralamba"
+},
+{
+"label": "Repository",
+"value": "Private Collection, US"
+},
+{
+"label": "Text",
+"value": "BP X.18.27-32"
+},
+{
+"label": "Publications",
+"value": "Beach, 2011 p.78"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/135/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/27/canvas.json",
+"label": "Krishna and Balarama Arrive in the Streets of Mathura",
+"@type": "sc:Canvas",
+"width": 1500,
+"height": 1150,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/8/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/d256c7dd6b0fad619fae5d03c341f182.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1500,
+"height": 1150,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/d256c7dd6b0fad619fae5d03c341f182.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/27/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/27\">View page</a>"
+},
+{
+"label": "Original Format",
+"value": "painting"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/27/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/136/canvas.json",
+"label": "Gopis observing the vow of the Goddess",
+"@type": "sc:Canvas",
+"width": 0,
+"height": 0,
+"images": [],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/136\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Gopis observing the vow of the Goddess"
+},
+{
+"label": "Repository",
+"value": "University of Virginia Art Museum, Charlottesville Museum"
+},
+{
+"label": "Accession Number",
+"value": "1999.20"
+},
+{
+"label": "Text",
+"value": "BP X.22.1-8"
+},
+{
+"label": "Publications",
+"value": "Beach, 2011 p. 78"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/136/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/105/canvas.json",
+"label": "Untitled",
+"@type": "sc:Canvas",
+"width": 800,
+"height": 605,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/103/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/e9d4e9bac52168e0b0170a9dab5938c9.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 800,
+"height": 605,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/e9d4e9bac52168e0b0170a9dab5938c9.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/105/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/105\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Untitled"
+},
+{
+"label": "Link",
+"value": "https://art.famsf.org/anonymous/episode-bhagavata-purana-199994"
+},
+{
+"label": "Repository",
+"value": "Fine Arts Museums of San Francisco"
+},
+{
+"label": "Accession Number",
+"value": "1999.94"
+},
+{
+"label": "Provenance",
+"value": "Campbell acquired it from Ray Lewis. He has owned it \"for a while\" . Lewis obtained it from the George P. Bickford Collection."
+},
+{
+"label": "Medium",
+"value": "Water- Based Pigment And Inks On Paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "18 x 24 cm"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/105/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/102/canvas.json",
+"label": "Indra Pays Homage to Krishna",
+"@type": "sc:Canvas",
+"width": 1024,
+"height": 772,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/99/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/c5c332a4535f0f6285bd00560de4e49b.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1024,
+"height": 772,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/c5c332a4535f0f6285bd00560de4e49b.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/102/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/102\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Indra Pays Homage to Krishna"
+},
+{
+"label": "Link",
+"value": "https://www.harvardartmuseums.org/art/310595"
+},
+{
+"label": "Repository",
+"value": "Harvard Art Museums"
+},
+{
+"label": "Accession Number",
+"value": "1995.67"
+},
+{
+"label": "Parent Work",
+"value": "\"Palam\" Bhagavata Purana"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.7 x 23 cm"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/102/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/104/canvas.json",
+"label": "Cowherd Women Seek the God Krishna in the Forest",
+"@type": "sc:Canvas",
+"width": 5292,
+"height": 4060,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/102/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/bb84224fc1149d41627f6c0d3e589e06.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 5292,
+"height": 4060,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/bb84224fc1149d41627f6c0d3e589e06.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/104/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/104\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Cowherd Women Seek the God Krishna in the Forest"
+},
+{
+"label": "Link",
+"value": "https://collections.artsmia.org/art/4828/cowherd-women-seek-the-god-krishna-in-the-forest-india"
+},
+{
+"label": "Repository",
+"value": "Minneapolis Institute of Art"
+},
+{
+"label": "Accession Number",
+"value": "95.4.1"
+},
+{
+"label": "Provenance",
+"value": "The Katherine Kittredge McMillan Memorial Fund"
+},
+{
+"label": "Parent Work",
+"value": "\"Palam\" Bhagavata Purana"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolors on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.78 x 23.5 cm)"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/104/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/137/canvas.json",
+"label": "Distraught Gopis (cowherd women) search in vain for the vanished Krishna \r\n",
+"@type": "sc:Canvas",
+"width": 0,
+"height": 0,
+"images": [],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/137\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Distraught Gopis (cowherd women) search in vain for the vanished Krishna"
+},
+{
+"label": "Size (H x W cm)",
+"value": "Sheet: 17.5 x 23.5 cm"
+},
+{
+"label": "Text",
+"value": "BP X.30.9-20"
+},
+{
+"label": "Publications",
+"value": "The Ehrenfeld Collection Catalogue, p. 24"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/137/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/98/canvas.json",
+"label": "Krishna and the Gopis",
+"@type": "sc:Canvas",
+"width": 1536,
+"height": 1168,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/95/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/bcb02917ab1870d41ccb060377d3178b.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1536,
+"height": 1168,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/bcb02917ab1870d41ccb060377d3178b.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/98/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/96/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/56169ed3c8e26e881d6892f59893e768.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1536,
+"height": 1149,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/56169ed3c8e26e881d6892f59893e768.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/98/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/98\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna and the Gopis"
+},
+{
+"label": "Link",
+"value": "https://www.brooklynmuseum.org/opencollection/objects/106553"
+},
+{
+"label": "Repository",
+"value": "Brooklyn Museum"
+},
+{
+"label": "Accession Number",
+"value": "80.41"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/98/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/74/canvas.json",
+"label": "Krishna and the Gopis (Verso)",
+"@type": "sc:Canvas",
+"width": 1536,
+"height": 1149,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/71/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/66d148bad1730f87eefbad7d268f9488.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1536,
+"height": 1149,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/66d148bad1730f87eefbad7d268f9488.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/74/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/74\">View page</a>"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/74/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/48/canvas.json",
+"label": "Krishna sporting with the gopis in the Jumna River",
+"@type": "sc:Canvas",
+"width": 1186,
+"height": 893,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/38/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/32b0ede77a81481233d37ea62b7b5998.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1186,
+"height": 893,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/32b0ede77a81481233d37ea62b7b5998.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/48/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/48\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna sporting with the gopis in the Jumna River"
+},
+{
+"label": "Link",
+"value": "http://clevelandmuseumofart.art/art/1971.171"
+},
+{
+"label": "Repository",
+"value": "The Cleveland Museum of Art"
+},
+{
+"label": "Accession Number",
+"value": "1971.171"
+},
+{
+"label": "Provenance",
+"value": "Gift of Mr. and Mrs. Alvin N. Haas"
+},
+{
+"label": "Size (H x W cm)",
+"value": "Overall: 16.5 x 22.2 cm"
+},
+{
+"label": "Paratext",
+"value": "verso, upper right: Hirabai"
+},
+{
+"label": "Exhibition History",
+"value": "Indian Miniature Rotation (Gallery 115); August 13, 2003 - February 18, 2004.\r\n\r\nIndian Minature Rotation (Gallery 115); August 18, 2004 -\r\nDance of the Gods: Indian Art Inspired by Music. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 24-December 8, 1996).\r\n\r\nSupernatural Love - Indian Gallery 242 Rotation. The Cleveland Museum of Art (organizer) (April 1-September 9, 2019)."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/48/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/138/canvas.json",
+"label": "Krishna and Gopas in the Jungle",
+"@type": "sc:Canvas",
+"width": 1830,
+"height": 1346,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/143/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/ece49b88cbaf0f1bd0ddd5c2d41f401f.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 1830,
+"height": 1346,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/ece49b88cbaf0f1bd0ddd5c2d41f401f.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/138/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/138\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna and Gopas in the Jungle"
+},
+{
+"label": "Link",
+"value": "https://www.christies.com/lot/lot-krishna-and-gopas-in-the-jungle-and-4572641/?from=searchresults&intObjectID=4572641"
+},
+{
+"label": "Provenance",
+"value": "Esaji, Bombay, April 1960; and Maggs Bros., March 1963"
+},
+{
+"label": "Size (H x W cm)",
+"value": "19 x 25 cm."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/138/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/139/canvas.json",
+"label": "Krishna Slays the Yaksha Sankachuda",
+"@type": "sc:Canvas",
+"width": 1922,
+"height": 1354,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/144/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/353e269d2909c9b3f5637b8ad6da2145.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 1922,
+"height": 1354,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/353e269d2909c9b3f5637b8ad6da2145.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/139/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/139\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna Slays the Yaksha Sankachuda"
+},
+{
+"label": "Link",
+"value": "https://www.bonhams.com/auctions/20479/lot/54/?category=list"
+},
+{
+"label": "Provenance",
+"value": "Private Collection\r\nAcquired from Doris Wiener in the 1980s"
+},
+{
+"label": "Size (H x W cm)",
+"value": "Folio: 17 x 23 cm"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/139/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/36/canvas.json",
+"label": "Kamsa Sending Akrura to Fetch Krishna to Mathura; Akrura leaving for Mathura ",
+"@type": "sc:Canvas",
+"width": 2400,
+"height": 1831,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/18/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/09daf777cad3fa2d6c8da96e659bc169.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1024,
+"height": 780,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/09daf777cad3fa2d6c8da96e659bc169.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/36/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/19/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/7ca299caa26ed52e89eced16bc5438eb.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2400,
+"height": 1831,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/7ca299caa26ed52e89eced16bc5438eb.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/36/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/36\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Kamsa Sending Akrura to Fetch Krishna to Mathura; Akrura leaving for Mathura"
+},
+{
+"label": "Link",
+"value": "https://hvrd.art/o/216555"
+},
+{
+"label": "Repository",
+"value": "Harvard Art Museums"
+},
+{
+"label": "Accession Number",
+"value": "1963.145"
+},
+{
+"label": "Provenance",
+"value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift of Stuart Cary Welch, Jr."
+},
+{
+"label": "Parent Work",
+"value": "Dispersed Bhāgavata Purāṇa"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura, India"
+},
+{
+"label": "Style",
+"value": "Chaurapañchāśikā Group"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.46 x 22.86 cm"
+},
+{
+"label": "Exhibition History",
+"value": "The Arts of Krishna Bhakti, Fogg Art Museum, Cambridge, 03/09/1983 - 05/01/1983\r\n\r\nEyes to the East: Indian, Persian, and Turkish Art Given by Harvard Graduates, Harvard University Art Museums, Cambridge, 09/22/1990 - 11/25/1990\r\n\r\nWhere Traditions Meet: Painting in India from the 15th-17th Centuries, Harvard University Art Museums, Cambridge, 06/05/2003 - 12/07/2003\r\n\r\nRe-View: Arts of India & the Islamic Lands, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/26/2008 - 06/01/2013\r\n\r\nRe-View: S231 (Islamic rotation: 2) Sacred Sites: Nineteenth Century Photographs of Jerusalem, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/09/2009 - 08/02/2009"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/36/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/61/canvas.json",
+"label": "Akrura Invites Krishna and Balarama to Mathura",
+"@type": "sc:Canvas",
+"width": 3000,
+"height": 2059,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/59/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/3f639e9b1ba00524ab17a79afd46c0ae.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 3000,
+"height": 2059,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/3f639e9b1ba00524ab17a79afd46c0ae.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/61/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/61\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Akrura Invites Krishna and Balarama to Mathura"
+},
+{
+"label": "Link",
+"value": "https://asia.si.edu/object/F1966.32/"
+},
+{
+"label": "Repository",
+"value": "Freer Gallery of Art / National Museum of Asian Art, Smithsonian"
+},
+{
+"label": "Accession Number",
+"value": "F1966.32"
+},
+{
+"label": "Provenance",
+"value": "Provenance information is currently unavailable / Purchase — Charles Lang Freer Endowment"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "19.5 x 28.4 cm"
+},
+{
+"label": "Publications",
+"value": "D.J. Ehnbom. Indian Miniatures: The Ehrenfeld Collection. New York. pls. 1, 2.\r\n\r\nD.J. Ehnbom. The Dispersed Bhagavta Purana. Berkeley. .\r\n\r\nMilo Cleveland Beach. The Imperial Image: Paintings for the Mughal Court. Exh. cat. Washington, 1981. cat. 3a, p. 48.\r\nMasters of Indian Painting. Exh. cat. Zurich. pp. 77-88, fig. 8."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/61/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/140/canvas.json",
+"label": "Krishna draws Kamsa's bow",
+"@type": "sc:Canvas",
+"width": 1770,
+"height": 1332,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/145/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/5c147da84c340b8773cae4366c4befee.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 1770,
+"height": 1332,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/5c147da84c340b8773cae4366c4befee.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/140/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/140\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna draws Kamsa's bow"
+},
+{
+"label": "Link",
+"value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09478/lot.775.html#"
+},
+{
+"label": "Size (H x W cm)",
+"value": "image: 15.6 x 20.7 cm"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/140/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/141/canvas.json",
+"label": "The Slaying of Kuvalayapida",
+"@type": "sc:Canvas",
+"width": 0,
+"height": 0,
+"images": [],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/141\">View page</a>"
+},
+{
+"label": "Title",
+"value": "The Slaying of Kuvalayapida"
+},
+{
+"label": "Repository",
+"value": "Tandon Collection, Hyderabad"
+},
+{
+"label": "Text",
+"value": "BP X.43.8-13"
+},
+{
+"label": "Publications",
+"value": "Beach, 2011, p. 78"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/141/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/142/canvas.json",
+"label": "Coronation of Ugrasena",
+"@type": "sc:Canvas",
+"width": 1980,
+"height": 1354,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/146/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/c26ccc73f2383c240973fa6e9f6a4b2f.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 1980,
+"height": 1354,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/c26ccc73f2383c240973fa6e9f6a4b2f.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/142/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/142\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Coronation of Ugrasena"
+},
+{
+"label": "Link",
+"value": "https://www.sothebys.com/en/auctions/ecatalogue/2002/important-indian-miniatures-from-the-paul-f-walter-collection-n07846/lot.14.html"
+},
+{
+"label": "Text",
+"value": "BP X.45.12-13"
+},
+{
+"label": "Publications",
+"value": "Beach? Ehnbom 2011, p. 79"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/142/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/143/canvas.json",
+"label": "The widows of Kamsa approach Jarasandha for aid",
+"@type": "sc:Canvas",
+"width": 0,
+"height": 0,
+"images": [],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/143\">View page</a>"
+},
+{
+"label": "Title",
+"value": "The widows of Kamsa approach Jarasandha for aid"
+},
+{
+"label": "Repository",
+"value": "Present Location Unknown (formerly in the collection of Paul Walter, NY)"
+},
+{
+"label": "Text",
+"value": "BP X.50.1-3"
+},
+{
+"label": "Publications",
+"value": "Beach 2011 p. 79"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/143/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/144/canvas.json",
+"label": "Krishna and Balarama prepare for battle",
+"@type": "sc:Canvas",
+"width": 0,
+"height": 0,
+"images": [],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/144\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna and Balarama prepare for battle"
+},
+{
+"label": "Repository",
+"value": "Museum Rietburg Zurich, Collection of Horst Metzger"
+},
+{
+"label": "Accession Number",
+"value": "RVI 1912"
+},
+{
+"label": "Text",
+"value": "BP X.50.11-15"
+},
+{
+"label": "Publications",
+"value": "Beach 2011 p. 79"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/144/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/113/canvas.json",
+"label": "Battle Scene (painting, recto), folio from a Bhagavata Purana series",
+"@type": "sc:Canvas",
+"width": 1024,
+"height": 781,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/112/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/cd388ee414bbcaf0924852e533202337.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1024,
+"height": 781,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/cd388ee414bbcaf0924852e533202337.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/113/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/113\">View page</a>"
+},
+{
+"label": "Source",
+"value": "https://mappingcolor.omeka.fas.harvard.edu/items/show/113"
+},
+{
+"label": "Title",
+"value": "Battle Scene (painting, recto), folio from a Bhagavata Purana series"
+},
+{
+"label": "Link",
+"value": "https://harvardartmuseums.org/collections/object/216410?position=14"
+},
+{
+"label": "Repository",
+"value": "Harvard Art Museums"
+},
+{
+"label": "Accession Number",
+"value": "1974.126"
+},
+{
+"label": "Provenance",
+"value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. and Mrs. Peter Bienstock"
+},
+{
+"label": "Medium",
+"value": "Ink and opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.5 x 23.2 cm"
+},
+{
+"label": "Text",
+"value": "BP X. 50. 25-35"
+},
+{
+"label": "Publications",
+"value": "Ehnbom, Daniel J. An Analysis and Reconstruction of the Dispersed Bhāgavata Purāna from the Caurapañcāśikā Group, 1984. Dissertation."
+},
+{
+"label": "Exhibition History",
+"value": "Re-View: Arts of India & the Islamic Lands, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/26/2008 - 06/01/2013\r\n\r\nRe-View: S231 (Islamic rotation: 4) Strolling Through Isfahan: Seventeenth-Century Paintings From Safavid Iran, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 01/08/2010 - 06/13/2010"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/113/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/114/canvas.json",
+"label": "Battle Scene (text, verso), folio from a Bhagavata Purana series",
+"@type": "sc:Canvas",
+"width": 1024,
+"height": 784,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/113/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/ce3ee23b6dca22d306a70db283446a40.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1024,
+"height": 784,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/ce3ee23b6dca22d306a70db283446a40.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/114/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/114\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Battle Scene (text, verso), folio from a Bhagavata Purana series"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/114/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/109/canvas.json",
+"label": "Rukmini at the Parvati Temple",
+"@type": "sc:Canvas",
+"width": 564,
+"height": 436,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/107/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/15f20d2cf6305e2eb9473ba77da78f12.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 564,
+"height": 436,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/15f20d2cf6305e2eb9473ba77da78f12.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/109/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/109\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Rukmini at the Parvati Temple"
+},
+{
+"label": "Link",
+"value": "https://www.metmuseum.org/art/collection/search/76188"
+},
+{
+"label": "Repository",
+"value": "The Metropolitan Museum of Art; Lent by Ludwig Habighorst Collection, Koblenz Germany"
+},
+{
+"label": "Provenance",
+"value": "Purchased by Ludwig Habighorst, in 1986 from Fine Arts Trade, Frankfurt, Germany."
+},
+{
+"label": "Parent Work",
+"value": "\"Palam\" Bhagavata Purana"
+},
+{
+"label": "Medium",
+"value": "Ink and opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.2 x 22.2 cm"
+},
+{
+"label": "Exhibition History",
+"value": "New York. The Metropolitan Museum of Art. \"Wonder of the Age: Master Painters of India, 1100–1900,\" September 26, 2011–January 8, 2012."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/109/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/145/canvas.json",
+"label": "The birth of Rukmini's son accompanied by celebrations",
+"@type": "sc:Canvas",
+"width": 1916,
+"height": 1334,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/147/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/bd2c4f52201feca502455bb1fa8212dd.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 1916,
+"height": 1334,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/bd2c4f52201feca502455bb1fa8212dd.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/145/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/145\">View page</a>"
+},
+{
+"label": "Title",
+"value": "The birth of Rukmini's son accompanied by celebrations"
+},
+{
+"label": "Link",
+"value": "https://www.sothebys.com/en/auctions/ecatalogue/2018/arts-of-the-islamic-world-l18223/lot.99.html"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.5 x 23 cm."
+},
+{
+"label": "Text",
+"value": "BP X.55.??"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/145/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/60/canvas.json",
+"label": "The Sleeping Shatrajit Murdered by Satadhanva",
+"@type": "sc:Canvas",
+"width": 4200,
+"height": 3042,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/57/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/22f419070f6f887f8137f84648eaad81.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 4200,
+"height": 3042,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/22f419070f6f887f8137f84648eaad81.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/60/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/58/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/86b34af6e90bf1b065820a7c6f7852ee.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 4200,
+"height": 2981,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/86b34af6e90bf1b065820a7c6f7852ee.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/60/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/60\">View page</a>"
+},
+{
+"label": "Title",
+"value": "The Sleeping Shatrajit Murdered by Satadhanva"
+},
+{
+"label": "Link",
+"value": "https://asia.si.edu/object/F1966.31/"
+},
+{
+"label": "Repository",
+"value": "Freer Gallery of Art / National Museum of Asian Art, Smithsonian"
+},
+{
+"label": "Accession Number",
+"value": "F1966.31"
+},
+{
+"label": "Provenance",
+"value": "Provenance information is currently unavailable / Purchase — Charles Lang Freer Endowment"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor and ink on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.6 cm x 23.1 cm"
+},
+{
+"label": "Text",
+"value": "BP X.57.1-8 (first half)\r\n\r\nश्रीशुक उवाच\r\nविज्ञातार्थोऽपि गोविन्दो दग्धानाकर्ण्य पाण्डवान् ।\r\nकुन्तीं च कुल्यकरणे सह रामो ययौ कुरून् ॥ १॥\r\n\r\nभीष्मं कृपं सविदुरं गान्धारीं द्रोणमेव च ।\r\nतुल्यदुःखौ च सङ्गम्य हा कष्टमिति होचतुः ॥ २॥\r\n\r\nलब्ध्वैतदन्तरं राजन् शतधन्वानमूचतुः ।\r\nअक्रूरकृतवर्माणौ मणिः कस्मान्न गृह्यते ॥ ३॥\r\n\r\nयोऽस्मभ्यं सम्प्रतिश्रुत्य कन्यारत्नं विगर्ह्य नः ।\r\nकृष्णायादान्न सत्राजित्कस्माद्भ्रातरमन्वियात् ॥ ४॥\r\n\r\nएवं भिन्नमतिस्ताभ्यां सत्राजितमसत्तमः ।\r\nशयानमवधील्लोभात्स पापः क्षीणजीवितः ॥ ५॥\r\n\r\nस्त्रीणां विक्रोशमानानां क्रन्दन्तीनामनाथवत् ।\r\nहत्वा पशून् सौनिकवन्मणिमादाय जग्मिवान् ॥ ६॥\r\n\r\nसत्यभामा च पितरं हतं वीक्ष्य शुचार्पिता ।\r\nव्यलपत्तात तातेति हा हतास्मीति मुह्यती ॥ ७॥\r\n\r\nतैलद्रोण्यां मृतं प्रास्य जगाम गजसाह्वयम् ।"
+},
+{
+"label": "Publications",
+"value": "Milo Cleveland Beach. The Imperial Image: Paintings for the Mughal Court., 2nd. Washington and Ahmedabad, India, 2012. cat. 4A, p. 49.\r\n\r\nMilo Cleveland Beach. The Imperial Image: Paintings for the Mughal Court. Exh. cat. Washington, 1981. cat. 3b, p. 49."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/60/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/49/canvas.json",
+"label": "Akrura and Krishna",
+"@type": "sc:Canvas",
+"width": 2500,
+"height": 1875,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/40/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/ed4adbf775ec84972617d5a3a9f857f6.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2500,
+"height": 1875,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/ed4adbf775ec84972617d5a3a9f857f6.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/49/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/49\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Akrura and Krishna"
+},
+{
+"label": "Link",
+"value": "http://collections.vam.ac.uk/item/O17692/akrura-and-krishna-painting-unknown/"
+},
+{
+"label": "Repository",
+"value": "Victoria and Albert Museum"
+},
+{
+"label": "Accession Number",
+"value": "IS.2-1977"
+},
+{
+"label": "Provenance",
+"value": "Given by John Bachofen von Echt."
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Medium",
+"value": "Painted in opaque watercolour on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.5 cm x 23.2 cm"
+},
+{
+"label": "Paratext",
+"value": "\"Udhau... Akrura... Krishna... Raya' \r\nInscriptions in Nagri identify the characters.\""
+},
+{
+"label": "Publications",
+"value": "Swallow, Deborah and John Guy eds. Arts of India: 1550-1900. text by Rosemary Crill, John Guy, Veronica Murphy, Susan Stronge and Deborah Swallow. London : V&A Publications, 1990. 240 p., ill. ISBN 1851770224, pp 36/37, no.21.\r\n\r\nIn the image of man : the Indian perception of the universe through 2000 years of painting and sculpture : [exhibition / organized by Catherine Lampert assisted by Rosalie Cass]. London: Weidenfeld and Nicolson :in association with the Arts Council of Great Britain, 1982 Number: 0297780719, 0297781243 (pbk.)p. 209 cat. no. 405"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/49/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/146/canvas.json",
+"label": "Krsna and Arjuna hunt animals suitable for sacrifice",
+"@type": "sc:Canvas",
+"width": 0,
+"height": 0,
+"images": [],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/146\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krsna and Arjuna hunt animals suitable for sacrifice"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.8 x 23.5 cm"
+},
+{
+"label": "Text",
+"value": "BP X.58.13-16 (first line)"
+},
+{
+"label": "Publications",
+"value": "The Ehrenfeld Collection Catalogue, p. 24"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/146/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/147/canvas.json",
+"label": "The Burning of the Khandava forest",
+"@type": "sc:Canvas",
+"width": 1896,
+"height": 1320,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/148/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/bc9e6d8f264fbbe7ae08e371e338abe2.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 1896,
+"height": 1320,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/bc9e6d8f264fbbe7ae08e371e338abe2.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/147/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/147\">View page</a>"
+},
+{
+"label": "Title",
+"value": "The Burning of the Khandava forest"
+},
+{
+"label": "Link",
+"value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09319/lot.1113.html"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.7 x 23.1 cm"
+},
+{
+"label": "Text",
+"value": "BP X. 58."
+},
+{
+"label": "Publications",
+"value": "A. Poster, Realms of Heroism: Indian Paintings at the Brooklyn Museum, New York,  1994, pp. 53 - 55."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/147/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/148/canvas.json",
+"label": "Krishna approached by Akrura in the Golden Palace of Dwaraka",
+"@type": "sc:Canvas",
+"width": 2000,
+"height": 2000,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/149/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/03fbb11f3bc405eb4296babc32961573.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2000,
+"height": 2000,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/03fbb11f3bc405eb4296babc32961573.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/148/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/150/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/89fa6c11a8b649da580c6024aefbf144.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2000,
+"height": 1586,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/89fa6c11a8b649da580c6024aefbf144.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/148/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/148\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna approached by Akrura in the Golden Palace of Dwaraka"
+},
+{
+"label": "Link",
+"value": "https://www.sothebys.com/en/buy/auction/2020/indian-himalayan-southeast-asian-works-of-art/an-illustration-to-a-bhagavata-purana-series"
+},
+{
+"label": "Provenance",
+"value": "PROPERTY FROM THE ESTATE OF H. PETER STERN\r\nAcquired in the 1980s"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.5 x 21.5 cm"
+},
+{
+"label": "Text",
+"value": "BP. X. 59. 1 - 2 (half)"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/148/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/149/canvas.json",
+"label": "Krishna approached by Akrura in the Golden Palace of Dwaraka (Text, Verso)",
+"@type": "sc:Canvas",
+"width": 2000,
+"height": 1586,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/151/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/40a5f125fbbcf91db37da2ff7734fcae.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2000,
+"height": 1586,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/40a5f125fbbcf91db37da2ff7734fcae.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/149/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/149\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna approached by Akrura in the Golden Palace of Dwaraka (Text, Verso)"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/149/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/150/canvas.json",
+"label": "Arrival of Krishna and Satyabhama at Pragjyotishapura",
+"@type": "sc:Canvas",
+"width": 0,
+"height": 0,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/152/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/17dbc34ab32319b2c9d96a9b9703caa4.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 0,
+"height": 0,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/17dbc34ab32319b2c9d96a9b9703caa4.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/150/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/150\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Arrival of Krishna and Satyabhama at Pragjyotishapura"
+},
+{
+"label": "Link",
+"value": "http://collection.sdmart.org/Obj5682?sid=7872&x=42109&port=2855"
+},
+{
+"label": "Repository",
+"value": "San Diego Museum of Art"
+},
+{
+"label": "Accession Number",
+"value": "1990.581"
+},
+{
+"label": "Provenance",
+"value": "Heeramaneck Galleries, New York, New York ( - April 29, 1965 )\r\nEdwin Binney 3rd, San Diego, California ( April 29, 1965 - August 27, 1990 )\r\nSan Diego Museum of Art, San Diego, California ( August 27, 1990 - )"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.3 cm x 23.3 cm"
+},
+{
+"label": "Publications",
+"value": "William George Archer, OBE, MA, D.Litt.. Rajput Miniatures,. Portland Art Museum. Portland, Oregon , 1968. Page Number: 1-2, 4, 5. Figure Number: 1c\r\nIndian and Southeast Asian Art. Christie's. New York, New York , March 27, 2003. Page Number: 166.\r\nMr. Daniel J. Ehnbom. Indian Miniatures:. Hudson Hills Press. New York, New York , 1985. Page Number: 52.\r\nIndian and Southeast Asian Art,. Christie's. New York, New York , September 23, 2004. Page Number: 116 lot no. 164.\r\nIndian & Southeast Asian Art,. Sotheby's. New York, New York , September 24, 2004. Page Number: 98 Lot no. 105.\r\nBrijinder Nath Goswamy and Dr. Caron Smith. Domains of Wonder:. San Diego Museum of Art. San Diego, California , 2005. Page Number: 50, 51. Figure Number: 11\r\nDr. Milo Cleveland Beach and Brijinder Nath Goswamy. Masters of Indian Painting: 1100-1650. Artibus Asiae Publishers. Zurich , 2011. Page Number: 79. Figure Number: fig 11, p. 85\r\nMs. Marika Sardar and Ms Neeraja Poddar. Epic Tales from Ancient India. San Diego Museum of Art. San Diego, California , 2016. Page Number: 34. Figure Number: fig. 12"
+},
+{
+"label": "Exhibition History",
+"value": "Rajput Miniatures from the Collection of Edwin Binney, 3rd, The Portland Art Association, 9/24/1968 - 12/14/1969\r\nMyths, Monsters, Maharajas: Introducing the Binney Collection, San Diego Museum of Art, 11/23/1991 - 1/26/1992\r\nDomains of Wonder: Selected Masterworks of Indian Painting, San Diego Museum of Art, 10/22/2005 - 1/27/2008"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/150/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/151/canvas.json",
+"label": "Krishna attacks Naraka's fortress at Progjyotishpur",
+"@type": "sc:Canvas",
+"width": 1914,
+"height": 1332,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/153/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/c1fb12e7ac34cb19664c432ed04279b1.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 1914,
+"height": 1332,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/c1fb12e7ac34cb19664c432ed04279b1.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/151/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/151\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna attacks Naraka's fortress at Progjyotishpur"
+},
+{
+"label": "Link",
+"value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09478/lot.776.html"
+},
+{
+"label": "Size (H x W cm)",
+"value": "Image: 15.3 x 21.3 cm"
+},
+{
+"label": "Publications",
+"value": "Alice Heeramaneck, Masterpieces of Indian Painting, Verona, 1984, pl. 7, p. 32"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/151/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/100/canvas.json",
+"label": "Battle Between Krishna and the Fire-Headed Demon Mura",
+"@type": "sc:Canvas",
+"width": 960,
+"height": 640,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/98/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/00a9f36e2b83d9b34469867cdab880f1.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 960,
+"height": 640,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/00a9f36e2b83d9b34469867cdab880f1.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/100/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/100\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Battle Between Krishna and the Fire-Headed Demon Mura"
+},
+{
+"label": "Link",
+"value": "http://museum.asiasociety.org/collection/explore/1979-055-folio-from-a-bhagavata-purana-manuscript-battle-between-krishna-and-the-fire-headed-demon-mura"
+},
+{
+"label": "Repository",
+"value": "Asia Society"
+},
+{
+"label": "Accession Number",
+"value": "1979.55"
+},
+{
+"label": "Parent Work",
+"value": "\"Palam\" Bhagavata Purana"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor and ink on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.8 x 22.9 cm"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/100/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/152/canvas.json",
+"label": "In Attacking Narada’s Fortress at Progjyotishpur, Vishnu Slays the Demon General Mura",
+"@type": "sc:Canvas",
+"width": 0,
+"height": 0,
+"images": [],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/152\">View page</a>"
+},
+{
+"label": "Title",
+"value": "In Attacking Narada’s Fortress at Progjyotishpur, Vishnu Slays the Demon General Mura"
+},
+{
+"label": "Link",
+"value": "https://www.metmuseum.org/art/collection/search/666282?&exhibitionId=%7b02cef407-c9f9-4ddc-a43d-547eed945478%7d&oid=666282&pkgids=360&pg=1&rpp=4&pos=3&ft=*"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/152/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/41/canvas.json",
+"label": "Krishna Battles the Armies of the Demon Naraka",
+"@type": "sc:Canvas",
+"width": 2824,
+"height": 2112,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/24/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/d996aa82777d68198e87389d4d2a6c35.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2000,
+"height": 1600,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/d996aa82777d68198e87389d4d2a6c35.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/41/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/25/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/1f16633e3e8e17686ca7dceed642dc5f.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2824,
+"height": 2112,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/1f16633e3e8e17686ca7dceed642dc5f.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/41/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/41\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna Battles the Armies of the Demon Naraka"
+},
+{
+"label": "Link",
+"value": "https://www.metmuseum.org/art/collection/search/37849"
+},
+{
+"label": "Repository",
+"value": "The Metropolitan Museum of Art"
+},
+{
+"label": "Accession Number",
+"value": "1985.34"
+},
+{
+"label": "Provenance",
+"value": "A. Richard Benedek , New York, until 1985; sold to MMA"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Style",
+"value": "Chaurapañchāśikā Group"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor and ink on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "Page: 20.3 cm x 23 cm;\r\nImage: 14.9 cm x 22.5 cm."
+},
+{
+"label": "Text",
+"value": "BP X.59.14 (second half) - 18 (first half)\r\n\r\nस्वानीकपानच्युतचक्रसायकैस्तथा \r\nनिरस्तान् नरको धरासुतः ॥ १४॥ \r\nनिरीक्ष्य दुर्मर्षण आस्रवन्मदैर्गजैः \r\nपयोधिप्रभवैर्निराक्रमत् ।\r\nदृष्ट्वा सभार्यं गरुडोपरि स्थितं \r\nसूर्योपरिष्टात्सतडिद्घनं यथा ।\r\nकृष्णं स तस्मै व्यसृजच्छतघ्नीं \r\nयोधाश्च सर्वे युगपत्स्म विव्यधुः ॥ १५॥\r\n\r\nतद्भौमसैन्यं भगवान् गदाग्रजो \r\nविचित्रवाजैर्निशितैः शिलीमुखैः ।\r\nनिकृत्तबाहूरुशिरोध्रविग्रहं \r\nचकार तर्ह्येव हताश्वकुञ्जरम् ॥ १६॥\r\n\r\nयानि योधैः प्रयुक्तानि शस्त्रास्त्राणि कुरूद्वह ।\r\nहरिस्तान्यच्छिनत्तीक्ष्णैः शरैरेकैकशस्त्रिभिः ॥ १७॥\r\n\r\nउह्यमानः सुपर्णेन पक्षाभ्यां निघ्नता गजान् ।"
+},
+{
+"label": "Exhibition History",
+"value": "\"New York. The Metropolitan Museum of Art. \"\"Selections for the Opening of The Florence and Herbert Irving Galleries,\"\" 1994.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Indian Paintings,\"\" 1994–95.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Illustrations of the Bhagavata Purana,\"\" 1996.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Indian Court Painting: 16th–19th Century,\"\" March 25, 1997–July 6, 1997.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Indian Court Painting,\"\" 2000.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Krishna: Mythology and Worship,\"\" February 9, 2004–May 9, 2004.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Lyrical Visions: Paintings from North India,\"\" December 3, 2011–May 28, 2012.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Encountering Vishnu: The Lion Avatar in Indian Temple Drama,\"\" December 19, 2015–June 5, 2016.\""
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/41/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/107/canvas.json",
+"label": "The Earth Goddess Returns the Stolen Goods to Krishna and Pays Homage to Him",
+"@type": "sc:Canvas",
+"width": 1500,
+"height": 1137,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/105/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/b53e33ea06ab948e6747c6379d7f9920.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1500,
+"height": 1137,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/b53e33ea06ab948e6747c6379d7f9920.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/107/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/107\">View page</a>"
+},
+{
+"label": "Title",
+"value": "The Earth Goddess Returns the Stolen Goods to Krishna and Pays Homage to Him"
+},
+{
+"label": "Link",
+"value": "https://philamuseum.org/collections/permanent/96067.html"
+},
+{
+"label": "Repository",
+"value": "Philadelphia Museum of Art"
+},
+{
+"label": "Accession Number",
+"value": "2004-149-8"
+},
+{
+"label": "Provenance",
+"value": "125th Anniversary Acquisition. Alvin O. Bellak Collection, 2004"
+},
+{
+"label": "Parent Work",
+"value": "\"Palam\" Bhagavata Purana"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.9 × 23.5 cm"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/107/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/44/canvas.json",
+"label": "Krishna and the Kshatriya Maidens Proceed to Dvaraka",
+"@type": "sc:Canvas",
+"width": 4000,
+"height": 3074,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/30/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/f834631793b9e2191d96e39b6731fefb.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 4000,
+"height": 3074,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/f834631793b9e2191d96e39b6731fefb.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/44/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/31/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/7e9d4c983c0378f5dd871ba882d91d58.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 4000,
+"height": 2957,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/7e9d4c983c0378f5dd871ba882d91d58.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/44/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/44\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna and the Kshatriya Maidens Proceed to Dvaraka"
+},
+{
+"label": "Link",
+"value": "https://www.metmuseum.org/art/collection/search/37846"
+},
+{
+"label": "Repository",
+"value": "The Metropolitan Museum of Art"
+},
+{
+"label": "Accession Number",
+"value": "1972.238"
+},
+{
+"label": "Provenance",
+"value": "Mr. and Mrs. Alvin N. Haas , Phoenix, AZ (until 1972; donated to MMA)"
+},
+{
+"label": "Medium",
+"value": "Ink and opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "Image: 17.1 cm × 22.9 cm\r\nSheet: 17.8 cm × 23.8 cm"
+},
+{
+"label": "Text",
+"value": "BP X.59.36-37\r\n\r\nताः प्राहिणोद्द्वारवतीं सुमृष्टविरजोऽम्बराः ।\r\nनरयानैर्महाकोशान् रथाश्वान् द्रविणं महत् ॥ ३६॥\r\n\r\nऐरावतकुलेभांश्च चतुर्दन्तांस्तरस्विनः ।\r\nपाण्डुरांश्च चतुःषष्टिं प्रेषयामास केशवः ॥ ३७॥"
+},
+{
+"label": "Paratext",
+"value": "Sa Nana"
+},
+{
+"label": "Exhibition History",
+"value": "\"New York. The Metropolitan Museum of Art. \"\"Masterpieces of the Art of India from the Museum's Collections,\"\" January 18, 1973–April 1, 1973.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Selections for the Opening of The Florence and Herbert Irving Galleries,\"\" 1994.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Indian Paintings,\"\" 1994–95.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Illustrations of the Bhagavata Purana,\"\" 1996.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Illustrated Manuscripts in India: Late 13th–early 17th Century,\"\" 2004.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Krishna: Mythology and Worship,\"\" March 1, 2008–July 28, 2008.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Masterpieces of Hindu Court Painting,\"\" July 17, 2013–September 8, 2013.\""
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/44/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/47/canvas.json",
+"label": "The Marriage of Pradyumna and Rukmavati",
+"@type": "sc:Canvas",
+"width": 3400,
+"height": 2555,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/36/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/d16969fdc35b7f923b9e79e55a70b539.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 900,
+"height": 685,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/d16969fdc35b7f923b9e79e55a70b539.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/47/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/37/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/f2d8bbfb8e30b17e1ec8fe7ad70a7470.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 3400,
+"height": 2555,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/f2d8bbfb8e30b17e1ec8fe7ad70a7470.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/47/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/47\">View page</a>"
+},
+{
+"label": "Link",
+"value": "http://clevelandmuseumofart.art/art/1976.26"
+},
+{
+"label": "Repository",
+"value": "The Cleveland Museum of Art"
+},
+{
+"label": "Accession Number",
+"value": "1976.26"
+},
+{
+"label": "Provenance",
+"value": "Gift of Dr. Norman Zaworski"
+},
+{
+"label": "Size (H x W cm)",
+"value": "16.3 x 21.5 cm"
+},
+{
+"label": "Text",
+"value": "BP X.61.20-24\r\n\r\nराजोवाच\r\nकथं रुक्म्यरिपुत्राय प्रादाद्दुहितरं युधि ।\r\nकृष्णेन परिभूतस्तं हन्तुं रन्ध्रं प्रतीक्षते ।\r\nएतदाख्याहि मे विद्वन् द्विषोर्वैवाहिकं मिथः ॥ २०॥\r\n\r\nअनागतमतीतं च वर्तमानमतीन्द्रियम् ।\r\nविप्रकृष्टं व्यवहितं सम्यक् पश्यन्ति योगिनः ॥ २१॥\r\n\r\nश्रीशुक उवाच\r\nवृतः स्वयंवरे साक्षादनङ्गोऽङ्गयुतस्तया ।\r\nराज्ञः समेतान् निर्जित्य जहारैकरथो युधि ॥ २२॥\r\n\r\nयद्यप्यनुस्मरन् वैरं रुक्मी कृष्णावमानितः ।\r\nव्यतरद्भागिनेयाय सुतां कुर्वन् स्वसुः प्रियम् ॥ २३॥\r\n\r\nरुक्मिण्यास्तनयां राजन् कृतवर्मसुतो बली ।\r\nउपयेमे विशालाक्षीं कन्यां चारुमतीं किल ॥ २४॥"
+},
+{
+"label": "Paratext",
+"value": "Inscription in lower left damaged, replaced with \"\"Pradyumna ko vivahu\"\" (the marriage of Pradyumna) in lower center; text on verso."
+},
+{
+"label": "Publications",
+"value": "Ehnbom, Daniel J. An Analysis and Reconstruction of the Dispersed Bhāgavata Purāna from the Caurapañcāśikā Group, 1984.pl.34."
+},
+{
+"label": "Exhibition History",
+"value": "\"Indian Miniature Rotation (Gallery 115); August 13, 2003 - February 18, 2004.\r\nIndian Minature Rotation (Gallery 115); August 18, 2004 -\r\nFrench Drawings and Watercolors from French Public and Private Collections. The Cleveland Museum of Art, Cleveland, OH (January 6-February 15, 1942).\r\nYear in Review, 1976. The Cleveland Museum of Art (organizer) (February 1-March 6, 1977).\r\nSupernatural Love - Indian Gallery 242 Rotation. The Cleveland Museum of Art (organizer) (April 1-September 9, 2019).\""
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/47/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/52/canvas.json",
+"label": "Aniruddha's Marriage ",
+"@type": "sc:Canvas",
+"width": 2500,
+"height": 2139,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/44/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/28599af3aa62d1de22a1cc13e1d6ac66.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2500,
+"height": 2050,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/28599af3aa62d1de22a1cc13e1d6ac66.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/52/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/45/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/6ee67fb80c0c0dcd0cc905bcc17bf77c.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2500,
+"height": 2139,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/6ee67fb80c0c0dcd0cc905bcc17bf77c.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/52/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/52\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Aniruddha's Marriage"
+},
+{
+"label": "Link",
+"value": "https://www.britishmuseum.org/collection/object/A_1958-1011-0-1"
+},
+{
+"label": "Repository",
+"value": "British Museum"
+},
+{
+"label": "Accession Number",
+"value": "1958,1011,0.1"
+},
+{
+"label": "Provenance",
+"value": "Purchased from Florence Marshall; Funded by Brooke Sewell Permanent Fund"
+},
+{
+"label": "Parent Work",
+"value": "Dispersed Bhāgavata Purāṇa"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Style",
+"value": "Chaurapañchāśikā Group"
+},
+{
+"label": "Medium",
+"value": "Painted on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "18 cm x 23.50 cm"
+},
+{
+"label": "Text",
+"value": "BP X.61.25\r\n\r\nदौहित्रायानिरुद्धाय पौत्रीं रुक्म्यददाद्धरेः ।\r\nरोचनां बद्धवैरोऽपि स्वसुः प्रियचिकीर्षया ।\r\nजानन्नधर्मं तद्यौनं स्नेहपाशानुबन्धनः ॥ २५॥"
+},
+{
+"label": "Paratext",
+"value": "Inscription type: inscription\r\nInscription position: Middle of painting\r\nInscription script: Devanagari\r\nInscription transliteration: Hīrabhāī\r\nInscription note: Presumed to be an owner's name\r\nInscription type: inscription\r\nInscription position: above painting\r\nInscription script: Devanagari\r\nInscription transliteration: Sā Nānā\r\nInscription note: Presumed to be an owner's name\r\nInscription type: inscription\r\nInscription position: below painting\r\nInscription language: Hindi\r\nInscription script: Devanagari\r\nInscription transliteration: Sāṃba kī vīvāha\r\nInscription translation: The marriage of Sāṃba\r\nInscription note: Sāṃba, a young son of Kŗṣṇa by his wife Jāmbavatī, abducted Lakṣmaṇā daughter of Duryodhana from Hastināpura, and after being rescued from the wrath of the Kurus by his uncle Balarāma, who threatened to destroy the city with his ploughshare, married her, according to Bhāgavata Purāṇa X, ch 68.\r\nInscription type: inscription\r\nInscription position: bottom left corner\r\nInscription script: Devanagari\r\nInscription transliteration: x45\r\nInscription note: damaged first character, perhaps a folio number"
+},
+{
+"label": "Publications",
+"value": "Blurton 1992 / Hindu Art (p.27, fig.10)"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/52/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/51/canvas.json",
+"label": "Aniruddha and his new bride Uṣā in a chariot entering the city of Dvārkā",
+"@type": "sc:Canvas",
+"width": 2500,
+"height": 1935,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/42/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/0b57db2342e16cc5020f9279f110e092.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2500,
+"height": 1935,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/0b57db2342e16cc5020f9279f110e092.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/51/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/43/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/ec9d13d93ba17861ea0dcd20a88a60a1.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2500,
+"height": 1925,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/ec9d13d93ba17861ea0dcd20a88a60a1.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/51/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/51\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Aniruddha and his new bride Uṣā in a chariot entering the city of Dvārkā"
+},
+{
+"label": "Link",
+"value": "https://www.britishmuseum.org/collection/object/A_1958-1011-0-5"
+},
+{
+"label": "Repository",
+"value": "British Museum"
+},
+{
+"label": "Accession Number",
+"value": "1958,1011,0.5"
+},
+{
+"label": "Provenance",
+"value": "Purchased from Florence Marshall; Funded by Brooke Sewell Permanent Fund"
+},
+{
+"label": "Parent Work",
+"value": "Dispersed Bhāgavata Purāṇa"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Style",
+"value": "Chaurapañchāśikā Group"
+},
+{
+"label": "Medium",
+"value": "Painted on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "18.20 cm x 23.40 cm"
+},
+{
+"label": "Text",
+"value": "BP X.63.52\r\n\r\nस्वराजधानीं समलङ्कृतां ध्वजैः \r\nसतोरणैरुक्षितमार्गचत्वराम् । \r\nविवेश शङ्खानकदुन्दुभिस्वनै-\r\nरभ्युद्यतः पौरसुहृद्द्विजातिभिः ॥ ५२॥\r\n\r\nइति श्रीमद्भागवते महापुराणे पारमहंस्यां संहितायां \r\nदशमस्कन्धे उत्तरार्धे अनिरुद्धानयनं नाम त्रिषष्टितमोऽध्यायः ॥ ६३॥"
+},
+{
+"label": "Paratext",
+"value": "Inscription type: inscription\r\nInscription position: top left corner\r\nInscription language: Sanskrit\r\nInscription script: Devanagari\r\nInscription transliteration: sā. nānā\r\nInscription translation: Nana Shah?\r\nInscription note: presumed owner's name. apparent foliation 260 in lower left corner and 15 in lower right. indecipherable word below the chariot."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/51/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/55/canvas.json",
+"label": "Aniruddha and his party in discussion with King Rukmi and his advisers, and the wedding of Aniruddha and Rukmi's daughter Rocanā",
+"@type": "sc:Canvas",
+"width": 2500,
+"height": 2077,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/50/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/64a16ee32991349d13813d5385d2404e.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2500,
+"height": 2077,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/64a16ee32991349d13813d5385d2404e.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/55/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/51/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/44bfe6e0b01c3acbf24a1aea5f3d6779.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2500,
+"height": 1917,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/44bfe6e0b01c3acbf24a1aea5f3d6779.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/55/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/55\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Aniruddha and his party in discussion with King Rukmi and his advisers, and the wedding of Aniruddha and Rukmi's daughter Rocanā"
+},
+{
+"label": "Link",
+"value": "https://www.britishmuseum.org/collection/object/A_1958-1011-0-3"
+},
+{
+"label": "Repository",
+"value": "British Museum"
+},
+{
+"label": "Accession Number",
+"value": "1958,1011,0.3"
+},
+{
+"label": "Provenance",
+"value": "Purchased from Florence Marshall; Funded by Brooke Sewell Permanent Fund"
+},
+{
+"label": "Parent Work",
+"value": "Dispersed Bhāgavata Purāṇa"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Style",
+"value": "Chaurapañchāśikā Group"
+},
+{
+"label": "Medium",
+"value": "Painted on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.60 cm x 22.90 cm"
+},
+{
+"label": "Text",
+"value": "BP X.61.26 (second half)\r\n\r\nपुरं भोजकटं जग्मुः साम्बप्रद्युम्नकादयः ॥ २६॥"
+},
+{
+"label": "Paratext",
+"value": "\"Inscription type: inscription\r\nInscription position: below centre\r\nInscription language: Hindi\r\nInscription script: Devanagari\r\nInscription transliteration: Anirudha Rucanā kī nātanī vivāhī\r\nInscription translation: The marriage of Aniruddha and Rocana\""
+},
+{
+"label": "Publications",
+"value": "Ahluwalia 2008 / Rajput Painting: Romantic, Divine and Courtly Art from India (p. 11. fig. 1)"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/55/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/153/canvas.json",
+"label": "Krishna Battles Bana and his Minions",
+"@type": "sc:Canvas",
+"width": 1844,
+"height": 1328,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/154/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/310bf4602321c10666f8f3bcaddaa2ea.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 1844,
+"height": 1328,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/310bf4602321c10666f8f3bcaddaa2ea.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/153/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/153\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna Battles Bana and his Minions"
+},
+{
+"label": "Link",
+"value": "https://www.christies.com/lot/lot-a-folio-from-a-dispersed-bhagavata-purana-4346802/?from=searchresults&intObjectID=4346802"
+},
+{
+"label": "Size (H x W cm)",
+"value": "18.2 x 23.9 cm."
+},
+{
+"label": "Text",
+"value": "BP X. 63"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/153/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/154/canvas.json",
+"label": "The multi-armed King Sahastrabahu strides before warriors",
+"@type": "sc:Canvas",
+"width": 1886,
+"height": 1330,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/155/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/c4b0655d4308a9bc73b0896fbaa799ce.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 1886,
+"height": 1330,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/c4b0655d4308a9bc73b0896fbaa799ce.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/154/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/154\">View page</a>"
+},
+{
+"label": "Title",
+"value": "The multi-armed King Sahastrabahu strides before warriors"
+},
+{
+"label": "Link",
+"value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09319/lot.1112.html"
+},
+{
+"label": "Size (H x W cm)",
+"value": "18.1 x 24.2 cm"
+},
+{
+"label": "Text",
+"value": "BP X.63"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/154/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/37/canvas.json",
+"label": "Krishna fights the thousand-armed demon Bana; Bana’s mother Kothara intervenes to save her son",
+"@type": "sc:Canvas",
+"width": 1024,
+"height": 777,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/20/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/d13c1d11e48dbba14352b1dd458ce95a.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1024,
+"height": 777,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/d13c1d11e48dbba14352b1dd458ce95a.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/37/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/37\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna fights the thousand-armed demon Bana; Bana’s mother Kothara intervenes to save her son"
+},
+{
+"label": "Link",
+"value": "https://hvrd.art/o/310485"
+},
+{
+"label": "Repository",
+"value": "Harvard Art Museums"
+},
+{
+"label": "Accession Number",
+"value": "1995.68"
+},
+{
+"label": "Provenance",
+"value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift in gratitude to John Coolidge, Gift of Leslie Cheek, Jr., Anonymous Fund in memory of Henry Berg, Louise Haskell Daly, Alpheus Hyatt, Richard Norton Memorial Funds and through the generosity of Albert H. Gordon and Emily Rauh Pulitzer; formerly in the collection of Stuart Cary Welch, Jr."
+},
+{
+"label": "Parent Work",
+"value": "Dispersed Bhāgavata Purāṇa"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Style",
+"value": "Chaurapañchāśikā Group"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.5 cm x 22.5 cm"
+},
+{
+"label": "Publications",
+"value": "Stuart Cary Welch and Mark Zebrowski, A Flower from Every Meadow: Indian Paintings from American Collections, exh. cat., New York Graphic SocietyNew York Graphic Society (New York, NY, 1973), Page 24-25/Figure 6"
+},
+{
+"label": "Exhibition History",
+"value": "Indian Harvest: Part 1, Harvard University Art Museums, Cambridge, 11/30/1995 - 01/21/1996\r\n\r\nRajasthani Miniatures: The Welch Collection at the Arthur M. Sackler Museum, Harvard University, The Drawing Center, New York, 04/16/1997 - 06/07/1997\r\n\r\nRe-View: Arts of India & the Islamic Lands, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/26/2008 - 06/01/2013\r\n\r\nBeyond the Surface: Scientific Approaches to Islamic Metalwork, Harvard Art Museums, Cambridge, 10/21/2011 - 06/01/2013"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/37/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/155/canvas.json",
+"label": "Balarama and the gopis",
+"@type": "sc:Canvas",
+"width": 1618,
+"height": 1144,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/156/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/1d76bdaceefe523b63bfdda2cf37c01f.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 1618,
+"height": 1144,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/1d76bdaceefe523b63bfdda2cf37c01f.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/155/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/155\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Balarama and the gopis"
+},
+{
+"label": "Link",
+"value": "https://www.christies.com/lot/lot-a-leaf-from-an-early-bhagavata-purana-3970127/?from=searchresults&intObjectID=3970127"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.9 x 23.9 cm."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/155/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/156/canvas.json",
+"label": "Balarama destroys a palace ",
+"@type": "sc:Canvas",
+"width": 1610,
+"height": 1190,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/157/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/643898d4c6a03c7d46fd82b5d31261f4.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 1610,
+"height": 1190,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/643898d4c6a03c7d46fd82b5d31261f4.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/156/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/156\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Balarama destroys a palace"
+},
+{
+"label": "Link",
+"value": "https://www.christies.com/lot/lot-balarama-destroys-a-palace-mewar-circa-1570-4572640/?from=searchresults&intObjectID=4572640"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.3 x 24 cm."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/156/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/54/canvas.json",
+"label": "Kṛṣṇa and one of his wives performing various activities",
+"@type": "sc:Canvas",
+"width": 2500,
+"height": 1852,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/48/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/f18d8252f760fe46605f4f5b152feacd.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2500,
+"height": 1852,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/f18d8252f760fe46605f4f5b152feacd.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/54/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/49/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/b4121290380a5d882c3141e8395d1502.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2500,
+"height": 1830,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/b4121290380a5d882c3141e8395d1502.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/54/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/54\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Kṛṣṇa and one of his wives performing various activities"
+},
+{
+"label": "Link",
+"value": "https://www.britishmuseum.org/collection/object/A_1958-1011-0-2"
+},
+{
+"label": "Repository",
+"value": "British Museum"
+},
+{
+"label": "Accession Number",
+"value": "1958,1011,0.2"
+},
+{
+"label": "Provenance",
+"value": "Purchased from Florence Marshall; Funded by Brooke Sewell Permanent Fund"
+},
+{
+"label": "Parent Work",
+"value": "Dispersed Bhāgavata Purāṇa"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Style",
+"value": "Chaurapañchāśikā Group"
+},
+{
+"label": "Medium",
+"value": "Painted on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.30 cm x 23.20 cm"
+},
+{
+"label": "Text",
+"value": "BP X.70.1-15 (first half)\r\n\r\nश्रीशुक उवाच\r\nअथोषस्युपवृत्तायां कुक्कुटान् कूजतोऽशपन् ।\r\nगृहीतकण्ठ्यः पतिभिर्माधव्यो विरहातुराः ॥ १॥\r\n\r\nवयांस्यरोरुवन् कृष्णं बोधयन्तीव वन्दिनः ।\r\nगायत्स्वलिष्वनिद्राणि मन्दारवनवायुभिः ॥ २॥\r\n\r\nमुहूर्तं तं तु वैदर्भी नामृष्यदतिशोभनम् ।\r\nपरिरम्भणविश्लेषात्प्रियबाह्वन्तरं गता ॥ ३॥\r\n\r\nब्राह्मे मुहूर्त उत्थाय वार्युपस्पृश्य माधवः ।\r\nदध्यौ प्रसन्नकरण आत्मानं तमसः परम् ॥ ४॥\r\n\r\nएकं स्वयंज्योतिरनन्यमव्ययं \r\nस्वसंस्थया नित्यनिरस्तकल्मषम् ।\r\nब्रह्माख्यमस्योद्भवनाशहेतुभिः \r\nस्वशक्तिभिर्लक्षितभावनिर्वृतिम् ॥ ५॥\r\n\r\nअथाप्लुतोऽम्भस्यमले यथाविधि \r\nक्रियाकलापं परिधाय वाससी । \r\nचकार सन्ध्योपगमादि सत्तमो \r\nहुतानलो ब्रह्म जजाप वाग्यतः ॥ ६॥\r\n\r\nउपस्थायार्कमुद्यन्तं तर्पयित्वात्मनः कलाः ।\r\nदेवान् ऋषीन् पितॄन् वृद्धान् विप्रानभ्यर्च्य चात्मवान् ॥ ७॥\r\n\r\nधेनूनां रुक्मश‍ृङ्गीणां साध्वीनां मौक्तिकस्रजाम् ।\r\nपयस्विनीनां गृष्टीनां सवत्सानां सुवाससाम् ॥ ८॥\r\n\r\nददौ रूप्यखुराग्राणां क्षौमाजिनतिलैः सह ।\r\nअलङ्कृतेभ्यो विप्रेभ्यो बद्वं बद्वं दिने दिने ॥ ९॥\r\n\r\nगोविप्रदेवतावृद्धगुरून् भूतानि सर्वशः ।\r\nनमस्कृत्यात्मसम्भूतीर्मङ्गलानि समस्पृशत् ॥ १०॥\r\n\r\nआत्मानं भूषयामास नरलोकविभूषणम् ।\r\nवासोभिर्भूषणैः स्वीयैर्दिव्यस्रगनुलेपनैः ॥ ११॥\r\n\r\nअवेक्ष्याज्यं तथाऽऽदर्शं गोवृषद्विजदेवताः ।\r\nकामांश्च सर्ववर्णानां पौरान्तःपुरचारिणाम् ।\r\nप्रदाप्य प्रकृतीः कामैः प्रतोष्य प्रत्यनन्दत ॥ १२॥\r\n\r\nसंविभज्याग्रतो विप्रान् स्रक्ताम्बूलानुलेपनैः ।\r\nसुहृदः प्रकृतीर्दारानुपायुङ्क्त ततः स्वयम् ॥ १३॥\r\n\r\nतावत्सूत उपानीय स्यन्दनं परमाद्भुतम् ।\r\nसुग्रीवाद्यैर्हयैर्युक्तं प्रणम्यावस्थितोऽग्रतः ॥ १४॥\r\n\r\nगृहीत्वा पाणिना पाणी सारथेस्तमथारुहत् ।"
+},
+{
+"label": "Paratext",
+"value": "Inscription type: inscription\r\nInscription position: top margin\r\nInscription language: Sanskrit\r\nInscription script: Devanagari\r\nInscription transliteration: Sā. Mīṭhārām\r\nInscription translation: Mitharam Sa or Shah?\r\nInscription note: Assumed to be an owner's name."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/54/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/45/canvas.json",
+"label": "Krishna Is Welcomed into Mathura",
+"@type": "sc:Canvas",
+"width": 4000,
+"height": 2772,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/32/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/295403d1474248247ecb8597bd5770fe.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 4000,
+"height": 2772,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/295403d1474248247ecb8597bd5770fe.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/45/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/33/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/22c9d588f4f1535d16215376bfb1e497.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2896,
+"height": 1984,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/22c9d588f4f1535d16215376bfb1e497.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/45/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/45\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna Is Welcomed into Mathura"
+},
+{
+"label": "Link",
+"value": "https://www.metmuseum.org/art/collection/search/37812"
+},
+{
+"label": "Repository",
+"value": "The Metropolitan Museum of Art"
+},
+{
+"label": "Accession Number",
+"value": "1989.236.2"
+},
+{
+"label": "Provenance",
+"value": "Doris Rubin , New York (until 1989; donated to MMA)"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Medium",
+"value": "Ink and opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "16.4 x 23.2 cm"
+},
+{
+"label": "Text",
+"value": "BP X.71.23-38\r\n\r\nतमुपागतमाकर्ण्य प्रीतो दुर्दर्शनं नृणाम् ।\r\nअजातशत्रुर्निरगात्सोपाध्यायः सुहृद्वृतः ॥ २३॥\r\n\r\nगीतवादित्रघोषेण ब्रह्मघोषेण भूयसा ।\r\nअभ्ययात्स हृषीकेशं प्राणाः प्राणमिवादृतः ॥ २४॥\r\n\r\nदृष्ट्वा विक्लिन्नहृदयः कृष्णं स्नेहेन पाण्डवः ।\r\nचिराद्दृष्टं प्रियतमं सस्वजेऽथ पुनः पुनः ॥ २५॥\r\n\r\nदोर्भ्यां परिष्वज्य रमामलालयं \r\nमुकुन्दगात्रं नृपतिर्हताशुभः ।\r\nलेभे परां निर्वृतिमश्रुलोचनो \r\nहृष्यत्तनुर्विस्मृतलोकविभ्रमः ॥ २६॥\r\n\r\nतं मातुलेयं परिरभ्य निर्वृतो \r\nभीमः स्मयन् प्रेमजलाकुलेन्द्रियः ।\r\nयमौ किरीटी च सुहृत्तमं मुदा \r\nप्रवृद्धबाष्पाः परिरेभिरेऽच्युतम् ॥ २७॥\r\n\r\nअर्जुनेन परिष्वक्तो यमाभ्यामभिवादितः ।\r\nब्राह्मणेभ्यो नमस्कृत्य वृद्धेभ्यश्च यथार्हतः ॥ २८॥\r\n\r\nमानितो मानयामास कुरुसृञ्जयकैकयान् । \r\nसूतमागधगन्धर्वा वन्दिनश्चोपमन्त्रिणः ॥ २९॥\r\n\r\nमृदङ्गशङ्खपटहवीणापणवगोमुखैः ।\r\nब्राह्मणाश्चारविन्दाक्षं तुष्टुवुर्ननृतुर्जगुः ॥ ३०॥\r\n\r\nएवं सुहृद्भिः पर्यस्तः पुण्यश्लोकशिखामणिः ।\r\nसंस्तूयमानो भगवान् विवेशालङ्कृतं पुरम् ॥ ३१॥\r\n\r\nसंसिक्तवर्त्म करिणां मदगन्धतोयै-\r\nश्चित्रध्वजैः कनकतोरणपूर्णकुम्भैः । \r\nमृष्टात्मभिर्नवदुकूलविभूषणस्रग्-\r\nगन्धैर्नृभिर्युवतिभिश्च विराजमानम् ॥ ३२॥\r\n\r\nउद्दीप्तदीपबलिभिः प्रतिसद्मजाल-\r\nनिर्यातधूपरुचिरं विलसत्पताकम् । \r\nमूर्धन्यहेमकलशै रजतोरुश‍ृङ्गैर्जुष्टं \r\nददर्श भवनैः कुरुराजधाम ॥ ३३॥\r\n\r\nप्राप्तं निशम्य नरलोचनपानपात्र-\r\nमौत्सुक्यविश्लथितकेशदुकूलबन्धाः । \r\nसद्यो विसृज्य गृहकर्म पतींश्च तल्पे \r\nद्रष्टुं ययुर्युवतयः स्म नरेन्द्रमार्गे ॥ ३४॥\r\n\r\nतस्मिन् सुसङ्कुल इभाश्वरथद्विपद्भिः \r\nकृष्णं सभार्यमुपलभ्य गृहाधिरूढाः । \r\nनार्यो विकीर्य कुसुमैर्मनसोपगुह्य \r\nसुस्वागतं विदधुरुत्स्मयवीक्षितेन ॥ ३५॥\r\n\r\nऊचुः स्त्रियः पथि निरीक्ष्य मुकुन्दपत्नीः \r\nतारा यथोडुपसहाः किमकार्यमूभिः । \r\nयच्चक्षुषां पुरुषमौलिरुदारहास-\r\nलीलावलोककलयोत्सवमातनोति ॥ ३६॥\r\n\r\nतत्र तत्रोपसङ्गम्य पौरा मङ्गलपाणयः ।\r\nचक्रुः सपर्यां कृष्णाय श्रेणीमुख्या हतैनसः ॥ ३७॥\r\n\r\nअन्तःपुरजनैः प्रीत्या मुकुन्दः फुल्ललोचनैः ।\r\nससम्भ्रमैरभ्युपेतः प्राविशद्राजमन्दिरम् ॥ ३८॥"
+},
+{
+"label": "Exhibition History",
+"value": "\"New York. The Metropolitan Museum of Art. \"Illustrations of the Bhagavata Purana,\" 1996.\r\n\r\nNew York. The Metropolitan Museum of Art. \"Illustrated Manuscripts in India: Late 13th–early 17th Century,\" 2004.\r\n\r\nNew York. The Metropolitan Museum of Art. \"Lyrical Visions: Paintings from North India,\" December 3, 2011–May 28, 2012.\""
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/45/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/43/canvas.json",
+"label": "Bhima Slays Jarasandha",
+"@type": "sc:Canvas",
+"width": 3328,
+"height": 2568,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/28/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/ed4a08f3be396590933dc1c99899a280.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 2000,
+"height": 1481,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/ed4a08f3be396590933dc1c99899a280.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/43/canvas.json"
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/29/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/0852fff0dbbfdb353965db84b557af08.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 3328,
+"height": 2568,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/0852fff0dbbfdb353965db84b557af08.jpg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/43/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/43\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Bhima Slays Jarasandha"
+},
+{
+"label": "Link",
+"value": "https://www.metmuseum.org/art/collection/search/37850"
+},
+{
+"label": "Repository",
+"value": "The Metropolitan Museum of Art"
+},
+{
+"label": "Accession Number",
+"value": "1985.398.16"
+},
+{
+"label": "Provenance",
+"value": "Cynthia Hazen Polsky , New York (until 1985; donated to MMA)"
+},
+{
+"label": "Parent Work",
+"value": "Dispersed Bhāgavata Purāṇa"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Style",
+"value": "Chaurapañchāśikā Group"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor and ink on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.1 cm x 23 cm"
+},
+{
+"label": "Exhibition History",
+"value": "\"New York. The Metropolitan Museum of Art. \"\"Illustrations of the Bhagavata Purana,\"\" 1996.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Lyrical Visions: Paintings from North India,\"\" December 3, 2011–May 28, 2012.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Encountering Vishnu: The Lion Avatar in Indian Temple Drama,\"\" December 19, 2015–June 5, 2016.\""
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/43/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/157/canvas.json",
+"label": "King Yudhishthira and companions proceed for ritual ablutions",
+"@type": "sc:Canvas",
+"width": 0,
+"height": 0,
+"images": [],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/157\">View page</a>"
+},
+{
+"label": "Title",
+"value": "King Yudhishthira and companions proceed for ritual ablutions"
+},
+{
+"label": "Repository",
+"value": "Museum Reitberg Zurich"
+},
+{
+"label": "Accession Number",
+"value": "RVI 915"
+},
+{
+"label": "Text",
+"value": "BP X.74 (?)"
+},
+{
+"label": "Publications",
+"value": "Beach 2011 p. 79"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/157/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/39/canvas.json",
+"label": "Battle Scene",
+"@type": "sc:Canvas",
+"width": 1024,
+"height": 767,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/22/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/d6b63d2060f0bd9b3a3b09bd6e01949f.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 1024,
+"height": 767,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/d6b63d2060f0bd9b3a3b09bd6e01949f.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/39/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/39\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Battle Scene"
+},
+{
+"label": "Link",
+"value": "https://hvrd.art/o/1428"
+},
+{
+"label": "Repository",
+"value": "Harvard Art Museums"
+},
+{
+"label": "Accession Number",
+"value": "1995.66"
+},
+{
+"label": "Provenance",
+"value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift in gratitude to John Coolidge, Gift of Leslie Cheek, Jr., Anonymous Fund in memory of Henry Berg, Louise Haskell Daly, Alpheus Hyatt, Richard Norton Memorial Funds and through the generosity of Albert H. Gordon and Emily Rauh Pulitzer; formerly in the collection of Stuart Cary Welch, Jr."
+},
+{
+"label": "Parent Work",
+"value": "Dispersed Bhāgavata Purāṇa"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Location",
+"value": "Mathura"
+},
+{
+"label": "Style",
+"value": "Chaurapañchāśikā Group"
+},
+{
+"label": "Medium",
+"value": "Opaque watercolor on paper"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.9 x 24 cm"
+},
+{
+"label": "Exhibition History",
+"value": "Indian Harvest: Part 1, Harvard University Art Museums, Cambridge, 11/30/1995 - 01/21/1996\r\n\r\nA Decade of Collecting: Recent Acquisitions of Islamic and Later Indian Art, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 06/08/2000 - 09/03/2000\r\n\r\nRe-View: Arts of India & the Islamic Lands, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/26/2008 - 06/01/2013\r\n\r\nRe-View: S231 (Islamic rotation: 6) I was not Waving but Drowning, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 12/03/2010 - 04/02/2011"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/39/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/159/canvas.json",
+"label": "Ram, Lakshman and a holy man at left, with Sita seated on a bolster ",
+"@type": "sc:Canvas",
+"width": 1712,
+"height": 1260,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/159/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/96b2ef02de8ce49dd716b59090ff695f.png",
+"@type": "dctypes:Image",
+"format": "image/png",
+"width": 1712,
+"height": 1260,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/96b2ef02de8ce49dd716b59090ff695f.png",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/159/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/159\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Ram, Lakshman and a holy man at left, with Sita seated on a bolster"
+},
+{
+"label": "Link",
+"value": "https://www.christies.com/lot/lot-an-illustration-to-the-nana-mitharam-bhagavata-5049805/?from=searchresults&intObjectID=5049805"
+},
+{
+"label": "Provenance",
+"value": "Heeramaneck Collection\r\nChristian Humann, Pan-Asian Collection, before 1977"
+},
+{
+"label": "Size (H x W cm)",
+"value": "16.8 x 22.5 cm."
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/159/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/158/canvas.json",
+"label": "Krishna and Balarama in discourse",
+"@type": "sc:Canvas",
+"width": 640,
+"height": 477,
+"images": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/158/anno.json",
+"motivation": "sc:painting",
+"@type": "oa:Annotation",
+"resource": {
+"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/e210ef538b07d21c643da44d0cd3f861.jpeg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"width": 640,
+"height": 477,
+"service": {
+"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/e210ef538b07d21c643da44d0cd3f861.jpeg",
+"@context": "http://iiif.io/api/image/2/context.json",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/158/canvas.json"
+}
+],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/158\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Krishna and Balarama in discourse"
+},
+{
+"label": "Link",
+"value": "https://www.bonhams.com/auctions/20479/lot/55/"
+},
+{
+"label": "Provenance",
+"value": "Private Collection\r\nAcquired from Doris Wiener in the 1980s"
+},
+{
+"label": "Size (H x W cm)",
+"value": "17.1 x 22.9 cm"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/158/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+},
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/160/canvas.json",
+"label": "Battle Scene ",
+"@type": "sc:Canvas",
+"width": 0,
+"height": 0,
+"images": [],
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/items/show/160\">View page</a>"
+},
+{
+"label": "Title",
+"value": "Battle Scene"
+},
+{
+"label": "Link",
+"value": "https://www.metmuseum.org/art/collection/search/662560?&exhibitionId=%7b02cef407-c9f9-4ddc-a43d-547eed945478%7d&oid=662560&pkgids=360&pg=1&rpp=4&pos=4&ft=*"
+}
+],
+"otherContent": [
+{
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/160/annolist.json",
+"@type": "sc:AnnotationList"
+}
+]
+}
+]
+}
+],
+"description": "Dispersed Bhagavata Purana",
+"metadata": [
+{
+"label": "Record in Omeka",
+"value": "<a href=\"/collections/show/8\">View page</a>"
+},
+{
+"label": "Date",
+"value": "1520-30 CE"
+},
+{
+"label": "Format",
+"value": "Ink and Watercolor on paper"
+}
+],
+"service": [
+{
+"@context": "http://iiif.io/api/search/1/context.json",
+"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/collections/8/search",
+"label": "Search this manifest with Omeka",
+"profile": "http://iiif.io/api/search/1/search"
+}
+]
+}

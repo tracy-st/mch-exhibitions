@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://example.org/iiif/collection/mapping-color-in-history",
+    "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana_collection.json",
     "@type": "sc:Collection",
     "label": "Mapping Color in History Collection",
     "members": [

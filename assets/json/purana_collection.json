@@ -1,0 +1,303 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://example.org/iiif/collection/mapping-color-in-history",
+    "@type": "sc:Collection",
+    "label": "Mapping Color in History Collection",
+    "members": [
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_26.json",
+            "@type": "sc:Manifest",
+            "label": "Nanda and the Elders"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_35.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna Sporting with the Cowherds"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_36.json",
+            "@type": "sc:Manifest",
+            "label": "Kamsa Sending Akrura to Fetch Krishna to Mathura; Akrura leaving for Mathura"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_37.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna fights the thousand-armed demon Bana; Bana’s mother Kothara intervenes to save her son"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_38.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna, Balarama and The Cowherds Play in the Forest"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_40.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna Subdues the Serpent King Kaliya"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_43.json",
+            "@type": "sc:Manifest",
+            "label": "Bhima Slays Jarasandha"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_44.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna and the Kshatriya Maidens Proceed to Dvaraka"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_45.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna Is Welcomed into Mathura"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_46.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna and the Cowherds"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_47.json",
+            "@type": "sc:Manifest",
+            "label": "The Marriage of Pradyumna and Rukmavati"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_48.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna sporting with the gopis in the Jumna River"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_49.json",
+            "@type": "sc:Manifest",
+            "label": "Akrura and Krishna"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_51.json",
+            "@type": "sc:Manifest",
+            "label": "Aniruddha and his new bride Uṣā in a chariot entering the city of Dvārkā"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_52.json",
+            "@type": "sc:Manifest",
+            "label": "Aniruddha's Marriage"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_54.json",
+            "@type": "sc:Manifest",
+            "label": "Kṛṣṇa and one of his wives performing various activities"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_55.json",
+            "@type": "sc:Manifest",
+            "label": "Aniruddha and his party in discussion with King Rukmi and his advisers, and the wedding of Aniruddha and Rukmi's daughter Rocanā"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_56.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna and Balarama Play with Gopas"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_57.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna Kills the Crane Demon"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_58.json",
+            "@type": "sc:Manifest",
+            "label": "Brahma Salutes Krishna"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_59.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna and his companions roam in mountains and valleys"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_74.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna and the Gopis (Verso)"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_98.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna and the Gopis"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_102.json",
+            "@type": "sc:Manifest",
+            "label": "Indra Pays Homage to Krishna"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_103.json",
+            "@type": "sc:Manifest",
+            "label": "Brahma Honors Lord Krishna for His Miraculous Deed"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_104.json",
+            "@type": "sc:Manifest",
+            "label": "Cowherd Women Seek the God Krishna in the Forest"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_105.json",
+            "@type": "sc:Manifest",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_106.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna and Balarama Taking the Cattle to Graze"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_112.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna Greets Balarama/The Search for the Jewel"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_113.json",
+            "@type": "sc:Manifest",
+            "label": "Battle Scene (painting, recto), folio from a Bhagavata Purana series"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_114.json",
+            "@type": "sc:Manifest",
+            "label": "Battle Scene (text, verso), folio from a Bhagavata Purana series"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_130.json",
+            "@type": "sc:Manifest",
+            "label": "Yashoda taking after the naughty Krishna with a stick; and Krishna Distributes Butter to the Monkeys"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_131.json",
+            "@type": "sc:Manifest",
+            "label": "Yashoda taking after the naughty Krishna with a stick; and Krishna Distributes Butter to the Monkeys (Text, Verso)"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_132.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna swinging Vatasura, the Calf-Demon as Balarama and friends watch"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_133.json",
+            "@type": "sc:Manifest",
+            "label": "Nanda and Yashoda Embrace Krishna while Balarama and others look on"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_134.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna saves his herd and companions from the fire in Munjavana forest"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_135.json",
+            "@type": "sc:Manifest",
+            "label": "The Slaying of Pralamba"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_136.json",
+            "@type": "sc:Manifest",
+            "label": "Gopis observing the vow of the Goddess"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_137.json",
+            "@type": "sc:Manifest",
+            "label": "Distraught Gopis (cowherd women) search in vain for the vanished Krishna"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_139.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna Slays the Yaksha Sankachuda"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_140.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna draws Kamsa's bow"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_142.json",
+            "@type": "sc:Manifest",
+            "label": "Coronation of Ugrasena"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_143.json",
+            "@type": "sc:Manifest",
+            "label": "The widows of Kamsa approach Jarasandha for aid"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_144.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna and Balarama prepare for battle"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_145.json",
+            "@type": "sc:Manifest",
+            "label": "The birth of Rukmini's son accompanied by celebrations"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_146.json",
+            "@type": "sc:Manifest",
+            "label": "Krsna and Arjuna hunt animals suitable for sacrifice"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_147.json",
+            "@type": "sc:Manifest",
+            "label": "The Burning of the Khandava forest"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_148.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna approached by Akrura in the Golden Palace of Dwaraka"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_149.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna approached by Akrura in the Golden Palace of Dwaraka (Text, Verso)"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_150.json",
+            "@type": "sc:Manifest",
+            "label": "Arrival of Krishna and Satyabhama at Pragjyotishapura"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_151.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna attacks Naraka's fortress at Progjyotishpur"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_153.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna Battles Bana and his Minions"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_154.json",
+            "@type": "sc:Manifest",
+            "label": "The multi-armed King Sahastrabahu strides before warriors"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_155.json",
+            "@type": "sc:Manifest",
+            "label": "Balarama and the gopis"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_156.json",
+            "@type": "sc:Manifest",
+            "label": "Balarama destroys a palace"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_157.json",
+            "@type": "sc:Manifest",
+            "label": "King Yudhishthira and companions proceed for ritual ablutions"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_158.json",
+            "@type": "sc:Manifest",
+            "label": "Krishna and Balarama in discourse"
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_159.json",
+            "@type": "sc:Manifest",
+            "label": "Ram, Lakshman and a holy man at left, with Sita seated on a bolster "
+        },
+        {
+            "@id": "https://tracy-st.github.io/mch-exhibitions/json/purana/manifest_160.json",
+            "@type": "sc:Manifest",
+            "label": "Battle Scene"
+        }
+    ]
+}

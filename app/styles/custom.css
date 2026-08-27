@@ -1,4 +1,4 @@
-/** 
+/**
  * Example custom color variables
  * @see https://nulib-ds.github.io/canopy/docs/theming/tailwind#custom
  */
@@ -11,3 +11,39 @@
     --color-accent-default: var(--color-northwestern-purple);
   }
 } */
+
+/**
+ * Search "layout: grid" (e.g. Works tab) renders via react-masonry-css,
+ * which buckets items round-robin into uneven-height column divs. Canopy
+ * has no config option for a true row-aligned grid, so this overrides the
+ * masonry markup into a real CSS grid. Only affects .canopy-grid, which is
+ * used exclusively by the search results grid view.
+ */
+.canopy-grid-wrap .canopy-grid {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--grid-gap, 1.618rem);
+}
+@media (min-width: 640px) {
+  .canopy-grid-wrap .canopy-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media (min-width: 1024px) {
+  .canopy-grid-wrap .canopy-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+@media (min-width: 1280px) {
+  .canopy-grid-wrap .canopy-grid {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+}
+/* Flatten masonry's column wrapper divs so items become direct grid children */
+.canopy-grid-wrap .canopy-grid-column {
+  display: contents;
+}
+.canopy-grid-wrap .canopy-grid-item {
+  margin-left: 0 !important;
+  margin-bottom: 0 !important;
+}

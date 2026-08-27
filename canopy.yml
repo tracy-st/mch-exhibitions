@@ -1,9 +1,8 @@
-title: Site title
+title: Reuniting the Dispersed Bhagavata Purana
 collection:
-  - https://raw.githubusercontent.com/artshumrc/mch-research/refs/heads/main/exhibitions/json/merged.json?token=GHSAT0AAAAAAEAXT2JKM44QUJAG4UUZJEBM2UQUIBQ
+  - assets/json/purana_collection.json
 manifest:
 metadata:
-  - Title
   - Medium
 featured:
 search:

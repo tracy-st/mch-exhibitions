@@ -1,0 +1,128 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/102/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Indra Pays Homage to Krishna",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/102/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/102/canvas.json",
+                    "label": "Indra Pays Homage to Krishna",
+                    "@type": "sc:Canvas",
+                    "width": 1024,
+                    "height": 772,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/99/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/c5c332a4535f0f6285bd00560de4e49b.jpeg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1024,
+                                "height": 772,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/c5c332a4535f0f6285bd00560de4e49b.jpeg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/102/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/102\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Indra Pays Homage to Krishna"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.harvardartmuseums.org/art/310595"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Harvard Art Museums"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1995.67"
+                        },
+                        {
+                            "label": "Parent Work",
+                            "value": "\"Palam\" Bhagavata Purana"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Opaque watercolor on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.7 x 23 cm"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/102/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/102\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Indra Pays Homage to Krishna"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.harvardartmuseums.org/art/310595"
+        },
+        {
+            "label": "Repository",
+            "value": "Harvard Art Museums"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1995.67"
+        },
+        {
+            "label": "Parent Work",
+            "value": "\"Palam\" Bhagavata Purana"
+        },
+        {
+            "label": "Medium",
+            "value": "Opaque watercolor on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.7 x 23 cm"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "102"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/102/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

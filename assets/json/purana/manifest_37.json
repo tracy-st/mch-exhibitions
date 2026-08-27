@@ -1,0 +1,176 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/37/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna fights the thousand-armed demon Bana; Bana’s mother Kothara intervenes to save her son",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/37/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/37/canvas.json",
+                    "label": "Krishna fights the thousand-armed demon Bana; Bana’s mother Kothara intervenes to save her son",
+                    "@type": "sc:Canvas",
+                    "width": 1024,
+                    "height": 777,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/20/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/d13c1d11e48dbba14352b1dd458ce95a.jpeg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1024,
+                                "height": 777,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/d13c1d11e48dbba14352b1dd458ce95a.jpeg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/37/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/37\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna fights the thousand-armed demon Bana; Bana’s mother Kothara intervenes to save her son"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://hvrd.art/o/310485"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Harvard Art Museums"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1995.68"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift in gratitude to John Coolidge, Gift of Leslie Cheek, Jr., Anonymous Fund in memory of Henry Berg, Louise Haskell Daly, Alpheus Hyatt, Richard Norton Memorial Funds and through the generosity of Albert H. Gordon and Emily Rauh Pulitzer; formerly in the collection of Stuart Cary Welch, Jr."
+                        },
+                        {
+                            "label": "Parent Work",
+                            "value": "Dispersed Bhāgavata Purāṇa"
+                        },
+                        {
+                            "label": "Date",
+                            "value": "1520-30 CE"
+                        },
+                        {
+                            "label": "Location",
+                            "value": "Mathura"
+                        },
+                        {
+                            "label": "Style",
+                            "value": "Chaurapañchāśikā Group"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Opaque watercolor on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.5 cm x 22.5 cm"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Stuart Cary Welch and Mark Zebrowski, A Flower from Every Meadow: Indian Paintings from American Collections, exh. cat., New York Graphic SocietyNew York Graphic Society (New York, NY, 1973), Page 24-25/Figure 6"
+                        },
+                        {
+                            "label": "Exhibition History",
+                            "value": "Indian Harvest: Part 1, Harvard University Art Museums, Cambridge, 11/30/1995 - 01/21/1996\r\n\r\nRajasthani Miniatures: The Welch Collection at the Arthur M. Sackler Museum, Harvard University, The Drawing Center, New York, 04/16/1997 - 06/07/1997\r\n\r\nRe-View: Arts of India & the Islamic Lands, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/26/2008 - 06/01/2013\r\n\r\nBeyond the Surface: Scientific Approaches to Islamic Metalwork, Harvard Art Museums, Cambridge, 10/21/2011 - 06/01/2013"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/37/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/37\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna fights the thousand-armed demon Bana; Bana’s mother Kothara intervenes to save her son"
+        },
+        {
+            "label": "Link",
+            "value": "https://hvrd.art/o/310485"
+        },
+        {
+            "label": "Repository",
+            "value": "Harvard Art Museums"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1995.68"
+        },
+        {
+            "label": "Provenance",
+            "value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift in gratitude to John Coolidge, Gift of Leslie Cheek, Jr., Anonymous Fund in memory of Henry Berg, Louise Haskell Daly, Alpheus Hyatt, Richard Norton Memorial Funds and through the generosity of Albert H. Gordon and Emily Rauh Pulitzer; formerly in the collection of Stuart Cary Welch, Jr."
+        },
+        {
+            "label": "Parent Work",
+            "value": "Dispersed Bhāgavata Purāṇa"
+        },
+        {
+            "label": "Date",
+            "value": "1520-30 CE"
+        },
+        {
+            "label": "Location",
+            "value": "Mathura"
+        },
+        {
+            "label": "Style",
+            "value": "Chaurapañchāśikā Group"
+        },
+        {
+            "label": "Medium",
+            "value": "Opaque watercolor on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.5 cm x 22.5 cm"
+        },
+        {
+            "label": "Publications",
+            "value": "Stuart Cary Welch and Mark Zebrowski, A Flower from Every Meadow: Indian Paintings from American Collections, exh. cat., New York Graphic SocietyNew York Graphic Society (New York, NY, 1973), Page 24-25/Figure 6"
+        },
+        {
+            "label": "Exhibition History",
+            "value": "Indian Harvest: Part 1, Harvard University Art Museums, Cambridge, 11/30/1995 - 01/21/1996\r\n\r\nRajasthani Miniatures: The Welch Collection at the Arthur M. Sackler Museum, Harvard University, The Drawing Center, New York, 04/16/1997 - 06/07/1997\r\n\r\nRe-View: Arts of India & the Islamic Lands, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/26/2008 - 06/01/2013\r\n\r\nBeyond the Surface: Scientific Approaches to Islamic Metalwork, Harvard Art Museums, Cambridge, 10/21/2011 - 06/01/2013"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "037"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/37/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

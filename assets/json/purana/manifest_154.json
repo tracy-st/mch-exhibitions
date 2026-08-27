@@ -1,0 +1,104 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/154/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "The multi-armed King Sahastrabahu strides before warriors",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/154/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/154/canvas.json",
+                    "label": "The multi-armed King Sahastrabahu strides before warriors",
+                    "@type": "sc:Canvas",
+                    "width": 1886,
+                    "height": 1330,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/155/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/c4b0655d4308a9bc73b0896fbaa799ce.png",
+                                "@type": "dctypes:Image",
+                                "format": "image/png",
+                                "width": 1886,
+                                "height": 1330,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/c4b0655d4308a9bc73b0896fbaa799ce.png",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/154/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/154\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "The multi-armed King Sahastrabahu strides before warriors"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09319/lot.1112.html"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "18.1 x 24.2 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.63"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/154/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/154\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "The multi-armed King Sahastrabahu strides before warriors"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09319/lot.1112.html"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "18.1 x 24.2 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.63"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "154"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/154/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/74/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna and the Gopis (Verso)",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/74/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/74/canvas.json",
+                    "label": "Krishna and the Gopis (Verso)",
+                    "@type": "sc:Canvas",
+                    "width": 1536,
+                    "height": 1149,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/71/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/66d148bad1730f87eefbad7d268f9488.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1536,
+                                "height": 1149,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/66d148bad1730f87eefbad7d268f9488.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/74/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/74\">View page</a>"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/74/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/74\">View page</a>"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "074"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/74/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/134/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna saves his herd and companions from the fire in Munjavana forest",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/134/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/134/canvas.json",
+                    "label": "Krishna saves his herd and companions from the fire in Munjavana forest",
+                    "@type": "sc:Canvas",
+                    "width": 2002,
+                    "height": 1346,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/142/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/5b03f70618d86aa6d6ba7f0b6beba7ad.png",
+                                "@type": "dctypes:Image",
+                                "format": "image/png",
+                                "width": 2002,
+                                "height": 1346,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/5b03f70618d86aa6d6ba7f0b6beba7ad.png",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/134/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/134\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna saves his herd and companions from the fire in Munjavana forest"
+                        },
+                        {
+                            "label": "Artist",
+                            "value": "Attributable to Painter B"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09478/lot.777.html"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Opaque watercolor heightened with gold on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "16.2 x 23.2 cm"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Alice Heeramaneck, Masterpieces of Indian Painting, Verona, 1984 pl. 9, p. 33"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/134/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/134\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna saves his herd and companions from the fire in Munjavana forest"
+        },
+        {
+            "label": "Artist",
+            "value": "Attributable to Painter B"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09478/lot.777.html"
+        },
+        {
+            "label": "Medium",
+            "value": "Opaque watercolor heightened with gold on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "16.2 x 23.2 cm"
+        },
+        {
+            "label": "Publications",
+            "value": "Alice Heeramaneck, Masterpieces of Indian Painting, Verona, 1984 pl. 9, p. 33"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "134"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/134/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

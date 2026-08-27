@@ -1,0 +1,104 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/159/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Ram, Lakshman and a holy man at left, with Sita seated on a bolster ",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/159/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/159/canvas.json",
+                    "label": "Ram, Lakshman and a holy man at left, with Sita seated on a bolster ",
+                    "@type": "sc:Canvas",
+                    "width": 1712,
+                    "height": 1260,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/159/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/96b2ef02de8ce49dd716b59090ff695f.png",
+                                "@type": "dctypes:Image",
+                                "format": "image/png",
+                                "width": 1712,
+                                "height": 1260,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/96b2ef02de8ce49dd716b59090ff695f.png",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/159/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/159\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Ram, Lakshman and a holy man at left, with Sita seated on a bolster"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.christies.com/lot/lot-an-illustration-to-the-nana-mitharam-bhagavata-5049805/?from=searchresults&intObjectID=5049805"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Heeramaneck Collection\r\nChristian Humann, Pan-Asian Collection, before 1977"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "16.8 x 22.5 cm."
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/159/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/159\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Ram, Lakshman and a holy man at left, with Sita seated on a bolster"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.christies.com/lot/lot-an-illustration-to-the-nana-mitharam-bhagavata-5049805/?from=searchresults&intObjectID=5049805"
+        },
+        {
+            "label": "Provenance",
+            "value": "Heeramaneck Collection\r\nChristian Humann, Pan-Asian Collection, before 1977"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "16.8 x 22.5 cm."
+        },
+        {
+            "label": "Sequential Order",
+            "value": "159"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/159/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

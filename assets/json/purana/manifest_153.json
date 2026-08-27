@@ -1,0 +1,104 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/153/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna Battles Bana and his Minions",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/153/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/153/canvas.json",
+                    "label": "Krishna Battles Bana and his Minions",
+                    "@type": "sc:Canvas",
+                    "width": 1844,
+                    "height": 1328,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/154/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/310bf4602321c10666f8f3bcaddaa2ea.png",
+                                "@type": "dctypes:Image",
+                                "format": "image/png",
+                                "width": 1844,
+                                "height": 1328,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/310bf4602321c10666f8f3bcaddaa2ea.png",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/153/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/153\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna Battles Bana and his Minions"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.christies.com/lot/lot-a-folio-from-a-dispersed-bhagavata-purana-4346802/?from=searchresults&intObjectID=4346802"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "18.2 x 23.9 cm."
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X. 63"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/153/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/153\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna Battles Bana and his Minions"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.christies.com/lot/lot-a-folio-from-a-dispersed-bhagavata-purana-4346802/?from=searchresults&intObjectID=4346802"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "18.2 x 23.9 cm."
+        },
+        {
+            "label": "Text",
+            "value": "BP X. 63"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "153"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/153/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

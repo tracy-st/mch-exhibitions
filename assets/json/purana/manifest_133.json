@@ -1,0 +1,120 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/133/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Nanda and Yashoda Embrace Krishna while Balarama and others look on ",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/133/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/133/canvas.json",
+                    "label": "Nanda and Yashoda Embrace Krishna while Balarama and others look on ",
+                    "@type": "sc:Canvas",
+                    "width": 1998,
+                    "height": 1342,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/141/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/514b365497a1d3c8ed50fdca8fb28ff2.png",
+                                "@type": "dctypes:Image",
+                                "format": "image/png",
+                                "width": 1998,
+                                "height": 1342,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/514b365497a1d3c8ed50fdca8fb28ff2.png",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/133/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/133\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Nanda and Yashoda Embrace Krishna while Balarama and others look on"
+                        },
+                        {
+                            "label": "Artist",
+                            "value": "Attributed to Painter A"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.sothebys.com/en/auctions/ecatalogue/lot.964.html/2019/indian-himalayan-southeast-asian-art-n10033"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "Folio: 17.9 by 23.5 cm."
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Pratapaditya Pal, Stephen Markel, Janice Leoshko, Pleasure Gardens of the Mind: Indian Paintings from the Jane Greenough Green Collection, Los Angeles, 1993, cat. 1B. pp. 22-23, illustrated."
+                        },
+                        {
+                            "label": "Exhibition History",
+                            "value": "Pleasure Gardens of the Mind: Indian Paintings from the Jane Greenough Green Collection, Los Angeles County Museum of Art, March 11-June 13, 1993."
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/133/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/133\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Nanda and Yashoda Embrace Krishna while Balarama and others look on"
+        },
+        {
+            "label": "Artist",
+            "value": "Attributed to Painter A"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.sothebys.com/en/auctions/ecatalogue/lot.964.html/2019/indian-himalayan-southeast-asian-art-n10033"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "Folio: 17.9 by 23.5 cm."
+        },
+        {
+            "label": "Publications",
+            "value": "Pratapaditya Pal, Stephen Markel, Janice Leoshko, Pleasure Gardens of the Mind: Indian Paintings from the Jane Greenough Green Collection, Los Angeles, 1993, cat. 1B. pp. 22-23, illustrated."
+        },
+        {
+            "label": "Exhibition History",
+            "value": "Pleasure Gardens of the Mind: Indian Paintings from the Jane Greenough Green Collection, Los Angeles County Museum of Art, March 11-June 13, 1993."
+        },
+        {
+            "label": "Sequential Order",
+            "value": "133"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/133/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

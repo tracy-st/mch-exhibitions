@@ -1,0 +1,170 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/130/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Yashoda taking after the naughty Krishna with a stick; and Krishna Distributes Butter to the Monkeys ",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/130/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/130/canvas.json",
+                    "label": "Yashoda taking after the naughty Krishna with a stick; and Krishna Distributes Butter to the Monkeys ",
+                    "@type": "sc:Canvas",
+                    "width": 1200,
+                    "height": 908,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/137/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/3487be640ab5d63813381a083cb0f497.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1200,
+                                "height": 908,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/3487be640ab5d63813381a083cb0f497.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/130/canvas.json"
+                        },
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/138/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/607cda01b7fb743fccab5237a40812fb.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1200,
+                                "height": 800,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/607cda01b7fb743fccab5237a40812fb.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/130/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/130\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Yashoda taking after the naughty Krishna with a stick; and Krishna Distributes Butter to the Monkeys"
+                        },
+                        {
+                            "label": "Artist",
+                            "value": "Attributed to Painter A"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.vmfa.museum/piction/6027262-8072470/"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Virginia Museum of Fine Arts"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "64.36.1"
+                        },
+                        {
+                            "label": "Date",
+                            "value": "1520-30"
+                        },
+                        {
+                            "label": "Location",
+                            "value": "Mathura"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "Sheet: 17.94 × 24.13 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X. 9. 8-9"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Dye, Joseph M. The Arts of India: Virginia Museum of Fine Arts. London: Philipp Wilson, 2001. (cat. no. 69-a, pp. 202-204, 488)"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/130/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/130\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Yashoda taking after the naughty Krishna with a stick; and Krishna Distributes Butter to the Monkeys"
+        },
+        {
+            "label": "Artist",
+            "value": "Attributed to Painter A"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.vmfa.museum/piction/6027262-8072470/"
+        },
+        {
+            "label": "Repository",
+            "value": "Virginia Museum of Fine Arts"
+        },
+        {
+            "label": "Accession Number",
+            "value": "64.36.1"
+        },
+        {
+            "label": "Date",
+            "value": "1520-30"
+        },
+        {
+            "label": "Location",
+            "value": "Mathura"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "Sheet: 17.94 × 24.13 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP X. 9. 8-9"
+        },
+        {
+            "label": "Publications",
+            "value": "Dye, Joseph M. The Arts of India: Virginia Museum of Fine Arts. London: Philipp Wilson, 2001. (cat. no. 69-a, pp. 202-204, 488)"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "130"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/130/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

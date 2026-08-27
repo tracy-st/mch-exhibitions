@@ -1,0 +1,186 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/43/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Bhima Slays Jarasandha",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/43/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/43/canvas.json",
+                    "label": "Bhima Slays Jarasandha",
+                    "@type": "sc:Canvas",
+                    "width": 3328,
+                    "height": 2568,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/28/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/ed4a08f3be396590933dc1c99899a280.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2000,
+                                "height": 1481,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/ed4a08f3be396590933dc1c99899a280.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/43/canvas.json"
+                        },
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/29/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/0852fff0dbbfdb353965db84b557af08.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3328,
+                                "height": 2568,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/0852fff0dbbfdb353965db84b557af08.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/43/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/43\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Bhima Slays Jarasandha"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.metmuseum.org/art/collection/search/37850"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "The Metropolitan Museum of Art"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1985.398.16"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Cynthia Hazen Polsky , New York (until 1985; donated to MMA)"
+                        },
+                        {
+                            "label": "Parent Work",
+                            "value": "Dispersed Bhāgavata Purāṇa"
+                        },
+                        {
+                            "label": "Date",
+                            "value": "1520-30 CE"
+                        },
+                        {
+                            "label": "Location",
+                            "value": "Mathura"
+                        },
+                        {
+                            "label": "Style",
+                            "value": "Chaurapañchāśikā Group"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Opaque watercolor and ink on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.1 cm x 23 cm"
+                        },
+                        {
+                            "label": "Exhibition History",
+                            "value": "\"New York. The Metropolitan Museum of Art. \"\"Illustrations of the Bhagavata Purana,\"\" 1996.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Lyrical Visions: Paintings from North India,\"\" December 3, 2011–May 28, 2012.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Encountering Vishnu: The Lion Avatar in Indian Temple Drama,\"\" December 19, 2015–June 5, 2016.\""
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/43/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/43\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Bhima Slays Jarasandha"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.metmuseum.org/art/collection/search/37850"
+        },
+        {
+            "label": "Repository",
+            "value": "The Metropolitan Museum of Art"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1985.398.16"
+        },
+        {
+            "label": "Provenance",
+            "value": "Cynthia Hazen Polsky , New York (until 1985; donated to MMA)"
+        },
+        {
+            "label": "Parent Work",
+            "value": "Dispersed Bhāgavata Purāṇa"
+        },
+        {
+            "label": "Date",
+            "value": "1520-30 CE"
+        },
+        {
+            "label": "Location",
+            "value": "Mathura"
+        },
+        {
+            "label": "Style",
+            "value": "Chaurapañchāśikā Group"
+        },
+        {
+            "label": "Medium",
+            "value": "Opaque watercolor and ink on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.1 cm x 23 cm"
+        },
+        {
+            "label": "Exhibition History",
+            "value": "\"New York. The Metropolitan Museum of Art. \"\"Illustrations of the Bhagavata Purana,\"\" 1996.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Lyrical Visions: Paintings from North India,\"\" December 3, 2011–May 28, 2012.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Encountering Vishnu: The Lion Avatar in Indian Temple Drama,\"\" December 19, 2015–June 5, 2016.\""
+        },
+        {
+            "label": "Sequential Order",
+            "value": "043"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/43/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

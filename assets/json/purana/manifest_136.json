@@ -1,0 +1,93 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/136/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Gopis observing the vow of the Goddess",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/136/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/136/canvas.json",
+                    "label": "Gopis observing the vow of the Goddess",
+                    "@type": "sc:Canvas",
+                    "width": 0,
+                    "height": 0,
+                    "images": [],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/136\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Gopis observing the vow of the Goddess"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "University of Virginia Art Museum, Charlottesville Museum"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1999.20"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.22.1-8"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Beach, 2011 p. 78"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/136/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/136\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Gopis observing the vow of the Goddess"
+        },
+        {
+            "label": "Repository",
+            "value": "University of Virginia Art Museum, Charlottesville Museum"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1999.20"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.22.1-8"
+        },
+        {
+            "label": "Publications",
+            "value": "Beach, 2011 p. 78"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "136"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/136/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

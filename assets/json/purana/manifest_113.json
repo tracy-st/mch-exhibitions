@@ -1,0 +1,160 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/113/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Battle Scene (painting, recto), folio from a Bhagavata Purana series",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/113/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/113/canvas.json",
+                    "label": "Battle Scene (painting, recto), folio from a Bhagavata Purana series",
+                    "@type": "sc:Canvas",
+                    "width": 1024,
+                    "height": 781,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/112/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/cd388ee414bbcaf0924852e533202337.jpeg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1024,
+                                "height": 781,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/cd388ee414bbcaf0924852e533202337.jpeg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/113/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/113\">View page</a>"
+                        },
+                        {
+                            "label": "Source",
+                            "value": "https://mappingcolor.omeka.fas.harvard.edu/items/show/113"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Battle Scene (painting, recto), folio from a Bhagavata Purana series"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://harvardartmuseums.org/collections/object/216410?position=14"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Harvard Art Museums"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1974.126"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. and Mrs. Peter Bienstock"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Ink and opaque watercolor on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.5 x 23.2 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X. 50. 25-35"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Ehnbom, Daniel J. An Analysis and Reconstruction of the Dispersed Bhāgavata Purāna from the Caurapañcāśikā Group, 1984. Dissertation."
+                        },
+                        {
+                            "label": "Exhibition History",
+                            "value": "Re-View: Arts of India & the Islamic Lands, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/26/2008 - 06/01/2013\r\n\r\nRe-View: S231 (Islamic rotation: 4) Strolling Through Isfahan: Seventeenth-Century Paintings From Safavid Iran, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 01/08/2010 - 06/13/2010"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/113/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/113\">View page</a>"
+        },
+        {
+            "label": "Source",
+            "value": "https://mappingcolor.omeka.fas.harvard.edu/items/show/113"
+        },
+        {
+            "label": "Title",
+            "value": "Battle Scene (painting, recto), folio from a Bhagavata Purana series"
+        },
+        {
+            "label": "Link",
+            "value": "https://harvardartmuseums.org/collections/object/216410?position=14"
+        },
+        {
+            "label": "Repository",
+            "value": "Harvard Art Museums"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1974.126"
+        },
+        {
+            "label": "Provenance",
+            "value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. and Mrs. Peter Bienstock"
+        },
+        {
+            "label": "Medium",
+            "value": "Ink and opaque watercolor on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.5 x 23.2 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP X. 50. 25-35"
+        },
+        {
+            "label": "Publications",
+            "value": "Ehnbom, Daniel J. An Analysis and Reconstruction of the Dispersed Bhāgavata Purāna from the Caurapañcāśikā Group, 1984. Dissertation."
+        },
+        {
+            "label": "Exhibition History",
+            "value": "Re-View: Arts of India & the Islamic Lands, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/26/2008 - 06/01/2013\r\n\r\nRe-View: S231 (Islamic rotation: 4) Strolling Through Isfahan: Seventeenth-Century Paintings From Safavid Iran, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 01/08/2010 - 06/13/2010"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "113"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/113/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

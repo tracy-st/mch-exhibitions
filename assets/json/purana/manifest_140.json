@@ -1,0 +1,96 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/140/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna draws Kamsa's bow",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/140/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/140/canvas.json",
+                    "label": "Krishna draws Kamsa's bow",
+                    "@type": "sc:Canvas",
+                    "width": 1770,
+                    "height": 1332,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/145/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/5c147da84c340b8773cae4366c4befee.png",
+                                "@type": "dctypes:Image",
+                                "format": "image/png",
+                                "width": 1770,
+                                "height": 1332,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/5c147da84c340b8773cae4366c4befee.png",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/140/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/140\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna draws Kamsa's bow"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09478/lot.775.html#"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "image: 15.6 x 20.7 cm"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/140/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/140\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna draws Kamsa's bow"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09478/lot.775.html#"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "image: 15.6 x 20.7 cm"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "140"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/140/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

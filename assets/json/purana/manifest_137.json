@@ -1,0 +1,85 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/137/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Distraught Gopis (cowherd women) search in vain for the vanished Krishna \r\n",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/137/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/137/canvas.json",
+                    "label": "Distraught Gopis (cowherd women) search in vain for the vanished Krishna \r\n",
+                    "@type": "sc:Canvas",
+                    "width": 0,
+                    "height": 0,
+                    "images": [],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/137\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Distraught Gopis (cowherd women) search in vain for the vanished Krishna"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "Sheet: 17.5 x 23.5 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.30.9-20"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "The Ehrenfeld Collection Catalogue, p. 24"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/137/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/137\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Distraught Gopis (cowherd women) search in vain for the vanished Krishna"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "Sheet: 17.5 x 23.5 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.30.9-20"
+        },
+        {
+            "label": "Publications",
+            "value": "The Ehrenfeld Collection Catalogue, p. 24"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "137"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/137/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

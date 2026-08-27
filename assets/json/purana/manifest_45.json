@@ -1,0 +1,178 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/45/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna Is Welcomed into Mathura",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/45/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/45/canvas.json",
+                    "label": "Krishna Is Welcomed into Mathura",
+                    "@type": "sc:Canvas",
+                    "width": 4000,
+                    "height": 2772,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/32/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/295403d1474248247ecb8597bd5770fe.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4000,
+                                "height": 2772,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/295403d1474248247ecb8597bd5770fe.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/45/canvas.json"
+                        },
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/33/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/22c9d588f4f1535d16215376bfb1e497.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2896,
+                                "height": 1984,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/22c9d588f4f1535d16215376bfb1e497.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/45/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/45\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna Is Welcomed into Mathura"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.metmuseum.org/art/collection/search/37812"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "The Metropolitan Museum of Art"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1989.236.2"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Doris Rubin , New York (until 1989; donated to MMA)"
+                        },
+                        {
+                            "label": "Date",
+                            "value": "1520-30 CE"
+                        },
+                        {
+                            "label": "Location",
+                            "value": "Mathura"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Ink and opaque watercolor on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "16.4 x 23.2 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.71.23-38\r\n\r\nतमुपागतमाकर्ण्य प्रीतो दुर्दर्शनं नृणाम् ।\r\nअजातशत्रुर्निरगात्सोपाध्यायः सुहृद्वृतः ॥ २३॥\r\n\r\nगीतवादित्रघोषेण ब्रह्मघोषेण भूयसा ।\r\nअभ्ययात्स हृषीकेशं प्राणाः प्राणमिवादृतः ॥ २४॥\r\n\r\nदृष्ट्वा विक्लिन्नहृदयः कृष्णं स्नेहेन पाण्डवः ।\r\nचिराद्दृष्टं प्रियतमं सस्वजेऽथ पुनः पुनः ॥ २५॥\r\n\r\nदोर्भ्यां परिष्वज्य रमामलालयं \r\nमुकुन्दगात्रं नृपतिर्हताशुभः ।\r\nलेभे परां निर्वृतिमश्रुलोचनो \r\nहृष्यत्तनुर्विस्मृतलोकविभ्रमः ॥ २६॥\r\n\r\nतं मातुलेयं परिरभ्य निर्वृतो \r\nभीमः स्मयन् प्रेमजलाकुलेन्द्रियः ।\r\nयमौ किरीटी च सुहृत्तमं मुदा \r\nप्रवृद्धबाष्पाः परिरेभिरेऽच्युतम् ॥ २७॥\r\n\r\nअर्जुनेन परिष्वक्तो यमाभ्यामभिवादितः ।\r\nब्राह्मणेभ्यो नमस्कृत्य वृद्धेभ्यश्च यथार्हतः ॥ २८॥\r\n\r\nमानितो मानयामास कुरुसृञ्जयकैकयान् । \r\nसूतमागधगन्धर्वा वन्दिनश्चोपमन्त्रिणः ॥ २९॥\r\n\r\nमृदङ्गशङ्खपटहवीणापणवगोमुखैः ।\r\nब्राह्मणाश्चारविन्दाक्षं तुष्टुवुर्ननृतुर्जगुः ॥ ३०॥\r\n\r\nएवं सुहृद्भिः पर्यस्तः पुण्यश्लोकशिखामणिः ।\r\nसंस्तूयमानो भगवान् विवेशालङ्कृतं पुरम् ॥ ३१॥\r\n\r\nसंसिक्तवर्त्म करिणां मदगन्धतोयै-\r\nश्चित्रध्वजैः कनकतोरणपूर्णकुम्भैः । \r\nमृष्टात्मभिर्नवदुकूलविभूषणस्रग्-\r\nगन्धैर्नृभिर्युवतिभिश्च विराजमानम् ॥ ३२॥\r\n\r\nउद्दीप्तदीपबलिभिः प्रतिसद्मजाल-\r\nनिर्यातधूपरुचिरं विलसत्पताकम् । \r\nमूर्धन्यहेमकलशै रजतोरुश‍ृङ्गैर्जुष्टं \r\nददर्श भवनैः कुरुराजधाम ॥ ३३॥\r\n\r\nप्राप्तं निशम्य नरलोचनपानपात्र-\r\nमौत्सुक्यविश्लथितकेशदुकूलबन्धाः । \r\nसद्यो विसृज्य गृहकर्म पतींश्च तल्पे \r\nद्रष्टुं ययुर्युवतयः स्म नरेन्द्रमार्गे ॥ ३४॥\r\n\r\nतस्मिन् सुसङ्कुल इभाश्वरथद्विपद्भिः \r\nकृष्णं सभार्यमुपलभ्य गृहाधिरूढाः । \r\nनार्यो विकीर्य कुसुमैर्मनसोपगुह्य \r\nसुस्वागतं विदधुरुत्स्मयवीक्षितेन ॥ ३५॥\r\n\r\nऊचुः स्त्रियः पथि निरीक्ष्य मुकुन्दपत्नीः \r\nतारा यथोडुपसहाः किमकार्यमूभिः । \r\nयच्चक्षुषां पुरुषमौलिरुदारहास-\r\nलीलावलोककलयोत्सवमातनोति ॥ ३६॥\r\n\r\nतत्र तत्रोपसङ्गम्य पौरा मङ्गलपाणयः ।\r\nचक्रुः सपर्यां कृष्णाय श्रेणीमुख्या हतैनसः ॥ ३७॥\r\n\r\nअन्तःपुरजनैः प्रीत्या मुकुन्दः फुल्ललोचनैः ।\r\nससम्भ्रमैरभ्युपेतः प्राविशद्राजमन्दिरम् ॥ ३८॥"
+                        },
+                        {
+                            "label": "Exhibition History",
+                            "value": "\"New York. The Metropolitan Museum of Art. \"Illustrations of the Bhagavata Purana,\" 1996.\r\n\r\nNew York. The Metropolitan Museum of Art. \"Illustrated Manuscripts in India: Late 13th–early 17th Century,\" 2004.\r\n\r\nNew York. The Metropolitan Museum of Art. \"Lyrical Visions: Paintings from North India,\" December 3, 2011–May 28, 2012.\""
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/45/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/45\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna Is Welcomed into Mathura"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.metmuseum.org/art/collection/search/37812"
+        },
+        {
+            "label": "Repository",
+            "value": "The Metropolitan Museum of Art"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1989.236.2"
+        },
+        {
+            "label": "Provenance",
+            "value": "Doris Rubin , New York (until 1989; donated to MMA)"
+        },
+        {
+            "label": "Date",
+            "value": "1520-30 CE"
+        },
+        {
+            "label": "Location",
+            "value": "Mathura"
+        },
+        {
+            "label": "Medium",
+            "value": "Ink and opaque watercolor on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "16.4 x 23.2 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.71.23-38\r\n\r\nतमुपागतमाकर्ण्य प्रीतो दुर्दर्शनं नृणाम् ।\r\nअजातशत्रुर्निरगात्सोपाध्यायः सुहृद्वृतः ॥ २३॥\r\n\r\nगीतवादित्रघोषेण ब्रह्मघोषेण भूयसा ।\r\nअभ्ययात्स हृषीकेशं प्राणाः प्राणमिवादृतः ॥ २४॥\r\n\r\nदृष्ट्वा विक्लिन्नहृदयः कृष्णं स्नेहेन पाण्डवः ।\r\nचिराद्दृष्टं प्रियतमं सस्वजेऽथ पुनः पुनः ॥ २५॥\r\n\r\nदोर्भ्यां परिष्वज्य रमामलालयं \r\nमुकुन्दगात्रं नृपतिर्हताशुभः ।\r\nलेभे परां निर्वृतिमश्रुलोचनो \r\nहृष्यत्तनुर्विस्मृतलोकविभ्रमः ॥ २६॥\r\n\r\nतं मातुलेयं परिरभ्य निर्वृतो \r\nभीमः स्मयन् प्रेमजलाकुलेन्द्रियः ।\r\nयमौ किरीटी च सुहृत्तमं मुदा \r\nप्रवृद्धबाष्पाः परिरेभिरेऽच्युतम् ॥ २७॥\r\n\r\nअर्जुनेन परिष्वक्तो यमाभ्यामभिवादितः ।\r\nब्राह्मणेभ्यो नमस्कृत्य वृद्धेभ्यश्च यथार्हतः ॥ २८॥\r\n\r\nमानितो मानयामास कुरुसृञ्जयकैकयान् । \r\nसूतमागधगन्धर्वा वन्दिनश्चोपमन्त्रिणः ॥ २९॥\r\n\r\nमृदङ्गशङ्खपटहवीणापणवगोमुखैः ।\r\nब्राह्मणाश्चारविन्दाक्षं तुष्टुवुर्ननृतुर्जगुः ॥ ३०॥\r\n\r\nएवं सुहृद्भिः पर्यस्तः पुण्यश्लोकशिखामणिः ।\r\nसंस्तूयमानो भगवान् विवेशालङ्कृतं पुरम् ॥ ३१॥\r\n\r\nसंसिक्तवर्त्म करिणां मदगन्धतोयै-\r\nश्चित्रध्वजैः कनकतोरणपूर्णकुम्भैः । \r\nमृष्टात्मभिर्नवदुकूलविभूषणस्रग्-\r\nगन्धैर्नृभिर्युवतिभिश्च विराजमानम् ॥ ३२॥\r\n\r\nउद्दीप्तदीपबलिभिः प्रतिसद्मजाल-\r\nनिर्यातधूपरुचिरं विलसत्पताकम् । \r\nमूर्धन्यहेमकलशै रजतोरुश‍ृङ्गैर्जुष्टं \r\nददर्श भवनैः कुरुराजधाम ॥ ३३॥\r\n\r\nप्राप्तं निशम्य नरलोचनपानपात्र-\r\nमौत्सुक्यविश्लथितकेशदुकूलबन्धाः । \r\nसद्यो विसृज्य गृहकर्म पतींश्च तल्पे \r\nद्रष्टुं ययुर्युवतयः स्म नरेन्द्रमार्गे ॥ ३४॥\r\n\r\nतस्मिन् सुसङ्कुल इभाश्वरथद्विपद्भिः \r\nकृष्णं सभार्यमुपलभ्य गृहाधिरूढाः । \r\nनार्यो विकीर्य कुसुमैर्मनसोपगुह्य \r\nसुस्वागतं विदधुरुत्स्मयवीक्षितेन ॥ ३५॥\r\n\r\nऊचुः स्त्रियः पथि निरीक्ष्य मुकुन्दपत्नीः \r\nतारा यथोडुपसहाः किमकार्यमूभिः । \r\nयच्चक्षुषां पुरुषमौलिरुदारहास-\r\nलीलावलोककलयोत्सवमातनोति ॥ ३६॥\r\n\r\nतत्र तत्रोपसङ्गम्य पौरा मङ्गलपाणयः ।\r\nचक्रुः सपर्यां कृष्णाय श्रेणीमुख्या हतैनसः ॥ ३७॥\r\n\r\nअन्तःपुरजनैः प्रीत्या मुकुन्दः फुल्ललोचनैः ।\r\nससम्भ्रमैरभ्युपेतः प्राविशद्राजमन्दिरम् ॥ ३८॥"
+        },
+        {
+            "label": "Exhibition History",
+            "value": "\"New York. The Metropolitan Museum of Art. \"Illustrations of the Bhagavata Purana,\" 1996.\r\n\r\nNew York. The Metropolitan Museum of Art. \"Illustrated Manuscripts in India: Late 13th–early 17th Century,\" 2004.\r\n\r\nNew York. The Metropolitan Museum of Art. \"Lyrical Visions: Paintings from North India,\" December 3, 2011–May 28, 2012.\""
+        },
+        {
+            "label": "Sequential Order",
+            "value": "045"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/45/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/46/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna and the Cowherds",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/46/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/46/canvas.json",
+                    "label": "Krishna and the Cowherds",
+                    "@type": "sc:Canvas",
+                    "width": 2416,
+                    "height": 2168,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/34/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/e8abe4429b4153e9c7d83e9b77f62456.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2400,
+                                "height": 2168,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/e8abe4429b4153e9c7d83e9b77f62456.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/46/canvas.json"
+                        },
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/35/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/6e32db5b662a833006750847e1d22838.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2416,
+                                "height": 1980,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/6e32db5b662a833006750847e1d22838.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/46/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/46\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna and the Cowherds"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.metmuseum.org/art/collection/search/37847"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "The Metropolitan Museum of Art"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1980.530.2"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Mr. and Mrs. Peter Findlay , New York (until 1980; donated to MMA)"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Ink and opaque watercolor on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "18.1 cm x 23.5 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.15.47-52 (end of adhyaya 15)\r\n\r\nएवं स भगवान् कृष्णो वृन्दावनचरः क्वचित् ।\r\nययौ राममृते राजन् कालिन्दीं सखिभिर्वृतः ॥ ४७॥\r\n\r\nअथ गावश्च गोपाश्च निदाघातपपीडिताः ।\r\nदुष्टं जलं पपुस्तस्यास्तृषार्ता विषदूषितम् ॥ ४८॥\r\n\r\nविषाम्भस्तदुपस्पृश्य दैवोपहतचेतसः ।\r\nनिपेतुर्व्यसवः सर्वे सलिलान्ते कुरूद्वह ॥ ४९॥\r\n\r\nवीक्ष्य तान् वै तथाभूतान् कृष्णो योगेश्वरेश्वरः ।\r\nईक्षयामृतवर्षिण्या स्वनाथान् समजीवयत् ॥ ५०॥\r\n\r\nते सम्प्रतीतस्मृतयः समुत्थाय जलान्तिकात् ।\r\nआसन् सुविस्मिताः सर्वे वीक्षमाणाः परस्परम् ॥ ५१॥\r\n\r\nअन्वमंसत तद्राजन् गोविन्दानुग्रहेक्षितम् ।\r\nपीत्वा विषं परेतस्य पुनरुत्थानमात्मनः ॥ ५२॥\r\n\r\nइति श्रीमद्भागवते महापुराणे पारमहंस्यां संहितायां \r\nदशमस्कन्धे पूर्वार्धे धेनुकवधो नाम पञ्चदशोऽध्यायः ॥ १५॥"
+                        },
+                        {
+                            "label": "Exhibition History",
+                            "value": "New York. The Metropolitan Museum of Art. \"Illustrations of the Bhagavata Purana,\" 1996.\r\n\r\nNew York. The Metropolitan Museum of Art. \"Krishna: Mythology and Worship,\" February 9, 2004–May 9, 2004."
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/46/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/46\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna and the Cowherds"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.metmuseum.org/art/collection/search/37847"
+        },
+        {
+            "label": "Repository",
+            "value": "The Metropolitan Museum of Art"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1980.530.2"
+        },
+        {
+            "label": "Provenance",
+            "value": "Mr. and Mrs. Peter Findlay , New York (until 1980; donated to MMA)"
+        },
+        {
+            "label": "Medium",
+            "value": "Ink and opaque watercolor on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "18.1 cm x 23.5 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.15.47-52 (end of adhyaya 15)\r\n\r\nएवं स भगवान् कृष्णो वृन्दावनचरः क्वचित् ।\r\nययौ राममृते राजन् कालिन्दीं सखिभिर्वृतः ॥ ४७॥\r\n\r\nअथ गावश्च गोपाश्च निदाघातपपीडिताः ।\r\nदुष्टं जलं पपुस्तस्यास्तृषार्ता विषदूषितम् ॥ ४८॥\r\n\r\nविषाम्भस्तदुपस्पृश्य दैवोपहतचेतसः ।\r\nनिपेतुर्व्यसवः सर्वे सलिलान्ते कुरूद्वह ॥ ४९॥\r\n\r\nवीक्ष्य तान् वै तथाभूतान् कृष्णो योगेश्वरेश्वरः ।\r\nईक्षयामृतवर्षिण्या स्वनाथान् समजीवयत् ॥ ५०॥\r\n\r\nते सम्प्रतीतस्मृतयः समुत्थाय जलान्तिकात् ।\r\nआसन् सुविस्मिताः सर्वे वीक्षमाणाः परस्परम् ॥ ५१॥\r\n\r\nअन्वमंसत तद्राजन् गोविन्दानुग्रहेक्षितम् ।\r\nपीत्वा विषं परेतस्य पुनरुत्थानमात्मनः ॥ ५२॥\r\n\r\nइति श्रीमद्भागवते महापुराणे पारमहंस्यां संहितायां \r\nदशमस्कन्धे पूर्वार्धे धेनुकवधो नाम पञ्चदशोऽध्यायः ॥ १५॥"
+        },
+        {
+            "label": "Exhibition History",
+            "value": "New York. The Metropolitan Museum of Art. \"Illustrations of the Bhagavata Purana,\" 1996.\r\n\r\nNew York. The Metropolitan Museum of Art. \"Krishna: Mythology and Worship,\" February 9, 2004–May 9, 2004."
+        },
+        {
+            "label": "Sequential Order",
+            "value": "046"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/46/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/105/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Untitled",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/105/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/105/canvas.json",
+                    "label": "Untitled",
+                    "@type": "sc:Canvas",
+                    "width": 800,
+                    "height": 605,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/103/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/e9d4e9bac52168e0b0170a9dab5938c9.jpeg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 800,
+                                "height": 605,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/e9d4e9bac52168e0b0170a9dab5938c9.jpeg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/105/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/105\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Untitled"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://art.famsf.org/anonymous/episode-bhagavata-purana-199994"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Fine Arts Museums of San Francisco"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1999.94"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Campbell acquired it from Ray Lewis. He has owned it \"for a while\" . Lewis obtained it from the George P. Bickford Collection."
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Water- Based Pigment And Inks On Paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "18 x 24 cm"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/105/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/105\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Untitled"
+        },
+        {
+            "label": "Link",
+            "value": "https://art.famsf.org/anonymous/episode-bhagavata-purana-199994"
+        },
+        {
+            "label": "Repository",
+            "value": "Fine Arts Museums of San Francisco"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1999.94"
+        },
+        {
+            "label": "Provenance",
+            "value": "Campbell acquired it from Ray Lewis. He has owned it \"for a while\" . Lewis obtained it from the George P. Bickford Collection."
+        },
+        {
+            "label": "Medium",
+            "value": "Water- Based Pigment And Inks On Paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "18 x 24 cm"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "105"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/105/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

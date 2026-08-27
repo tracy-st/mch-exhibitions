@@ -1,0 +1,160 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/38/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna, Balarama and The Cowherds Play in the Forest",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/38/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/38/canvas.json",
+                    "label": "Krishna, Balarama and The Cowherds Play in the Forest",
+                    "@type": "sc:Canvas",
+                    "width": 1600,
+                    "height": 1214,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/21/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/9a27f91f7f3d75fdd4190db04e051795.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1600,
+                                "height": 1214,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/9a27f91f7f3d75fdd4190db04e051795.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/38/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/38\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna, Balarama and The Cowherds Play in the Forest"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.cincinnatiartmuseum.org/art/explore-the-collection?id=20578384"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Cincinnati Art Museum"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "2007.86"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Gift of Alice and Carl Bimel"
+                        },
+                        {
+                            "label": "Parent Work",
+                            "value": "Dispersed Bhāgavata Purāṇa"
+                        },
+                        {
+                            "label": "Date",
+                            "value": "1520-30 CE"
+                        },
+                        {
+                            "label": "Location",
+                            "value": "Mathura"
+                        },
+                        {
+                            "label": "Style",
+                            "value": "Chaurapañchāśikā Group"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Opaque watercolor on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "18.3 cm x 24.3 cm"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/38/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/38\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna, Balarama and The Cowherds Play in the Forest"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.cincinnatiartmuseum.org/art/explore-the-collection?id=20578384"
+        },
+        {
+            "label": "Repository",
+            "value": "Cincinnati Art Museum"
+        },
+        {
+            "label": "Accession Number",
+            "value": "2007.86"
+        },
+        {
+            "label": "Provenance",
+            "value": "Gift of Alice and Carl Bimel"
+        },
+        {
+            "label": "Parent Work",
+            "value": "Dispersed Bhāgavata Purāṇa"
+        },
+        {
+            "label": "Date",
+            "value": "1520-30 CE"
+        },
+        {
+            "label": "Location",
+            "value": "Mathura"
+        },
+        {
+            "label": "Style",
+            "value": "Chaurapañchāśikā Group"
+        },
+        {
+            "label": "Medium",
+            "value": "Opaque watercolor on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "18.3 cm x 24.3 cm"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "038"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/38/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

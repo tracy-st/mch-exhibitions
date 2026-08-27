@@ -1,0 +1,168 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/40/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna Subdues the Serpent King Kaliya",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/40/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/40/canvas.json",
+                    "label": "Krishna Subdues the Serpent King Kaliya",
+                    "@type": "sc:Canvas",
+                    "width": 1024,
+                    "height": 765,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/23/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/16a294a63b8e28600d2add41800a236c.jpeg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1024,
+                                "height": 765,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/16a294a63b8e28600d2add41800a236c.jpeg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/40/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/40\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna Subdues the Serpent King Kaliya"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://hvrd.art/o/213690"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Harvard Art Museums"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1992.283"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. and Mrs. J. Gordon Douglas III, Class of 1957"
+                        },
+                        {
+                            "label": "Parent Work",
+                            "value": "Dispersed Bhāgavata Purāṇa"
+                        },
+                        {
+                            "label": "Date",
+                            "value": "1520-30 CE"
+                        },
+                        {
+                            "label": "Location",
+                            "value": "Mathura"
+                        },
+                        {
+                            "label": "Style",
+                            "value": "Chaurapañchāśikā Group"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Opaque watercolor on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.5 cm x 23 cm"
+                        },
+                        {
+                            "label": "Exhibition History",
+                            "value": "From India's Hills and Plains: Rajput Painting from the Punjab and Rajasthan, 17th through 19th Centuries, Harvard University Art Museums, Cambridge, 09/04/1993 - 10/31/1993\r\n\r\nRe-View: Arts of India & the Islamic Lands, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/26/2008 - 06/01/2013"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/40/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/40\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna Subdues the Serpent King Kaliya"
+        },
+        {
+            "label": "Link",
+            "value": "https://hvrd.art/o/213690"
+        },
+        {
+            "label": "Repository",
+            "value": "Harvard Art Museums"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1992.283"
+        },
+        {
+            "label": "Provenance",
+            "value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. and Mrs. J. Gordon Douglas III, Class of 1957"
+        },
+        {
+            "label": "Parent Work",
+            "value": "Dispersed Bhāgavata Purāṇa"
+        },
+        {
+            "label": "Date",
+            "value": "1520-30 CE"
+        },
+        {
+            "label": "Location",
+            "value": "Mathura"
+        },
+        {
+            "label": "Style",
+            "value": "Chaurapañchāśikā Group"
+        },
+        {
+            "label": "Medium",
+            "value": "Opaque watercolor on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.5 cm x 23 cm"
+        },
+        {
+            "label": "Exhibition History",
+            "value": "From India's Hills and Plains: Rajput Painting from the Punjab and Rajasthan, 17th through 19th Centuries, Harvard University Art Museums, Cambridge, 09/04/1993 - 10/31/1993\r\n\r\nRe-View: Arts of India & the Islamic Lands, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/26/2008 - 06/01/2013"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "040"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/40/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

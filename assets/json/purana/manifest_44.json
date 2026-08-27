@@ -1,0 +1,170 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/44/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna and the Kshatriya Maidens Proceed to Dvaraka",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/44/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/44/canvas.json",
+                    "label": "Krishna and the Kshatriya Maidens Proceed to Dvaraka",
+                    "@type": "sc:Canvas",
+                    "width": 4000,
+                    "height": 3074,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/30/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/f834631793b9e2191d96e39b6731fefb.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4000,
+                                "height": 3074,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/f834631793b9e2191d96e39b6731fefb.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/44/canvas.json"
+                        },
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/31/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/7e9d4c983c0378f5dd871ba882d91d58.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4000,
+                                "height": 2957,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/7e9d4c983c0378f5dd871ba882d91d58.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/44/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/44\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna and the Kshatriya Maidens Proceed to Dvaraka"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.metmuseum.org/art/collection/search/37846"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "The Metropolitan Museum of Art"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1972.238"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Mr. and Mrs. Alvin N. Haas , Phoenix, AZ (until 1972; donated to MMA)"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Ink and opaque watercolor on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "Image: 17.1 cm × 22.9 cm\r\nSheet: 17.8 cm × 23.8 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.59.36-37\r\n\r\nताः प्राहिणोद्द्वारवतीं सुमृष्टविरजोऽम्बराः ।\r\nनरयानैर्महाकोशान् रथाश्वान् द्रविणं महत् ॥ ३६॥\r\n\r\nऐरावतकुलेभांश्च चतुर्दन्तांस्तरस्विनः ।\r\nपाण्डुरांश्च चतुःषष्टिं प्रेषयामास केशवः ॥ ३७॥"
+                        },
+                        {
+                            "label": "Paratext",
+                            "value": "Sa Nana"
+                        },
+                        {
+                            "label": "Exhibition History",
+                            "value": "\"New York. The Metropolitan Museum of Art. \"\"Masterpieces of the Art of India from the Museum's Collections,\"\" January 18, 1973–April 1, 1973.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Selections for the Opening of The Florence and Herbert Irving Galleries,\"\" 1994.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Indian Paintings,\"\" 1994–95.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Illustrations of the Bhagavata Purana,\"\" 1996.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Illustrated Manuscripts in India: Late 13th–early 17th Century,\"\" 2004.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Krishna: Mythology and Worship,\"\" March 1, 2008–July 28, 2008.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Masterpieces of Hindu Court Painting,\"\" July 17, 2013–September 8, 2013.\""
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/44/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/44\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna and the Kshatriya Maidens Proceed to Dvaraka"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.metmuseum.org/art/collection/search/37846"
+        },
+        {
+            "label": "Repository",
+            "value": "The Metropolitan Museum of Art"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1972.238"
+        },
+        {
+            "label": "Provenance",
+            "value": "Mr. and Mrs. Alvin N. Haas , Phoenix, AZ (until 1972; donated to MMA)"
+        },
+        {
+            "label": "Medium",
+            "value": "Ink and opaque watercolor on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "Image: 17.1 cm × 22.9 cm\r\nSheet: 17.8 cm × 23.8 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.59.36-37\r\n\r\nताः प्राहिणोद्द्वारवतीं सुमृष्टविरजोऽम्बराः ।\r\nनरयानैर्महाकोशान् रथाश्वान् द्रविणं महत् ॥ ३६॥\r\n\r\nऐरावतकुलेभांश्च चतुर्दन्तांस्तरस्विनः ।\r\nपाण्डुरांश्च चतुःषष्टिं प्रेषयामास केशवः ॥ ३७॥"
+        },
+        {
+            "label": "Paratext",
+            "value": "Sa Nana"
+        },
+        {
+            "label": "Exhibition History",
+            "value": "\"New York. The Metropolitan Museum of Art. \"\"Masterpieces of the Art of India from the Museum's Collections,\"\" January 18, 1973–April 1, 1973.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Selections for the Opening of The Florence and Herbert Irving Galleries,\"\" 1994.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Indian Paintings,\"\" 1994–95.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Illustrations of the Bhagavata Purana,\"\" 1996.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Illustrated Manuscripts in India: Late 13th–early 17th Century,\"\" 2004.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Krishna: Mythology and Worship,\"\" March 1, 2008–July 28, 2008.\r\n\r\nNew York. The Metropolitan Museum of Art. \"\"Masterpieces of Hindu Court Painting,\"\" July 17, 2013–September 8, 2013.\""
+        },
+        {
+            "label": "Sequential Order",
+            "value": "044"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/44/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

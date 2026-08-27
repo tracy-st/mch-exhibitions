@@ -1,0 +1,136 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/104/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Cowherd Women Seek the God Krishna in the Forest",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/104/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/104/canvas.json",
+                    "label": "Cowherd Women Seek the God Krishna in the Forest",
+                    "@type": "sc:Canvas",
+                    "width": 5292,
+                    "height": 4060,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/102/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/bb84224fc1149d41627f6c0d3e589e06.jpeg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 5292,
+                                "height": 4060,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/bb84224fc1149d41627f6c0d3e589e06.jpeg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/104/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/104\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Cowherd Women Seek the God Krishna in the Forest"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://collections.artsmia.org/art/4828/cowherd-women-seek-the-god-krishna-in-the-forest-india"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Minneapolis Institute of Art"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "95.4.1"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "The Katherine Kittredge McMillan Memorial Fund"
+                        },
+                        {
+                            "label": "Parent Work",
+                            "value": "\"Palam\" Bhagavata Purana"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Opaque watercolors on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.78 x 23.5 cm)"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/104/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/104\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Cowherd Women Seek the God Krishna in the Forest"
+        },
+        {
+            "label": "Link",
+            "value": "https://collections.artsmia.org/art/4828/cowherd-women-seek-the-god-krishna-in-the-forest-india"
+        },
+        {
+            "label": "Repository",
+            "value": "Minneapolis Institute of Art"
+        },
+        {
+            "label": "Accession Number",
+            "value": "95.4.1"
+        },
+        {
+            "label": "Provenance",
+            "value": "The Katherine Kittredge McMillan Memorial Fund"
+        },
+        {
+            "label": "Parent Work",
+            "value": "\"Palam\" Bhagavata Purana"
+        },
+        {
+            "label": "Medium",
+            "value": "Opaque watercolors on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.78 x 23.5 cm)"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "104"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/104/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

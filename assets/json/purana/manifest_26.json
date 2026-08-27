@@ -1,0 +1,178 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/26/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Nanda and the Elders",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/26/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/26/canvas.json",
+                    "label": "Nanda and the Elders",
+                    "@type": "sc:Canvas",
+                    "width": 3400,
+                    "height": 2634,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/7/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/13a04cd179d1de78d0fca5afd86b9238.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3400,
+                                "height": 2632,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/13a04cd179d1de78d0fca5afd86b9238.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/26/canvas.json"
+                        },
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/39/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/9785c0a21de2da71683c62e1c492c4c5.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3400,
+                                "height": 2634,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/9785c0a21de2da71683c62e1c492c4c5.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/26/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/26\">View page</a>"
+                        },
+                        {
+                            "label": "Source",
+                            "value": "https://mappingcolor.omeka.fas.harvard.edu/items/show/26"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Nanda and the Elders"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "http://clevelandmuseumofart.art/art/1960.53"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "The Cleveland Museum of Art"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1960.53"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Mr. and Mrs. William H. Marlatt Fund"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "16.3 x 21.5 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.11.21-30\r\n\r\nश्रीशुक उवाच\r\nगोपवृद्धा महोत्पाताननुभूय बृहद्वने ।\r\nनन्दादयः समागम्य व्रजकार्यममन्त्रयन् ॥ २१॥\r\n\r\nतत्रोपनन्दनामाऽऽह गोपो ज्ञानवयोऽधिकः ।\r\nदेशकालार्थतत्त्वज्ञः प्रियकृद्रामकृष्णयोः ॥ २२॥\r\n\r\nउत्थातव्यमितोऽस्माभिर्गोकुलस्य हितैषिभिः ।\r\nआयान्त्यत्र महोत्पाता बालानां नाशहेतवः ॥ २३॥\r\n\r\nमुक्तः कथञ्चिद्राक्षस्या बालघ्न्या बालको ह्यसौ ।\r\nहरेरनुग्रहान्नूनमनश्चोपरि नापतत् ॥ २४॥\r\n\r\nचक्रवातेन नीतोऽयं दैत्येन विपदं वियत् ।\r\nशिलायां पतितस्तत्र परित्रातः सुरेश्वरैः ॥ २५॥\r\n\r\nयन्न म्रियेत द्रुमयोरन्तरं प्राप्य बालकः ।\r\nअसावन्यतमो वापि तदप्यच्युतरक्षणम् ॥ २६॥\r\n\r\nयावदौत्पातिकोऽरिष्टो व्रजं नाभिभवेदितः ।\r\nतावद्बालानुपादाय यास्यामोऽन्यत्र सानुगाः ॥ २७॥\r\n\r\nवनं वृन्दावनं नाम पशव्यं नवकाननम् ।\r\nगोपगोपीगवां सेव्यं पुण्याद्रितृणवीरुधम् ॥ २८॥\r\n\r\nतत्तत्राद्यैव यास्यामः शकटान् युङ्क्त मा चिरम् ।\r\nगोधनान्यग्रतो यान्तु भवतां यदि रोचते ॥ २९॥\r\n\r\nतच्छ्रुत्वैकधियो गोपाः साधु साध्विति वादिनः ।\r\nव्रजान् स्वान् स्वान् समायुज्य ययू रूढपरिच्छदाः ॥ ३०॥"
+                        },
+                        {
+                            "label": "Paratext",
+                            "value": "verso, upper right: \"Sa Mitharam, Hirabai\""
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Asia Society, Sherman E. Lee, and George Montgomery. Rajput Painting; with an introductory essay and catalogue notes. New York: Asia House, 1960. Reproduced p. 15; plate 3(a)\r\n\r\nThe Cleveland Museum of Art. Handbook of the Cleveland Museum of Art/1966. Cleveland, OH: The Cleveland Museum of Art, 1966. Reproduced: p. 236\r\n\r\nThe Cleveland Museum of Art. Handbook of the Cleveland Museum of Art/1969. Cleveland, OH: The Cleveland Museum of Art, 1969. Reproduced: p. 236 \r\n\r\nThe Cleveland Museum of Art. Handbook of the Cleveland Museum of Art/1978. Cleveland, OH: The Cleveland Museum of Art, 1978. Reproduced: p. 303"
+                        },
+                        {
+                            "label": "Exhibition History",
+                            "value": "\"Asia House, New York City, \"\"Rajput Painting,\"\" Dec. 3, 1960-Jan. 22, 1961.\r\n\r\nIndian Miniature Rotation (Gallery 115); February 4 - August 5, 2003.\r\n\r\nIndian Miniature Rotation (Gallery 115); February 20 - August 18, 2004.\r\n\r\nYear in Review - Nineteen Hundred Sixty. The Cleveland Museum of Art (organizer) (November 30, 1960-January 1, 1961).\""
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/26/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/26\">View page</a>"
+        },
+        {
+            "label": "Source",
+            "value": "https://mappingcolor.omeka.fas.harvard.edu/items/show/26"
+        },
+        {
+            "label": "Title",
+            "value": "Nanda and the Elders"
+        },
+        {
+            "label": "Link",
+            "value": "http://clevelandmuseumofart.art/art/1960.53"
+        },
+        {
+            "label": "Repository",
+            "value": "The Cleveland Museum of Art"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1960.53"
+        },
+        {
+            "label": "Provenance",
+            "value": "Mr. and Mrs. William H. Marlatt Fund"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "16.3 x 21.5 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.11.21-30\r\n\r\nश्रीशुक उवाच\r\nगोपवृद्धा महोत्पाताननुभूय बृहद्वने ।\r\nनन्दादयः समागम्य व्रजकार्यममन्त्रयन् ॥ २१॥\r\n\r\nतत्रोपनन्दनामाऽऽह गोपो ज्ञानवयोऽधिकः ।\r\nदेशकालार्थतत्त्वज्ञः प्रियकृद्रामकृष्णयोः ॥ २२॥\r\n\r\nउत्थातव्यमितोऽस्माभिर्गोकुलस्य हितैषिभिः ।\r\nआयान्त्यत्र महोत्पाता बालानां नाशहेतवः ॥ २३॥\r\n\r\nमुक्तः कथञ्चिद्राक्षस्या बालघ्न्या बालको ह्यसौ ।\r\nहरेरनुग्रहान्नूनमनश्चोपरि नापतत् ॥ २४॥\r\n\r\nचक्रवातेन नीतोऽयं दैत्येन विपदं वियत् ।\r\nशिलायां पतितस्तत्र परित्रातः सुरेश्वरैः ॥ २५॥\r\n\r\nयन्न म्रियेत द्रुमयोरन्तरं प्राप्य बालकः ।\r\nअसावन्यतमो वापि तदप्यच्युतरक्षणम् ॥ २६॥\r\n\r\nयावदौत्पातिकोऽरिष्टो व्रजं नाभिभवेदितः ।\r\nतावद्बालानुपादाय यास्यामोऽन्यत्र सानुगाः ॥ २७॥\r\n\r\nवनं वृन्दावनं नाम पशव्यं नवकाननम् ।\r\nगोपगोपीगवां सेव्यं पुण्याद्रितृणवीरुधम् ॥ २८॥\r\n\r\nतत्तत्राद्यैव यास्यामः शकटान् युङ्क्त मा चिरम् ।\r\nगोधनान्यग्रतो यान्तु भवतां यदि रोचते ॥ २९॥\r\n\r\nतच्छ्रुत्वैकधियो गोपाः साधु साध्विति वादिनः ।\r\nव्रजान् स्वान् स्वान् समायुज्य ययू रूढपरिच्छदाः ॥ ३०॥"
+        },
+        {
+            "label": "Paratext",
+            "value": "verso, upper right: \"Sa Mitharam, Hirabai\""
+        },
+        {
+            "label": "Publications",
+            "value": "Asia Society, Sherman E. Lee, and George Montgomery. Rajput Painting; with an introductory essay and catalogue notes. New York: Asia House, 1960. Reproduced p. 15; plate 3(a)\r\n\r\nThe Cleveland Museum of Art. Handbook of the Cleveland Museum of Art/1966. Cleveland, OH: The Cleveland Museum of Art, 1966. Reproduced: p. 236\r\n\r\nThe Cleveland Museum of Art. Handbook of the Cleveland Museum of Art/1969. Cleveland, OH: The Cleveland Museum of Art, 1969. Reproduced: p. 236 \r\n\r\nThe Cleveland Museum of Art. Handbook of the Cleveland Museum of Art/1978. Cleveland, OH: The Cleveland Museum of Art, 1978. Reproduced: p. 303"
+        },
+        {
+            "label": "Exhibition History",
+            "value": "\"Asia House, New York City, \"\"Rajput Painting,\"\" Dec. 3, 1960-Jan. 22, 1961.\r\n\r\nIndian Miniature Rotation (Gallery 115); February 4 - August 5, 2003.\r\n\r\nIndian Miniature Rotation (Gallery 115); February 20 - August 18, 2004.\r\n\r\nYear in Review - Nineteen Hundred Sixty. The Cleveland Museum of Art (organizer) (November 30, 1960-January 1, 1961).\""
+        },
+        {
+            "label": "Sequential Order",
+            "value": "026"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/26/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

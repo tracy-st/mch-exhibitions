@@ -1,0 +1,69 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/160/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Battle Scene ",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/160/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/160/canvas.json",
+                    "label": "Battle Scene ",
+                    "@type": "sc:Canvas",
+                    "width": 0,
+                    "height": 0,
+                    "images": [],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/160\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Battle Scene"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.metmuseum.org/art/collection/search/662560?&exhibitionId=%7b02cef407-c9f9-4ddc-a43d-547eed945478%7d&oid=662560&pkgids=360&pg=1&rpp=4&pos=4&ft=*"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/160/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/160\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Battle Scene"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.metmuseum.org/art/collection/search/662560?&exhibitionId=%7b02cef407-c9f9-4ddc-a43d-547eed945478%7d&oid=662560&pkgids=360&pg=1&rpp=4&pos=4&ft=*"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "160"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/160/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

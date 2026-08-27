@@ -1,0 +1,194 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/51/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Aniruddha and his new bride Uṣā in a chariot entering the city of Dvārkā",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/51/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/51/canvas.json",
+                    "label": "Aniruddha and his new bride Uṣā in a chariot entering the city of Dvārkā",
+                    "@type": "sc:Canvas",
+                    "width": 2500,
+                    "height": 1935,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/42/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/0b57db2342e16cc5020f9279f110e092.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2500,
+                                "height": 1935,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/0b57db2342e16cc5020f9279f110e092.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/51/canvas.json"
+                        },
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/43/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/ec9d13d93ba17861ea0dcd20a88a60a1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2500,
+                                "height": 1925,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/ec9d13d93ba17861ea0dcd20a88a60a1.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/51/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/51\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Aniruddha and his new bride Uṣā in a chariot entering the city of Dvārkā"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.britishmuseum.org/collection/object/A_1958-1011-0-5"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "British Museum"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1958,1011,0.5"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Purchased from Florence Marshall; Funded by Brooke Sewell Permanent Fund"
+                        },
+                        {
+                            "label": "Parent Work",
+                            "value": "Dispersed Bhāgavata Purāṇa"
+                        },
+                        {
+                            "label": "Date",
+                            "value": "1520-30 CE"
+                        },
+                        {
+                            "label": "Location",
+                            "value": "Mathura"
+                        },
+                        {
+                            "label": "Style",
+                            "value": "Chaurapañchāśikā Group"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Painted on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "18.20 cm x 23.40 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.63.52\r\n\r\nस्वराजधानीं समलङ्कृतां ध्वजैः \r\nसतोरणैरुक्षितमार्गचत्वराम् । \r\nविवेश शङ्खानकदुन्दुभिस्वनै-\r\nरभ्युद्यतः पौरसुहृद्द्विजातिभिः ॥ ५२॥\r\n\r\nइति श्रीमद्भागवते महापुराणे पारमहंस्यां संहितायां \r\nदशमस्कन्धे उत्तरार्धे अनिरुद्धानयनं नाम त्रिषष्टितमोऽध्यायः ॥ ६३॥"
+                        },
+                        {
+                            "label": "Paratext",
+                            "value": "Inscription type: inscription\r\nInscription position: top left corner\r\nInscription language: Sanskrit\r\nInscription script: Devanagari\r\nInscription transliteration: sā. nānā\r\nInscription translation: Nana Shah?\r\nInscription note: presumed owner's name. apparent foliation 260 in lower left corner and 15 in lower right. indecipherable word below the chariot."
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/51/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/51\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Aniruddha and his new bride Uṣā in a chariot entering the city of Dvārkā"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.britishmuseum.org/collection/object/A_1958-1011-0-5"
+        },
+        {
+            "label": "Repository",
+            "value": "British Museum"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1958,1011,0.5"
+        },
+        {
+            "label": "Provenance",
+            "value": "Purchased from Florence Marshall; Funded by Brooke Sewell Permanent Fund"
+        },
+        {
+            "label": "Parent Work",
+            "value": "Dispersed Bhāgavata Purāṇa"
+        },
+        {
+            "label": "Date",
+            "value": "1520-30 CE"
+        },
+        {
+            "label": "Location",
+            "value": "Mathura"
+        },
+        {
+            "label": "Style",
+            "value": "Chaurapañchāśikā Group"
+        },
+        {
+            "label": "Medium",
+            "value": "Painted on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "18.20 cm x 23.40 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.63.52\r\n\r\nस्वराजधानीं समलङ्कृतां ध्वजैः \r\nसतोरणैरुक्षितमार्गचत्वराम् । \r\nविवेश शङ्खानकदुन्दुभिस्वनै-\r\nरभ्युद्यतः पौरसुहृद्द्विजातिभिः ॥ ५२॥\r\n\r\nइति श्रीमद्भागवते महापुराणे पारमहंस्यां संहितायां \r\nदशमस्कन्धे उत्तरार्धे अनिरुद्धानयनं नाम त्रिषष्टितमोऽध्यायः ॥ ६३॥"
+        },
+        {
+            "label": "Paratext",
+            "value": "Inscription type: inscription\r\nInscription position: top left corner\r\nInscription language: Sanskrit\r\nInscription script: Devanagari\r\nInscription transliteration: sā. nānā\r\nInscription translation: Nana Shah?\r\nInscription note: presumed owner's name. apparent foliation 260 in lower left corner and 15 in lower right. indecipherable word below the chariot."
+        },
+        {
+            "label": "Sequential Order",
+            "value": "051"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/51/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

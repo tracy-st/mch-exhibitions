@@ -1,0 +1,85 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/135/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "The Slaying of Pralamba",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/135/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/135/canvas.json",
+                    "label": "The Slaying of Pralamba",
+                    "@type": "sc:Canvas",
+                    "width": 0,
+                    "height": 0,
+                    "images": [],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/135\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "The Slaying of Pralamba"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Private Collection, US"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.18.27-32"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Beach, 2011 p.78"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/135/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/135\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "The Slaying of Pralamba"
+        },
+        {
+            "label": "Repository",
+            "value": "Private Collection, US"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.18.27-32"
+        },
+        {
+            "label": "Publications",
+            "value": "Beach, 2011 p.78"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "135"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/135/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

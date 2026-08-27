@@ -1,0 +1,130 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/148/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna approached by Akrura in the Golden Palace of Dwaraka",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/148/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/148/canvas.json",
+                    "label": "Krishna approached by Akrura in the Golden Palace of Dwaraka",
+                    "@type": "sc:Canvas",
+                    "width": 2000,
+                    "height": 2000,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/149/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/03fbb11f3bc405eb4296babc32961573.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2000,
+                                "height": 2000,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/03fbb11f3bc405eb4296babc32961573.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/148/canvas.json"
+                        },
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/150/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/89fa6c11a8b649da580c6024aefbf144.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2000,
+                                "height": 1586,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/89fa6c11a8b649da580c6024aefbf144.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/148/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/148\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna approached by Akrura in the Golden Palace of Dwaraka"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.sothebys.com/en/buy/auction/2020/indian-himalayan-southeast-asian-works-of-art/an-illustration-to-a-bhagavata-purana-series"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "PROPERTY FROM THE ESTATE OF H. PETER STERN\r\nAcquired in the 1980s"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.5 x 21.5 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP. X. 59. 1 - 2 (half)"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/148/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/148\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna approached by Akrura in the Golden Palace of Dwaraka"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.sothebys.com/en/buy/auction/2020/indian-himalayan-southeast-asian-works-of-art/an-illustration-to-a-bhagavata-purana-series"
+        },
+        {
+            "label": "Provenance",
+            "value": "PROPERTY FROM THE ESTATE OF H. PETER STERN\r\nAcquired in the 1980s"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.5 x 21.5 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP. X. 59. 1 - 2 (half)"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "148"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/148/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

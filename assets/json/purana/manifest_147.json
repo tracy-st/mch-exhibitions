@@ -1,0 +1,112 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/147/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "The Burning of the Khandava forest",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/147/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/147/canvas.json",
+                    "label": "The Burning of the Khandava forest",
+                    "@type": "sc:Canvas",
+                    "width": 1896,
+                    "height": 1320,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/148/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/bc9e6d8f264fbbe7ae08e371e338abe2.png",
+                                "@type": "dctypes:Image",
+                                "format": "image/png",
+                                "width": 1896,
+                                "height": 1320,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/bc9e6d8f264fbbe7ae08e371e338abe2.png",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/147/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/147\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "The Burning of the Khandava forest"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09319/lot.1113.html"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.7 x 23.1 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X. 58."
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "A. Poster, Realms of Heroism: Indian Paintings at the Brooklyn Museum, New York,  1994, pp. 53 - 55."
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/147/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/147\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "The Burning of the Khandava forest"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09319/lot.1113.html"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.7 x 23.1 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP X. 58."
+        },
+        {
+            "label": "Publications",
+            "value": "A. Poster, Realms of Heroism: Indian Paintings at the Brooklyn Museum, New York,  1994, pp. 53 - 55."
+        },
+        {
+            "label": "Sequential Order",
+            "value": "147"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/147/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

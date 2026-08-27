@@ -1,0 +1,96 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/155/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Balarama and the gopis",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/155/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/155/canvas.json",
+                    "label": "Balarama and the gopis",
+                    "@type": "sc:Canvas",
+                    "width": 1618,
+                    "height": 1144,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/156/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/1d76bdaceefe523b63bfdda2cf37c01f.png",
+                                "@type": "dctypes:Image",
+                                "format": "image/png",
+                                "width": 1618,
+                                "height": 1144,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/1d76bdaceefe523b63bfdda2cf37c01f.png",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/155/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/155\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Balarama and the gopis"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.christies.com/lot/lot-a-leaf-from-an-early-bhagavata-purana-3970127/?from=searchresults&intObjectID=3970127"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.9 x 23.9 cm."
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/155/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/155\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Balarama and the gopis"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.christies.com/lot/lot-a-leaf-from-an-early-bhagavata-purana-3970127/?from=searchresults&intObjectID=3970127"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.9 x 23.9 cm."
+        },
+        {
+            "label": "Sequential Order",
+            "value": "155"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/155/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

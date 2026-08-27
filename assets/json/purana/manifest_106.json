@@ -1,0 +1,136 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/106/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna and Balarama Taking the Cattle to Graze",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/106/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/106/canvas.json",
+                    "label": "Krishna and Balarama Taking the Cattle to Graze",
+                    "@type": "sc:Canvas",
+                    "width": 866,
+                    "height": 643,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/104/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/6b8259119fe8f02e536aace37e023a8d.jpeg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 866,
+                                "height": 643,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/6b8259119fe8f02e536aace37e023a8d.jpeg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/106/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/106\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna and Balarama Taking the Cattle to Graze"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.ancient-origins.net/history-ancient-traditions/past-teaching-present-ancient-sanskrit-texts-discuss-importance-020527"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Museum Rietberg, Zurich"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Collection of Terence McInerney, New York. Sold to Museum Rietberg, Zürich, Switzerland, 1988, accessioned by Museum Rietberg, Zürich, Switzerland, 1988."
+                        },
+                        {
+                            "label": "Parent Work",
+                            "value": "\"Palam\" Bhagavata Purana"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Ink and opaque watercolor on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "18 x 23.5 cm"
+                        },
+                        {
+                            "label": "Exhibition History",
+                            "value": "New York. The Metropolitan Museum of Art. \"Wonder of the Age: Master Painters of India, 1100–1900,\" September 26, 2011–January 8, 2012."
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/106/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/106\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna and Balarama Taking the Cattle to Graze"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.ancient-origins.net/history-ancient-traditions/past-teaching-present-ancient-sanskrit-texts-discuss-importance-020527"
+        },
+        {
+            "label": "Repository",
+            "value": "Museum Rietberg, Zurich"
+        },
+        {
+            "label": "Provenance",
+            "value": "Collection of Terence McInerney, New York. Sold to Museum Rietberg, Zürich, Switzerland, 1988, accessioned by Museum Rietberg, Zürich, Switzerland, 1988."
+        },
+        {
+            "label": "Parent Work",
+            "value": "\"Palam\" Bhagavata Purana"
+        },
+        {
+            "label": "Medium",
+            "value": "Ink and opaque watercolor on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "18 x 23.5 cm"
+        },
+        {
+            "label": "Exhibition History",
+            "value": "New York. The Metropolitan Museum of Art. \"Wonder of the Age: Master Painters of India, 1100–1900,\" September 26, 2011–January 8, 2012."
+        },
+        {
+            "label": "Sequential Order",
+            "value": "106"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/106/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

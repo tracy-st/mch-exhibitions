@@ -1,0 +1,136 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/103/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Brahma Honors Lord Krishna for His Miraculous Deed",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/103/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/103/canvas.json",
+                    "label": "Brahma Honors Lord Krishna for His Miraculous Deed",
+                    "@type": "sc:Canvas",
+                    "width": 1500,
+                    "height": 1135,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/100/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/5e6a12e848df7688f39d16f4169f20ef.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1500,
+                                "height": 1135,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/5e6a12e848df7688f39d16f4169f20ef.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/103/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/103\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Brahma Honors Lord Krishna for His Miraculous Deed"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.philamuseum.org/collections/permanent/101280.html?mulR=841"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Philadelphia Museum of Art"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "2004-149-6"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "125th Anniversary Acquisition. Alvin O. Bellak Collection, 2004"
+                        },
+                        {
+                            "label": "Parent Work",
+                            "value": "\"Palam\" Bhagavata Purana"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Opaque watercolor and ink on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "13.7 × 23.2 cm"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/103/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/103\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Brahma Honors Lord Krishna for His Miraculous Deed"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.philamuseum.org/collections/permanent/101280.html?mulR=841"
+        },
+        {
+            "label": "Repository",
+            "value": "Philadelphia Museum of Art"
+        },
+        {
+            "label": "Accession Number",
+            "value": "2004-149-6"
+        },
+        {
+            "label": "Provenance",
+            "value": "125th Anniversary Acquisition. Alvin O. Bellak Collection, 2004"
+        },
+        {
+            "label": "Parent Work",
+            "value": "\"Palam\" Bhagavata Purana"
+        },
+        {
+            "label": "Medium",
+            "value": "Opaque watercolor and ink on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "13.7 × 23.2 cm"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "103"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/103/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

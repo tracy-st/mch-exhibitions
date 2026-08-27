@@ -1,0 +1,152 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/58/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Brahma Salutes Krishna",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/58/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/58/canvas.json",
+                    "label": "Brahma Salutes Krishna",
+                    "@type": "sc:Canvas",
+                    "width": 2100,
+                    "height": 1577,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/54/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/18756327b447f8afc478dfd92314baa0.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2100,
+                                "height": 1577,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/18756327b447f8afc478dfd92314baa0.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/58/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/58\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Brahma Salutes Krishna"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://collections.lacma.org/node/172029"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Los Angeles County Museum of Art"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "M.91.69"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Gift of Cynthia Hazen Polsky"
+                        },
+                        {
+                            "label": "Date",
+                            "value": "1520-30 CE"
+                        },
+                        {
+                            "label": "Location",
+                            "value": "Mathura"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Opaque watercolor and ink on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "Sheet: 18.42 x 24.13 cm\r\nImage: 17.78 x 24.13 cm"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Pal, Pratapaditya. Indian Painting, vol.1. Los Angeles: Los Angeles County Museum of Art, 1993."
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/58/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/58\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Brahma Salutes Krishna"
+        },
+        {
+            "label": "Link",
+            "value": "https://collections.lacma.org/node/172029"
+        },
+        {
+            "label": "Repository",
+            "value": "Los Angeles County Museum of Art"
+        },
+        {
+            "label": "Accession Number",
+            "value": "M.91.69"
+        },
+        {
+            "label": "Provenance",
+            "value": "Gift of Cynthia Hazen Polsky"
+        },
+        {
+            "label": "Date",
+            "value": "1520-30 CE"
+        },
+        {
+            "label": "Location",
+            "value": "Mathura"
+        },
+        {
+            "label": "Medium",
+            "value": "Opaque watercolor and ink on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "Sheet: 18.42 x 24.13 cm\r\nImage: 17.78 x 24.13 cm"
+        },
+        {
+            "label": "Publications",
+            "value": "Pal, Pratapaditya. Indian Painting, vol.1. Los Angeles: Los Angeles County Museum of Art, 1993."
+        },
+        {
+            "label": "Sequential Order",
+            "value": "058"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/58/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

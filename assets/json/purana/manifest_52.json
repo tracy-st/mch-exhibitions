@@ -1,0 +1,202 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/52/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Aniruddha's Marriage ",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/52/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/52/canvas.json",
+                    "label": "Aniruddha's Marriage ",
+                    "@type": "sc:Canvas",
+                    "width": 2500,
+                    "height": 2139,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/44/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/28599af3aa62d1de22a1cc13e1d6ac66.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2500,
+                                "height": 2050,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/28599af3aa62d1de22a1cc13e1d6ac66.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/52/canvas.json"
+                        },
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/45/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/6ee67fb80c0c0dcd0cc905bcc17bf77c.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2500,
+                                "height": 2139,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/6ee67fb80c0c0dcd0cc905bcc17bf77c.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/52/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/52\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Aniruddha's Marriage"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.britishmuseum.org/collection/object/A_1958-1011-0-1"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "British Museum"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1958,1011,0.1"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Purchased from Florence Marshall; Funded by Brooke Sewell Permanent Fund"
+                        },
+                        {
+                            "label": "Parent Work",
+                            "value": "Dispersed Bhāgavata Purāṇa"
+                        },
+                        {
+                            "label": "Date",
+                            "value": "1520-30 CE"
+                        },
+                        {
+                            "label": "Location",
+                            "value": "Mathura"
+                        },
+                        {
+                            "label": "Style",
+                            "value": "Chaurapañchāśikā Group"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Painted on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "18 cm x 23.50 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.61.25\r\n\r\nदौहित्रायानिरुद्धाय पौत्रीं रुक्म्यददाद्धरेः ।\r\nरोचनां बद्धवैरोऽपि स्वसुः प्रियचिकीर्षया ।\r\nजानन्नधर्मं तद्यौनं स्नेहपाशानुबन्धनः ॥ २५॥"
+                        },
+                        {
+                            "label": "Paratext",
+                            "value": "Inscription type: inscription\r\nInscription position: Middle of painting\r\nInscription script: Devanagari\r\nInscription transliteration: Hīrabhāī\r\nInscription note: Presumed to be an owner's name\r\nInscription type: inscription\r\nInscription position: above painting\r\nInscription script: Devanagari\r\nInscription transliteration: Sā Nānā\r\nInscription note: Presumed to be an owner's name\r\nInscription type: inscription\r\nInscription position: below painting\r\nInscription language: Hindi\r\nInscription script: Devanagari\r\nInscription transliteration: Sāṃba kī vīvāha\r\nInscription translation: The marriage of Sāṃba\r\nInscription note: Sāṃba, a young son of Kŗṣṇa by his wife Jāmbavatī, abducted Lakṣmaṇā daughter of Duryodhana from Hastināpura, and after being rescued from the wrath of the Kurus by his uncle Balarāma, who threatened to destroy the city with his ploughshare, married her, according to Bhāgavata Purāṇa X, ch 68.\r\nInscription type: inscription\r\nInscription position: bottom left corner\r\nInscription script: Devanagari\r\nInscription transliteration: x45\r\nInscription note: damaged first character, perhaps a folio number"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Blurton 1992 / Hindu Art (p.27, fig.10)"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/52/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/52\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Aniruddha's Marriage"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.britishmuseum.org/collection/object/A_1958-1011-0-1"
+        },
+        {
+            "label": "Repository",
+            "value": "British Museum"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1958,1011,0.1"
+        },
+        {
+            "label": "Provenance",
+            "value": "Purchased from Florence Marshall; Funded by Brooke Sewell Permanent Fund"
+        },
+        {
+            "label": "Parent Work",
+            "value": "Dispersed Bhāgavata Purāṇa"
+        },
+        {
+            "label": "Date",
+            "value": "1520-30 CE"
+        },
+        {
+            "label": "Location",
+            "value": "Mathura"
+        },
+        {
+            "label": "Style",
+            "value": "Chaurapañchāśikā Group"
+        },
+        {
+            "label": "Medium",
+            "value": "Painted on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "18 cm x 23.50 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.61.25\r\n\r\nदौहित्रायानिरुद्धाय पौत्रीं रुक्म्यददाद्धरेः ।\r\nरोचनां बद्धवैरोऽपि स्वसुः प्रियचिकीर्षया ।\r\nजानन्नधर्मं तद्यौनं स्नेहपाशानुबन्धनः ॥ २५॥"
+        },
+        {
+            "label": "Paratext",
+            "value": "Inscription type: inscription\r\nInscription position: Middle of painting\r\nInscription script: Devanagari\r\nInscription transliteration: Hīrabhāī\r\nInscription note: Presumed to be an owner's name\r\nInscription type: inscription\r\nInscription position: above painting\r\nInscription script: Devanagari\r\nInscription transliteration: Sā Nānā\r\nInscription note: Presumed to be an owner's name\r\nInscription type: inscription\r\nInscription position: below painting\r\nInscription language: Hindi\r\nInscription script: Devanagari\r\nInscription transliteration: Sāṃba kī vīvāha\r\nInscription translation: The marriage of Sāṃba\r\nInscription note: Sāṃba, a young son of Kŗṣṇa by his wife Jāmbavatī, abducted Lakṣmaṇā daughter of Duryodhana from Hastināpura, and after being rescued from the wrath of the Kurus by his uncle Balarāma, who threatened to destroy the city with his ploughshare, married her, according to Bhāgavata Purāṇa X, ch 68.\r\nInscription type: inscription\r\nInscription position: bottom left corner\r\nInscription script: Devanagari\r\nInscription transliteration: x45\r\nInscription note: damaged first character, perhaps a folio number"
+        },
+        {
+            "label": "Publications",
+            "value": "Blurton 1992 / Hindu Art (p.27, fig.10)"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "052"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/52/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

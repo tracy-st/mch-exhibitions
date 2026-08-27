@@ -1,0 +1,122 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/98/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna and the Gopis",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/98/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/98/canvas.json",
+                    "label": "Krishna and the Gopis",
+                    "@type": "sc:Canvas",
+                    "width": 1536,
+                    "height": 1168,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/95/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/bcb02917ab1870d41ccb060377d3178b.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1536,
+                                "height": 1168,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/bcb02917ab1870d41ccb060377d3178b.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/98/canvas.json"
+                        },
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/96/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/56169ed3c8e26e881d6892f59893e768.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1536,
+                                "height": 1149,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/56169ed3c8e26e881d6892f59893e768.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/98/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/98\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna and the Gopis"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.brooklynmuseum.org/opencollection/objects/106553"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Brooklyn Museum"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "80.41"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/98/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/98\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna and the Gopis"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.brooklynmuseum.org/opencollection/objects/106553"
+        },
+        {
+            "label": "Repository",
+            "value": "Brooklyn Museum"
+        },
+        {
+            "label": "Accession Number",
+            "value": "80.41"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "098"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/98/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

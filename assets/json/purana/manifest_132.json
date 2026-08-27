@@ -1,0 +1,112 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/132/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna swinging Vatasura, the Calf-Demon as Balarama and friends watch",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/132/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/132/canvas.json",
+                    "label": "Krishna swinging Vatasura, the Calf-Demon as Balarama and friends watch",
+                    "@type": "sc:Canvas",
+                    "width": 1778,
+                    "height": 1330,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/140/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/bee81f2c17fee7a9c4d3f63996a7ad2e.png",
+                                "@type": "dctypes:Image",
+                                "format": "image/png",
+                                "width": 1778,
+                                "height": 1330,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/bee81f2c17fee7a9c4d3f63996a7ad2e.png",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/132/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/132\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna swinging Vatasura, the Calf-Demon as Balarama and friends watch"
+                        },
+                        {
+                            "label": "Artist",
+                            "value": "Attributed to Painter A"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09319/lot.1110.html"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "image: 18 x 23.4 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X. 11. (possible verse: 41-45)"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/132/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/132\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna swinging Vatasura, the Calf-Demon as Balarama and friends watch"
+        },
+        {
+            "label": "Artist",
+            "value": "Attributed to Painter A"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09319/lot.1110.html"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "image: 18 x 23.4 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP X. 11. (possible verse: 41-45)"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "132"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/132/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/139/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna Slays the Yaksha Sankachuda",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/139/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/139/canvas.json",
+                    "label": "Krishna Slays the Yaksha Sankachuda",
+                    "@type": "sc:Canvas",
+                    "width": 1922,
+                    "height": 1354,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/144/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/353e269d2909c9b3f5637b8ad6da2145.png",
+                                "@type": "dctypes:Image",
+                                "format": "image/png",
+                                "width": 1922,
+                                "height": 1354,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/353e269d2909c9b3f5637b8ad6da2145.png",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/139/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/139\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna Slays the Yaksha Sankachuda"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.bonhams.com/auctions/20479/lot/54/?category=list"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Private Collection\r\nAcquired from Doris Wiener in the 1980s"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "Folio: 17 x 23 cm"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/139/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/139\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna Slays the Yaksha Sankachuda"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.bonhams.com/auctions/20479/lot/54/?category=list"
+        },
+        {
+            "label": "Provenance",
+            "value": "Private Collection\r\nAcquired from Doris Wiener in the 1980s"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "Folio: 17 x 23 cm"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "139"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/139/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

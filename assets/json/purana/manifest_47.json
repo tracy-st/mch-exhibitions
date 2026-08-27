@@ -1,0 +1,162 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/47/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "The Marriage of Pradyumna and Rukmavati",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/47/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/47/canvas.json",
+                    "label": "The Marriage of Pradyumna and Rukmavati",
+                    "@type": "sc:Canvas",
+                    "width": 3400,
+                    "height": 2555,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/36/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/d16969fdc35b7f923b9e79e55a70b539.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 900,
+                                "height": 685,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/d16969fdc35b7f923b9e79e55a70b539.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/47/canvas.json"
+                        },
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/37/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/f2d8bbfb8e30b17e1ec8fe7ad70a7470.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3400,
+                                "height": 2555,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/f2d8bbfb8e30b17e1ec8fe7ad70a7470.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/47/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/47\">View page</a>"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "http://clevelandmuseumofart.art/art/1976.26"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "The Cleveland Museum of Art"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1976.26"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Gift of Dr. Norman Zaworski"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "16.3 x 21.5 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.61.20-24\r\n\r\nराजोवाच\r\nकथं रुक्म्यरिपुत्राय प्रादाद्दुहितरं युधि ।\r\nकृष्णेन परिभूतस्तं हन्तुं रन्ध्रं प्रतीक्षते ।\r\nएतदाख्याहि मे विद्वन् द्विषोर्वैवाहिकं मिथः ॥ २०॥\r\n\r\nअनागतमतीतं च वर्तमानमतीन्द्रियम् ।\r\nविप्रकृष्टं व्यवहितं सम्यक् पश्यन्ति योगिनः ॥ २१॥\r\n\r\nश्रीशुक उवाच\r\nवृतः स्वयंवरे साक्षादनङ्गोऽङ्गयुतस्तया ।\r\nराज्ञः समेतान् निर्जित्य जहारैकरथो युधि ॥ २२॥\r\n\r\nयद्यप्यनुस्मरन् वैरं रुक्मी कृष्णावमानितः ।\r\nव्यतरद्भागिनेयाय सुतां कुर्वन् स्वसुः प्रियम् ॥ २३॥\r\n\r\nरुक्मिण्यास्तनयां राजन् कृतवर्मसुतो बली ।\r\nउपयेमे विशालाक्षीं कन्यां चारुमतीं किल ॥ २४॥"
+                        },
+                        {
+                            "label": "Paratext",
+                            "value": "Inscription in lower left damaged, replaced with \"\"Pradyumna ko vivahu\"\" (the marriage of Pradyumna) in lower center; text on verso."
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Ehnbom, Daniel J. An Analysis and Reconstruction of the Dispersed Bhāgavata Purāna from the Caurapañcāśikā Group, 1984.pl.34."
+                        },
+                        {
+                            "label": "Exhibition History",
+                            "value": "\"Indian Miniature Rotation (Gallery 115); August 13, 2003 - February 18, 2004.\r\nIndian Minature Rotation (Gallery 115); August 18, 2004 -\r\nFrench Drawings and Watercolors from French Public and Private Collections. The Cleveland Museum of Art, Cleveland, OH (January 6-February 15, 1942).\r\nYear in Review, 1976. The Cleveland Museum of Art (organizer) (February 1-March 6, 1977).\r\nSupernatural Love - Indian Gallery 242 Rotation. The Cleveland Museum of Art (organizer) (April 1-September 9, 2019).\""
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/47/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/47\">View page</a>"
+        },
+        {
+            "label": "Link",
+            "value": "http://clevelandmuseumofart.art/art/1976.26"
+        },
+        {
+            "label": "Repository",
+            "value": "The Cleveland Museum of Art"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1976.26"
+        },
+        {
+            "label": "Provenance",
+            "value": "Gift of Dr. Norman Zaworski"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "16.3 x 21.5 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.61.20-24\r\n\r\nराजोवाच\r\nकथं रुक्म्यरिपुत्राय प्रादाद्दुहितरं युधि ।\r\nकृष्णेन परिभूतस्तं हन्तुं रन्ध्रं प्रतीक्षते ।\r\nएतदाख्याहि मे विद्वन् द्विषोर्वैवाहिकं मिथः ॥ २०॥\r\n\r\nअनागतमतीतं च वर्तमानमतीन्द्रियम् ।\r\nविप्रकृष्टं व्यवहितं सम्यक् पश्यन्ति योगिनः ॥ २१॥\r\n\r\nश्रीशुक उवाच\r\nवृतः स्वयंवरे साक्षादनङ्गोऽङ्गयुतस्तया ।\r\nराज्ञः समेतान् निर्जित्य जहारैकरथो युधि ॥ २२॥\r\n\r\nयद्यप्यनुस्मरन् वैरं रुक्मी कृष्णावमानितः ।\r\nव्यतरद्भागिनेयाय सुतां कुर्वन् स्वसुः प्रियम् ॥ २३॥\r\n\r\nरुक्मिण्यास्तनयां राजन् कृतवर्मसुतो बली ।\r\nउपयेमे विशालाक्षीं कन्यां चारुमतीं किल ॥ २४॥"
+        },
+        {
+            "label": "Paratext",
+            "value": "Inscription in lower left damaged, replaced with \"\"Pradyumna ko vivahu\"\" (the marriage of Pradyumna) in lower center; text on verso."
+        },
+        {
+            "label": "Publications",
+            "value": "Ehnbom, Daniel J. An Analysis and Reconstruction of the Dispersed Bhāgavata Purāna from the Caurapañcāśikā Group, 1984.pl.34."
+        },
+        {
+            "label": "Exhibition History",
+            "value": "\"Indian Miniature Rotation (Gallery 115); August 13, 2003 - February 18, 2004.\r\nIndian Minature Rotation (Gallery 115); August 18, 2004 -\r\nFrench Drawings and Watercolors from French Public and Private Collections. The Cleveland Museum of Art, Cleveland, OH (January 6-February 15, 1942).\r\nYear in Review, 1976. The Cleveland Museum of Art (organizer) (February 1-March 6, 1977).\r\nSupernatural Love - Indian Gallery 242 Rotation. The Cleveland Museum of Art (organizer) (April 1-September 9, 2019).\""
+        },
+        {
+            "label": "Sequential Order",
+            "value": "047"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/47/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

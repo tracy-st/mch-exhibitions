@@ -1,0 +1,96 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/156/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Balarama destroys a palace ",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/156/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/156/canvas.json",
+                    "label": "Balarama destroys a palace ",
+                    "@type": "sc:Canvas",
+                    "width": 1610,
+                    "height": 1190,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/157/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/643898d4c6a03c7d46fd82b5d31261f4.png",
+                                "@type": "dctypes:Image",
+                                "format": "image/png",
+                                "width": 1610,
+                                "height": 1190,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/643898d4c6a03c7d46fd82b5d31261f4.png",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/156/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/156\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Balarama destroys a palace"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.christies.com/lot/lot-balarama-destroys-a-palace-mewar-circa-1570-4572640/?from=searchresults&intObjectID=4572640"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.3 x 24 cm."
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/156/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/156\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Balarama destroys a palace"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.christies.com/lot/lot-balarama-destroys-a-palace-mewar-circa-1570-4572640/?from=searchresults&intObjectID=4572640"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.3 x 24 cm."
+        },
+        {
+            "label": "Sequential Order",
+            "value": "156"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/156/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

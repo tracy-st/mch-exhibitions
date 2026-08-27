@@ -1,0 +1,202 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/55/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Aniruddha and his party in discussion with King Rukmi and his advisers, and the wedding of Aniruddha and Rukmi's daughter Rocanā",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/55/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/55/canvas.json",
+                    "label": "Aniruddha and his party in discussion with King Rukmi and his advisers, and the wedding of Aniruddha and Rukmi's daughter Rocanā",
+                    "@type": "sc:Canvas",
+                    "width": 2500,
+                    "height": 2077,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/50/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/64a16ee32991349d13813d5385d2404e.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2500,
+                                "height": 2077,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/64a16ee32991349d13813d5385d2404e.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/55/canvas.json"
+                        },
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/51/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/44bfe6e0b01c3acbf24a1aea5f3d6779.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2500,
+                                "height": 1917,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/44bfe6e0b01c3acbf24a1aea5f3d6779.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/55/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/55\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Aniruddha and his party in discussion with King Rukmi and his advisers, and the wedding of Aniruddha and Rukmi's daughter Rocanā"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.britishmuseum.org/collection/object/A_1958-1011-0-3"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "British Museum"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1958,1011,0.3"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Purchased from Florence Marshall; Funded by Brooke Sewell Permanent Fund"
+                        },
+                        {
+                            "label": "Parent Work",
+                            "value": "Dispersed Bhāgavata Purāṇa"
+                        },
+                        {
+                            "label": "Date",
+                            "value": "1520-30 CE"
+                        },
+                        {
+                            "label": "Location",
+                            "value": "Mathura"
+                        },
+                        {
+                            "label": "Style",
+                            "value": "Chaurapañchāśikā Group"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Painted on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.60 cm x 22.90 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.61.26 (second half)\r\n\r\nपुरं भोजकटं जग्मुः साम्बप्रद्युम्नकादयः ॥ २६॥"
+                        },
+                        {
+                            "label": "Paratext",
+                            "value": "\"Inscription type: inscription\r\nInscription position: below centre\r\nInscription language: Hindi\r\nInscription script: Devanagari\r\nInscription transliteration: Anirudha Rucanā kī nātanī vivāhī\r\nInscription translation: The marriage of Aniruddha and Rocana\""
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Ahluwalia 2008 / Rajput Painting: Romantic, Divine and Courtly Art from India (p. 11. fig. 1)"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/55/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/55\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Aniruddha and his party in discussion with King Rukmi and his advisers, and the wedding of Aniruddha and Rukmi's daughter Rocanā"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.britishmuseum.org/collection/object/A_1958-1011-0-3"
+        },
+        {
+            "label": "Repository",
+            "value": "British Museum"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1958,1011,0.3"
+        },
+        {
+            "label": "Provenance",
+            "value": "Purchased from Florence Marshall; Funded by Brooke Sewell Permanent Fund"
+        },
+        {
+            "label": "Parent Work",
+            "value": "Dispersed Bhāgavata Purāṇa"
+        },
+        {
+            "label": "Date",
+            "value": "1520-30 CE"
+        },
+        {
+            "label": "Location",
+            "value": "Mathura"
+        },
+        {
+            "label": "Style",
+            "value": "Chaurapañchāśikā Group"
+        },
+        {
+            "label": "Medium",
+            "value": "Painted on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.60 cm x 22.90 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.61.26 (second half)\r\n\r\nपुरं भोजकटं जग्मुः साम्बप्रद्युम्नकादयः ॥ २६॥"
+        },
+        {
+            "label": "Paratext",
+            "value": "\"Inscription type: inscription\r\nInscription position: below centre\r\nInscription language: Hindi\r\nInscription script: Devanagari\r\nInscription transliteration: Anirudha Rucanā kī nātanī vivāhī\r\nInscription translation: The marriage of Aniruddha and Rocana\""
+        },
+        {
+            "label": "Publications",
+            "value": "Ahluwalia 2008 / Rajput Painting: Romantic, Divine and Courtly Art from India (p. 11. fig. 1)"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "055"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/55/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

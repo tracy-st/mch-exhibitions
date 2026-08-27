@@ -1,0 +1,104 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/151/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna attacks Naraka's fortress at Progjyotishpur",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/151/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/151/canvas.json",
+                    "label": "Krishna attacks Naraka's fortress at Progjyotishpur",
+                    "@type": "sc:Canvas",
+                    "width": 1914,
+                    "height": 1332,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/153/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/c1fb12e7ac34cb19664c432ed04279b1.png",
+                                "@type": "dctypes:Image",
+                                "format": "image/png",
+                                "width": 1914,
+                                "height": 1332,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/c1fb12e7ac34cb19664c432ed04279b1.png",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/151/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/151\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna attacks Naraka's fortress at Progjyotishpur"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09478/lot.776.html"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "Image: 15.3 x 21.3 cm"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Alice Heeramaneck, Masterpieces of Indian Painting, Verona, 1984, pl. 7, p. 32"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/151/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/151\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna attacks Naraka's fortress at Progjyotishpur"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.sothebys.com/en/auctions/ecatalogue/2015/indian-himalayan-southeast-asian-art-n09478/lot.776.html"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "Image: 15.3 x 21.3 cm"
+        },
+        {
+            "label": "Publications",
+            "value": "Alice Heeramaneck, Masterpieces of Indian Painting, Verona, 1984, pl. 7, p. 32"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "151"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/151/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

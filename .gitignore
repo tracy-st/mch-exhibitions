@@ -27,3 +27,4 @@ packages/app/ui/dist/
 tests/coverage/
 playwright-report/
 test-results/
+assets/json/.DS_Store

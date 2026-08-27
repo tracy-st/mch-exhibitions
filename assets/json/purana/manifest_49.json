@@ -1,0 +1,160 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/49/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Akrura and Krishna",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/49/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/49/canvas.json",
+                    "label": "Akrura and Krishna",
+                    "@type": "sc:Canvas",
+                    "width": 2500,
+                    "height": 1875,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/40/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/ed4adbf775ec84972617d5a3a9f857f6.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2500,
+                                "height": 1875,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/ed4adbf775ec84972617d5a3a9f857f6.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/49/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/49\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Akrura and Krishna"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "http://collections.vam.ac.uk/item/O17692/akrura-and-krishna-painting-unknown/"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Victoria and Albert Museum"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "IS.2-1977"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Given by John Bachofen von Echt."
+                        },
+                        {
+                            "label": "Date",
+                            "value": "1520-30 CE"
+                        },
+                        {
+                            "label": "Location",
+                            "value": "Mathura"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Painted in opaque watercolour on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.5 cm x 23.2 cm"
+                        },
+                        {
+                            "label": "Paratext",
+                            "value": "\"Udhau... Akrura... Krishna... Raya' \r\nInscriptions in Nagri identify the characters.\""
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Swallow, Deborah and John Guy eds. Arts of India: 1550-1900. text by Rosemary Crill, John Guy, Veronica Murphy, Susan Stronge and Deborah Swallow. London : V&A Publications, 1990. 240 p., ill. ISBN 1851770224, pp 36/37, no.21.\r\n\r\nIn the image of man : the Indian perception of the universe through 2000 years of painting and sculpture : [exhibition / organized by Catherine Lampert assisted by Rosalie Cass]. London: Weidenfeld and Nicolson :in association with the Arts Council of Great Britain, 1982 Number: 0297780719, 0297781243 (pbk.)p. 209 cat. no. 405"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/49/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/49\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Akrura and Krishna"
+        },
+        {
+            "label": "Link",
+            "value": "http://collections.vam.ac.uk/item/O17692/akrura-and-krishna-painting-unknown/"
+        },
+        {
+            "label": "Repository",
+            "value": "Victoria and Albert Museum"
+        },
+        {
+            "label": "Accession Number",
+            "value": "IS.2-1977"
+        },
+        {
+            "label": "Provenance",
+            "value": "Given by John Bachofen von Echt."
+        },
+        {
+            "label": "Date",
+            "value": "1520-30 CE"
+        },
+        {
+            "label": "Location",
+            "value": "Mathura"
+        },
+        {
+            "label": "Medium",
+            "value": "Painted in opaque watercolour on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.5 cm x 23.2 cm"
+        },
+        {
+            "label": "Paratext",
+            "value": "\"Udhau... Akrura... Krishna... Raya' \r\nInscriptions in Nagri identify the characters.\""
+        },
+        {
+            "label": "Publications",
+            "value": "Swallow, Deborah and John Guy eds. Arts of India: 1550-1900. text by Rosemary Crill, John Guy, Veronica Murphy, Susan Stronge and Deborah Swallow. London : V&A Publications, 1990. 240 p., ill. ISBN 1851770224, pp 36/37, no.21.\r\n\r\nIn the image of man : the Indian perception of the universe through 2000 years of painting and sculpture : [exhibition / organized by Catherine Lampert assisted by Rosalie Cass]. London: Weidenfeld and Nicolson :in association with the Arts Council of Great Britain, 1982 Number: 0297780719, 0297781243 (pbk.)p. 209 cat. no. 405"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "049"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/49/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

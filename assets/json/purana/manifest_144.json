@@ -1,0 +1,93 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/144/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna and Balarama prepare for battle",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/144/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/144/canvas.json",
+                    "label": "Krishna and Balarama prepare for battle",
+                    "@type": "sc:Canvas",
+                    "width": 0,
+                    "height": 0,
+                    "images": [],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/144\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna and Balarama prepare for battle"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Museum Rietburg Zurich, Collection of Horst Metzger"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "RVI 1912"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.50.11-15"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Beach 2011 p. 79"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/144/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/144\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna and Balarama prepare for battle"
+        },
+        {
+            "label": "Repository",
+            "value": "Museum Rietburg Zurich, Collection of Horst Metzger"
+        },
+        {
+            "label": "Accession Number",
+            "value": "RVI 1912"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.50.11-15"
+        },
+        {
+            "label": "Publications",
+            "value": "Beach 2011 p. 79"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "144"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/144/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

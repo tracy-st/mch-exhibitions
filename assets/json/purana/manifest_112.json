@@ -1,0 +1,152 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/112/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna Greets Balarama/The Search for the Jewel",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/112/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/112/canvas.json",
+                    "label": "Krishna Greets Balarama/The Search for the Jewel",
+                    "@type": "sc:Canvas",
+                    "width": 1024,
+                    "height": 771,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/111/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/21a8e547e521d437c7aeec88cef1d2c5.jpeg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1024,
+                                "height": 771,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/21a8e547e521d437c7aeec88cef1d2c5.jpeg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/112/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/112\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna Greets Balarama/The Search for the Jewel"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://harvardartmuseums.org/collections/object/216021?position=15"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Harvard Art Museums"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1974.127"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. and Mrs. Peter Bienstock"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Ink and opaque watercolor on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.3 x 23.6 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.18. 14 (second half) - 15 (first half)"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Ehnbom, Daniel J. An Analysis and Reconstruction of the Dispersed Bhāgavata Purāna from the Caurapañcāśikā Group, 1984. Dissertation."
+                        },
+                        {
+                            "label": "Exhibition History",
+                            "value": "The Arts of Krishna Bhakti, Fogg Art Museum, Cambridge, 03/09/1983 - 05/01/1983\r\n\r\nRe-View: Arts of India & the Islamic Lands, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/26/2008 - 06/01/2013\r\n\r\nRe-View: S231 (Islamic rotation: 5) Heroic Gestes: Epic Tales from Firdawsi's Shahnama, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 06/18/2010 - 11/27/2010"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/112/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/112\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna Greets Balarama/The Search for the Jewel"
+        },
+        {
+            "label": "Link",
+            "value": "https://harvardartmuseums.org/collections/object/216021?position=15"
+        },
+        {
+            "label": "Repository",
+            "value": "Harvard Art Museums"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1974.127"
+        },
+        {
+            "label": "Provenance",
+            "value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. and Mrs. Peter Bienstock"
+        },
+        {
+            "label": "Medium",
+            "value": "Ink and opaque watercolor on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.3 x 23.6 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.18. 14 (second half) - 15 (first half)"
+        },
+        {
+            "label": "Publications",
+            "value": "Ehnbom, Daniel J. An Analysis and Reconstruction of the Dispersed Bhāgavata Purāna from the Caurapañcāśikā Group, 1984. Dissertation."
+        },
+        {
+            "label": "Exhibition History",
+            "value": "The Arts of Krishna Bhakti, Fogg Art Museum, Cambridge, 03/09/1983 - 05/01/1983\r\n\r\nRe-View: Arts of India & the Islamic Lands, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/26/2008 - 06/01/2013\r\n\r\nRe-View: S231 (Islamic rotation: 5) Heroic Gestes: Epic Tales from Firdawsi's Shahnama, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 06/18/2010 - 11/27/2010"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "112"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/112/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

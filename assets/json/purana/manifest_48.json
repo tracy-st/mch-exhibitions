@@ -1,0 +1,136 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/48/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna sporting with the gopis in the Jumna River",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/48/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/48/canvas.json",
+                    "label": "Krishna sporting with the gopis in the Jumna River",
+                    "@type": "sc:Canvas",
+                    "width": 1186,
+                    "height": 893,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/38/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/32b0ede77a81481233d37ea62b7b5998.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1186,
+                                "height": 893,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/32b0ede77a81481233d37ea62b7b5998.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/48/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/48\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna sporting with the gopis in the Jumna River"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "http://clevelandmuseumofart.art/art/1971.171"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "The Cleveland Museum of Art"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1971.171"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Gift of Mr. and Mrs. Alvin N. Haas"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "Overall: 16.5 x 22.2 cm"
+                        },
+                        {
+                            "label": "Paratext",
+                            "value": "verso, upper right: Hirabai"
+                        },
+                        {
+                            "label": "Exhibition History",
+                            "value": "Indian Miniature Rotation (Gallery 115); August 13, 2003 - February 18, 2004.\r\n\r\nIndian Minature Rotation (Gallery 115); August 18, 2004 -\r\nDance of the Gods: Indian Art Inspired by Music. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 24-December 8, 1996).\r\n\r\nSupernatural Love - Indian Gallery 242 Rotation. The Cleveland Museum of Art (organizer) (April 1-September 9, 2019)."
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/48/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/48\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna sporting with the gopis in the Jumna River"
+        },
+        {
+            "label": "Link",
+            "value": "http://clevelandmuseumofart.art/art/1971.171"
+        },
+        {
+            "label": "Repository",
+            "value": "The Cleveland Museum of Art"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1971.171"
+        },
+        {
+            "label": "Provenance",
+            "value": "Gift of Mr. and Mrs. Alvin N. Haas"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "Overall: 16.5 x 22.2 cm"
+        },
+        {
+            "label": "Paratext",
+            "value": "verso, upper right: Hirabai"
+        },
+        {
+            "label": "Exhibition History",
+            "value": "Indian Miniature Rotation (Gallery 115); August 13, 2003 - February 18, 2004.\r\n\r\nIndian Minature Rotation (Gallery 115); August 18, 2004 -\r\nDance of the Gods: Indian Art Inspired by Music. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 24-December 8, 1996).\r\n\r\nSupernatural Love - Indian Gallery 242 Rotation. The Cleveland Museum of Art (organizer) (April 1-September 9, 2019)."
+        },
+        {
+            "label": "Sequential Order",
+            "value": "048"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/48/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

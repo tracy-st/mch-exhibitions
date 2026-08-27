@@ -1,0 +1,194 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/54/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Kṛṣṇa and one of his wives performing various activities",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/54/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/54/canvas.json",
+                    "label": "Kṛṣṇa and one of his wives performing various activities",
+                    "@type": "sc:Canvas",
+                    "width": 2500,
+                    "height": 1852,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/48/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/f18d8252f760fe46605f4f5b152feacd.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2500,
+                                "height": 1852,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/f18d8252f760fe46605f4f5b152feacd.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/54/canvas.json"
+                        },
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/49/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/b4121290380a5d882c3141e8395d1502.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2500,
+                                "height": 1830,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/b4121290380a5d882c3141e8395d1502.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/54/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/54\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Kṛṣṇa and one of his wives performing various activities"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.britishmuseum.org/collection/object/A_1958-1011-0-2"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "British Museum"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1958,1011,0.2"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Purchased from Florence Marshall; Funded by Brooke Sewell Permanent Fund"
+                        },
+                        {
+                            "label": "Parent Work",
+                            "value": "Dispersed Bhāgavata Purāṇa"
+                        },
+                        {
+                            "label": "Date",
+                            "value": "1520-30 CE"
+                        },
+                        {
+                            "label": "Location",
+                            "value": "Mathura"
+                        },
+                        {
+                            "label": "Style",
+                            "value": "Chaurapañchāśikā Group"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Painted on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.30 cm x 23.20 cm"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.70.1-15 (first half)\r\n\r\nश्रीशुक उवाच\r\nअथोषस्युपवृत्तायां कुक्कुटान् कूजतोऽशपन् ।\r\nगृहीतकण्ठ्यः पतिभिर्माधव्यो विरहातुराः ॥ १॥\r\n\r\nवयांस्यरोरुवन् कृष्णं बोधयन्तीव वन्दिनः ।\r\nगायत्स्वलिष्वनिद्राणि मन्दारवनवायुभिः ॥ २॥\r\n\r\nमुहूर्तं तं तु वैदर्भी नामृष्यदतिशोभनम् ।\r\nपरिरम्भणविश्लेषात्प्रियबाह्वन्तरं गता ॥ ३॥\r\n\r\nब्राह्मे मुहूर्त उत्थाय वार्युपस्पृश्य माधवः ।\r\nदध्यौ प्रसन्नकरण आत्मानं तमसः परम् ॥ ४॥\r\n\r\nएकं स्वयंज्योतिरनन्यमव्ययं \r\nस्वसंस्थया नित्यनिरस्तकल्मषम् ।\r\nब्रह्माख्यमस्योद्भवनाशहेतुभिः \r\nस्वशक्तिभिर्लक्षितभावनिर्वृतिम् ॥ ५॥\r\n\r\nअथाप्लुतोऽम्भस्यमले यथाविधि \r\nक्रियाकलापं परिधाय वाससी । \r\nचकार सन्ध्योपगमादि सत्तमो \r\nहुतानलो ब्रह्म जजाप वाग्यतः ॥ ६॥\r\n\r\nउपस्थायार्कमुद्यन्तं तर्पयित्वात्मनः कलाः ।\r\nदेवान् ऋषीन् पितॄन् वृद्धान् विप्रानभ्यर्च्य चात्मवान् ॥ ७॥\r\n\r\nधेनूनां रुक्मश‍ृङ्गीणां साध्वीनां मौक्तिकस्रजाम् ।\r\nपयस्विनीनां गृष्टीनां सवत्सानां सुवाससाम् ॥ ८॥\r\n\r\nददौ रूप्यखुराग्राणां क्षौमाजिनतिलैः सह ।\r\nअलङ्कृतेभ्यो विप्रेभ्यो बद्वं बद्वं दिने दिने ॥ ९॥\r\n\r\nगोविप्रदेवतावृद्धगुरून् भूतानि सर्वशः ।\r\nनमस्कृत्यात्मसम्भूतीर्मङ्गलानि समस्पृशत् ॥ १०॥\r\n\r\nआत्मानं भूषयामास नरलोकविभूषणम् ।\r\nवासोभिर्भूषणैः स्वीयैर्दिव्यस्रगनुलेपनैः ॥ ११॥\r\n\r\nअवेक्ष्याज्यं तथाऽऽदर्शं गोवृषद्विजदेवताः ।\r\nकामांश्च सर्ववर्णानां पौरान्तःपुरचारिणाम् ।\r\nप्रदाप्य प्रकृतीः कामैः प्रतोष्य प्रत्यनन्दत ॥ १२॥\r\n\r\nसंविभज्याग्रतो विप्रान् स्रक्ताम्बूलानुलेपनैः ।\r\nसुहृदः प्रकृतीर्दारानुपायुङ्क्त ततः स्वयम् ॥ १३॥\r\n\r\nतावत्सूत उपानीय स्यन्दनं परमाद्भुतम् ।\r\nसुग्रीवाद्यैर्हयैर्युक्तं प्रणम्यावस्थितोऽग्रतः ॥ १४॥\r\n\r\nगृहीत्वा पाणिना पाणी सारथेस्तमथारुहत् ।"
+                        },
+                        {
+                            "label": "Paratext",
+                            "value": "Inscription type: inscription\r\nInscription position: top margin\r\nInscription language: Sanskrit\r\nInscription script: Devanagari\r\nInscription transliteration: Sā. Mīṭhārām\r\nInscription translation: Mitharam Sa or Shah?\r\nInscription note: Assumed to be an owner's name."
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/54/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/54\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Kṛṣṇa and one of his wives performing various activities"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.britishmuseum.org/collection/object/A_1958-1011-0-2"
+        },
+        {
+            "label": "Repository",
+            "value": "British Museum"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1958,1011,0.2"
+        },
+        {
+            "label": "Provenance",
+            "value": "Purchased from Florence Marshall; Funded by Brooke Sewell Permanent Fund"
+        },
+        {
+            "label": "Parent Work",
+            "value": "Dispersed Bhāgavata Purāṇa"
+        },
+        {
+            "label": "Date",
+            "value": "1520-30 CE"
+        },
+        {
+            "label": "Location",
+            "value": "Mathura"
+        },
+        {
+            "label": "Style",
+            "value": "Chaurapañchāśikā Group"
+        },
+        {
+            "label": "Medium",
+            "value": "Painted on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.30 cm x 23.20 cm"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.70.1-15 (first half)\r\n\r\nश्रीशुक उवाच\r\nअथोषस्युपवृत्तायां कुक्कुटान् कूजतोऽशपन् ।\r\nगृहीतकण्ठ्यः पतिभिर्माधव्यो विरहातुराः ॥ १॥\r\n\r\nवयांस्यरोरुवन् कृष्णं बोधयन्तीव वन्दिनः ।\r\nगायत्स्वलिष्वनिद्राणि मन्दारवनवायुभिः ॥ २॥\r\n\r\nमुहूर्तं तं तु वैदर्भी नामृष्यदतिशोभनम् ।\r\nपरिरम्भणविश्लेषात्प्रियबाह्वन्तरं गता ॥ ३॥\r\n\r\nब्राह्मे मुहूर्त उत्थाय वार्युपस्पृश्य माधवः ।\r\nदध्यौ प्रसन्नकरण आत्मानं तमसः परम् ॥ ४॥\r\n\r\nएकं स्वयंज्योतिरनन्यमव्ययं \r\nस्वसंस्थया नित्यनिरस्तकल्मषम् ।\r\nब्रह्माख्यमस्योद्भवनाशहेतुभिः \r\nस्वशक्तिभिर्लक्षितभावनिर्वृतिम् ॥ ५॥\r\n\r\nअथाप्लुतोऽम्भस्यमले यथाविधि \r\nक्रियाकलापं परिधाय वाससी । \r\nचकार सन्ध्योपगमादि सत्तमो \r\nहुतानलो ब्रह्म जजाप वाग्यतः ॥ ६॥\r\n\r\nउपस्थायार्कमुद्यन्तं तर्पयित्वात्मनः कलाः ।\r\nदेवान् ऋषीन् पितॄन् वृद्धान् विप्रानभ्यर्च्य चात्मवान् ॥ ७॥\r\n\r\nधेनूनां रुक्मश‍ृङ्गीणां साध्वीनां मौक्तिकस्रजाम् ।\r\nपयस्विनीनां गृष्टीनां सवत्सानां सुवाससाम् ॥ ८॥\r\n\r\nददौ रूप्यखुराग्राणां क्षौमाजिनतिलैः सह ।\r\nअलङ्कृतेभ्यो विप्रेभ्यो बद्वं बद्वं दिने दिने ॥ ९॥\r\n\r\nगोविप्रदेवतावृद्धगुरून् भूतानि सर्वशः ।\r\nनमस्कृत्यात्मसम्भूतीर्मङ्गलानि समस्पृशत् ॥ १०॥\r\n\r\nआत्मानं भूषयामास नरलोकविभूषणम् ।\r\nवासोभिर्भूषणैः स्वीयैर्दिव्यस्रगनुलेपनैः ॥ ११॥\r\n\r\nअवेक्ष्याज्यं तथाऽऽदर्शं गोवृषद्विजदेवताः ।\r\nकामांश्च सर्ववर्णानां पौरान्तःपुरचारिणाम् ।\r\nप्रदाप्य प्रकृतीः कामैः प्रतोष्य प्रत्यनन्दत ॥ १२॥\r\n\r\nसंविभज्याग्रतो विप्रान् स्रक्ताम्बूलानुलेपनैः ।\r\nसुहृदः प्रकृतीर्दारानुपायुङ्क्त ततः स्वयम् ॥ १३॥\r\n\r\nतावत्सूत उपानीय स्यन्दनं परमाद्भुतम् ।\r\nसुग्रीवाद्यैर्हयैर्युक्तं प्रणम्यावस्थितोऽग्रतः ॥ १४॥\r\n\r\nगृहीत्वा पाणिना पाणी सारथेस्तमथारुहत् ।"
+        },
+        {
+            "label": "Paratext",
+            "value": "Inscription type: inscription\r\nInscription position: top margin\r\nInscription language: Sanskrit\r\nInscription script: Devanagari\r\nInscription transliteration: Sā. Mīṭhārām\r\nInscription translation: Mitharam Sa or Shah?\r\nInscription note: Assumed to be an owner's name."
+        },
+        {
+            "label": "Sequential Order",
+            "value": "054"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/54/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

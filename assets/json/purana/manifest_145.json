@@ -1,0 +1,104 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/145/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "The birth of Rukmini's son accompanied by celebrations",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/145/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/145/canvas.json",
+                    "label": "The birth of Rukmini's son accompanied by celebrations",
+                    "@type": "sc:Canvas",
+                    "width": 1916,
+                    "height": 1334,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/147/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/bd2c4f52201feca502455bb1fa8212dd.png",
+                                "@type": "dctypes:Image",
+                                "format": "image/png",
+                                "width": 1916,
+                                "height": 1334,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/bd2c4f52201feca502455bb1fa8212dd.png",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/145/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/145\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "The birth of Rukmini's son accompanied by celebrations"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.sothebys.com/en/auctions/ecatalogue/2018/arts-of-the-islamic-world-l18223/lot.99.html"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.5 x 23 cm."
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.55.??"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/145/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/145\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "The birth of Rukmini's son accompanied by celebrations"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.sothebys.com/en/auctions/ecatalogue/2018/arts-of-the-islamic-world-l18223/lot.99.html"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.5 x 23 cm."
+        },
+        {
+            "label": "Text",
+            "value": "BP X.55.??"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "145"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/145/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

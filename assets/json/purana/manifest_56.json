@@ -1,0 +1,168 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/56/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna and Balarama Play with Gopas",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/56/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/56/canvas.json",
+                    "label": "Krishna and Balarama Play with Gopas",
+                    "@type": "sc:Canvas",
+                    "width": 2100,
+                    "height": 1644,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/52/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/407658ccd0bd2854a87f31a377cd1301.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2100,
+                                "height": 1644,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/407658ccd0bd2854a87f31a377cd1301.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/56/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/56\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna and Balarama Play with Gopas"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://collections.lacma.org/node/237668"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Los Angeles County Museum of Art"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "M.71.1.9"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "From the Nasli and Alice Heeramaneck Collection, Museum Associates Purchase"
+                        },
+                        {
+                            "label": "Parent Work",
+                            "value": "Dispersed Bhāgavata Purāṇa"
+                        },
+                        {
+                            "label": "Date",
+                            "value": "1520-30 CE"
+                        },
+                        {
+                            "label": "Location",
+                            "value": "Mathura"
+                        },
+                        {
+                            "label": "Medium",
+                            "value": "Opaque watercolor and ink on paper"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "Image: 17.78 x 24.13 cm \r\nSheet: 18.42 x 24.13 cm"
+                        },
+                        {
+                            "label": "Notes",
+                            "value": "BP X.12"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Rosenfield, John.  The Arts of India and Nepal: The Nasli and Alice Heeramaneck Collection.  Boston:  Museum of Fine Arts, Boston, 1966.\r\n\r\nPal, Pratapaditya. Indian Painting, vol.1. Los Angeles: Los Angeles County Museum of Art, 1993."
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/56/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/56\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna and Balarama Play with Gopas"
+        },
+        {
+            "label": "Link",
+            "value": "https://collections.lacma.org/node/237668"
+        },
+        {
+            "label": "Repository",
+            "value": "Los Angeles County Museum of Art"
+        },
+        {
+            "label": "Accession Number",
+            "value": "M.71.1.9"
+        },
+        {
+            "label": "Provenance",
+            "value": "From the Nasli and Alice Heeramaneck Collection, Museum Associates Purchase"
+        },
+        {
+            "label": "Parent Work",
+            "value": "Dispersed Bhāgavata Purāṇa"
+        },
+        {
+            "label": "Date",
+            "value": "1520-30 CE"
+        },
+        {
+            "label": "Location",
+            "value": "Mathura"
+        },
+        {
+            "label": "Medium",
+            "value": "Opaque watercolor and ink on paper"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "Image: 17.78 x 24.13 cm \r\nSheet: 18.42 x 24.13 cm"
+        },
+        {
+            "label": "Notes",
+            "value": "BP X.12"
+        },
+        {
+            "label": "Publications",
+            "value": "Rosenfield, John.  The Arts of India and Nepal: The Nasli and Alice Heeramaneck Collection.  Boston:  Museum of Fine Arts, Boston, 1966.\r\n\r\nPal, Pratapaditya. Indian Painting, vol.1. Los Angeles: Los Angeles County Museum of Art, 1993."
+        },
+        {
+            "label": "Sequential Order",
+            "value": "056"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/56/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

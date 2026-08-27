@@ -1,0 +1,104 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/142/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Coronation of Ugrasena",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/142/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/142/canvas.json",
+                    "label": "Coronation of Ugrasena",
+                    "@type": "sc:Canvas",
+                    "width": 1980,
+                    "height": 1354,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/146/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/c26ccc73f2383c240973fa6e9f6a4b2f.png",
+                                "@type": "dctypes:Image",
+                                "format": "image/png",
+                                "width": 1980,
+                                "height": 1354,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/c26ccc73f2383c240973fa6e9f6a4b2f.png",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/142/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/142\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Coronation of Ugrasena"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.sothebys.com/en/auctions/ecatalogue/2002/important-indian-miniatures-from-the-paul-f-walter-collection-n07846/lot.14.html"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.45.12-13"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Beach? Ehnbom 2011, p. 79"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/142/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/142\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Coronation of Ugrasena"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.sothebys.com/en/auctions/ecatalogue/2002/important-indian-miniatures-from-the-paul-f-walter-collection-n07846/lot.14.html"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.45.12-13"
+        },
+        {
+            "label": "Publications",
+            "value": "Beach? Ehnbom 2011, p. 79"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "142"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/142/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

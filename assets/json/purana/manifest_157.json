@@ -1,0 +1,93 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/157/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "King Yudhishthira and companions proceed for ritual ablutions",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/157/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/157/canvas.json",
+                    "label": "King Yudhishthira and companions proceed for ritual ablutions",
+                    "@type": "sc:Canvas",
+                    "width": 0,
+                    "height": 0,
+                    "images": [],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/157\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "King Yudhishthira and companions proceed for ritual ablutions"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Museum Reitberg Zurich"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "RVI 915"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.74 (?)"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Beach 2011 p. 79"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/157/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/157\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "King Yudhishthira and companions proceed for ritual ablutions"
+        },
+        {
+            "label": "Repository",
+            "value": "Museum Reitberg Zurich"
+        },
+        {
+            "label": "Accession Number",
+            "value": "RVI 915"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.74 (?)"
+        },
+        {
+            "label": "Publications",
+            "value": "Beach 2011 p. 79"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "157"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/157/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/143/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "The widows of Kamsa approach Jarasandha for aid",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/143/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/143/canvas.json",
+                    "label": "The widows of Kamsa approach Jarasandha for aid",
+                    "@type": "sc:Canvas",
+                    "width": 0,
+                    "height": 0,
+                    "images": [],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/143\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "The widows of Kamsa approach Jarasandha for aid"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "Present Location Unknown (formerly in the collection of Paul Walter, NY)"
+                        },
+                        {
+                            "label": "Text",
+                            "value": "BP X.50.1-3"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "Beach 2011 p. 79"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/143/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/143\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "The widows of Kamsa approach Jarasandha for aid"
+        },
+        {
+            "label": "Repository",
+            "value": "Present Location Unknown (formerly in the collection of Paul Walter, NY)"
+        },
+        {
+            "label": "Text",
+            "value": "BP X.50.1-3"
+        },
+        {
+            "label": "Publications",
+            "value": "Beach 2011 p. 79"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "143"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/143/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

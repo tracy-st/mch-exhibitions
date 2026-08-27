@@ -1,0 +1,104 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/158/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Krishna and Balarama in discourse",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/158/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/158/canvas.json",
+                    "label": "Krishna and Balarama in discourse",
+                    "@type": "sc:Canvas",
+                    "width": 640,
+                    "height": 477,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/158/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/e210ef538b07d21c643da44d0cd3f861.jpeg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 640,
+                                "height": 477,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/e210ef538b07d21c643da44d0cd3f861.jpeg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/158/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/158\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Krishna and Balarama in discourse"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "https://www.bonhams.com/auctions/20479/lot/55/"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Private Collection\r\nAcquired from Doris Wiener in the 1980s"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.1 x 22.9 cm"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/158/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/158\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Krishna and Balarama in discourse"
+        },
+        {
+            "label": "Link",
+            "value": "https://www.bonhams.com/auctions/20479/lot/55/"
+        },
+        {
+            "label": "Provenance",
+            "value": "Private Collection\r\nAcquired from Doris Wiener in the 1980s"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.1 x 22.9 cm"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "158"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/158/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}

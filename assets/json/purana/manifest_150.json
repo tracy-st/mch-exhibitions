@@ -1,0 +1,136 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/150/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Arrival of Krishna and Satyabhama at Pragjyotishapura",
+    "sequences": [
+        {
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/150/sequence.json",
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/150/canvas.json",
+                    "label": "Arrival of Krishna and Satyabhama at Pragjyotishapura",
+                    "@type": "sc:Canvas",
+                    "width": 0,
+                    "height": 0,
+                    "images": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/152/anno.json",
+                            "motivation": "sc:painting",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/17dbc34ab32319b2c9d96a9b9703caa4.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 0,
+                                "height": 0,
+                                "service": {
+                                    "@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/17dbc34ab32319b2c9d96a9b9703caa4.jpg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/150/canvas.json"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Record in Omeka",
+                            "value": "<a href=\"/items/show/150\">View page</a>"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Arrival of Krishna and Satyabhama at Pragjyotishapura"
+                        },
+                        {
+                            "label": "Link",
+                            "value": "http://collection.sdmart.org/Obj5682?sid=7872&x=42109&port=2855"
+                        },
+                        {
+                            "label": "Repository",
+                            "value": "San Diego Museum of Art"
+                        },
+                        {
+                            "label": "Accession Number",
+                            "value": "1990.581"
+                        },
+                        {
+                            "label": "Provenance",
+                            "value": "Heeramaneck Galleries, New York, New York ( - April 29, 1965 )\r\nEdwin Binney 3rd, San Diego, California ( April 29, 1965 - August 27, 1990 )\r\nSan Diego Museum of Art, San Diego, California ( August 27, 1990 - )"
+                        },
+                        {
+                            "label": "Size (H x W cm)",
+                            "value": "17.3 cm x 23.3 cm"
+                        },
+                        {
+                            "label": "Publications",
+                            "value": "William George Archer, OBE, MA, D.Litt.. Rajput Miniatures,. Portland Art Museum. Portland, Oregon , 1968. Page Number: 1-2, 4, 5. Figure Number: 1c\r\nIndian and Southeast Asian Art. Christie's. New York, New York , March 27, 2003. Page Number: 166.\r\nMr. Daniel J. Ehnbom. Indian Miniatures:. Hudson Hills Press. New York, New York , 1985. Page Number: 52.\r\nIndian and Southeast Asian Art,. Christie's. New York, New York , September 23, 2004. Page Number: 116 lot no. 164.\r\nIndian & Southeast Asian Art,. Sotheby's. New York, New York , September 24, 2004. Page Number: 98 Lot no. 105.\r\nBrijinder Nath Goswamy and Dr. Caron Smith. Domains of Wonder:. San Diego Museum of Art. San Diego, California , 2005. Page Number: 50, 51. Figure Number: 11\r\nDr. Milo Cleveland Beach and Brijinder Nath Goswamy. Masters of Indian Painting: 1100-1650. Artibus Asiae Publishers. Zurich , 2011. Page Number: 79. Figure Number: fig 11, p. 85\r\nMs. Marika Sardar and Ms Neeraja Poddar. Epic Tales from Ancient India. San Diego Museum of Art. San Diego, California , 2016. Page Number: 34. Figure Number: fig. 12"
+                        },
+                        {
+                            "label": "Exhibition History",
+                            "value": "Rajput Miniatures from the Collection of Edwin Binney, 3rd, The Portland Art Association, 9/24/1968 - 12/14/1969\r\nMyths, Monsters, Maharajas: Introducing the Binney Collection, San Diego Museum of Art, 11/23/1991 - 1/26/1992\r\nDomains of Wonder: Selected Masterworks of Indian Painting, San Diego Museum of Art, 10/22/2005 - 1/27/2008"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/150/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Record in Omeka",
+            "value": "<a href=\"/items/show/150\">View page</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Arrival of Krishna and Satyabhama at Pragjyotishapura"
+        },
+        {
+            "label": "Link",
+            "value": "http://collection.sdmart.org/Obj5682?sid=7872&x=42109&port=2855"
+        },
+        {
+            "label": "Repository",
+            "value": "San Diego Museum of Art"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1990.581"
+        },
+        {
+            "label": "Provenance",
+            "value": "Heeramaneck Galleries, New York, New York ( - April 29, 1965 )\r\nEdwin Binney 3rd, San Diego, California ( April 29, 1965 - August 27, 1990 )\r\nSan Diego Museum of Art, San Diego, California ( August 27, 1990 - )"
+        },
+        {
+            "label": "Size (H x W cm)",
+            "value": "17.3 cm x 23.3 cm"
+        },
+        {
+            "label": "Publications",
+            "value": "William George Archer, OBE, MA, D.Litt.. Rajput Miniatures,. Portland Art Museum. Portland, Oregon , 1968. Page Number: 1-2, 4, 5. Figure Number: 1c\r\nIndian and Southeast Asian Art. Christie's. New York, New York , March 27, 2003. Page Number: 166.\r\nMr. Daniel J. Ehnbom. Indian Miniatures:. Hudson Hills Press. New York, New York , 1985. Page Number: 52.\r\nIndian and Southeast Asian Art,. Christie's. New York, New York , September 23, 2004. Page Number: 116 lot no. 164.\r\nIndian & Southeast Asian Art,. Sotheby's. New York, New York , September 24, 2004. Page Number: 98 Lot no. 105.\r\nBrijinder Nath Goswamy and Dr. Caron Smith. Domains of Wonder:. San Diego Museum of Art. San Diego, California , 2005. Page Number: 50, 51. Figure Number: 11\r\nDr. Milo Cleveland Beach and Brijinder Nath Goswamy. Masters of Indian Painting: 1100-1650. Artibus Asiae Publishers. Zurich , 2011. Page Number: 79. Figure Number: fig 11, p. 85\r\nMs. Marika Sardar and Ms Neeraja Poddar. Epic Tales from Ancient India. San Diego Museum of Art. San Diego, California , 2016. Page Number: 34. Figure Number: fig. 12"
+        },
+        {
+            "label": "Exhibition History",
+            "value": "Rajput Miniatures from the Collection of Edwin Binney, 3rd, The Portland Art Association, 9/24/1968 - 12/14/1969\r\nMyths, Monsters, Maharajas: Introducing the Binney Collection, San Diego Museum of Art, 11/23/1991 - 1/26/1992\r\nDomains of Wonder: Selected Masterworks of Indian Painting, San Diego Museum of Art, 10/22/2005 - 1/27/2008"
+        },
+        {
+            "label": "Sequential Order",
+            "value": "150"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/150/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}
